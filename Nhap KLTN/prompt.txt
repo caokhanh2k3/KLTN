@@ -1,0 +1,80 @@
+Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of AMZN stock.
+
+Provide your response in this format:
+
+Price Movement, which should be either Positive or Negative.
+Explanation, which should be in a single, short paragraph, combining insights from both fundamental news and technical indicators.
+Example Format:
+Facts:
+(Date)
+
+[Fundamental news and events related to AMZN, such as earnings reports, economic conditions, or company announcements.]
+Technical Indicators:
+SMA_5: [Value]
+EMA_5: [Value]
+MACD: [Value]
+MACD_SIGNAL: [Value]
+MACD_HIST: [Value]
+RSI: [Value]
+BB_UPPER: [Value]
+BB_LOWER: [Value]
+BB_MIDDLE: [Value]
+OBV: [Value]
+ADX: [Value]
+DMP: [Value]
+DMN: [Value]
+Price Movement: (Positive/Negative)
+Explanation:
+Combine fundamental analysis (news impact) with technical indicators to explain the likely price movement. Consider factors like momentum (MACD, RSI), trend strength (ADX, DMP/DMN), support/resistance (Bollinger Bands), and volume confirmation (OBV).
+Here are some examples:
+Facts: (2016-07-26)
+Apple reported Q3 2016 earnings: Revenue of $42.4 billion, beating expectations.
+Apple sold 40.4 million iPhones, 9.9 million iPads, and 4.2 million Macs during that quarter.
+Earnings beat expectations, causing the stock to rise by almost 5% in after-hours trading.
+Apple had $231.5 billion in cash reserves, strengthening financial stability.
+China sales declined 29% sequentially and 33% YoY.
+Services business (App Store, Apple Music, etc.) projected to be Fortune 500 size next year.
+Apple working on Project Titan (car project).
+Apple Pencil granted a patent for Mac's trackpad.
+Market weight rating reiterated by Wells Fargo, with a target price of $120.00.
+Technical Indicators:
+SMA_5: 101.5
+EMA_5: 102.2
+MACD: 1.8
+MACD_SIGNAL: 1.2
+MACD_HIST: 0.6
+RSI: 72
+BB_UPPER: 110
+BB_LOWER: 95
+BB_MIDDLE: 102.5
+OBV: 1,200,000,000
+ADX: 35
+DMP: 30
+DMN: 15
+Price Movement: Positive
+Explanation:
+Apple’s strong Q3 2016 earnings, exceeding revenue expectations and showing robust product sales, drove after-hours gains of nearly 5%. Additionally, its cash reserves of $231.5 billion underscored financial stability, supporting investor confidence. Despite China’s sales decline, the growing services segment and innovation efforts (Project Titan, Apple Pencil patents) signaled long-term growth potential.
+From a technical standpoint, MACD > MACD_SIGNAL and a positive MACD_HIST confirm strong bullish momentum. RSI at 72 indicates the stock is approaching overbought territory but still has room for short-term gains. ADX at 35 suggests a strong trend, reinforced by DMP > DMN, indicating bullish strength. The stock is trading near BB_MIDDLE with upside potential toward BB_UPPER (110). OBV remains high, signaling strong accumulation.
+These fundamental and technical factors together support a positive price movement, with a strong bullish trend likely to continue in the short term.
+
+(END OF EXAMPLES)
+
+
+Facts: (2020-04-02)
+Amazon (AMZN) recently banned the sale of N95 and surgical masks to the general public.
+Amazon has already filled 80,000 of the 100,000 jobs it announced last month.
+Technical Indicators:
+SMA_5: 1,940
+EMA_5: 1,945
+MACD: 15
+MACD_SIGNAL: 10
+MACD_HIST: 5
+RSI: 65
+BB_UPPER: 2,000
+BB_LOWER: 1,850
+BB_MIDDLE: 1,925
+OBV: 3,200,000,000
+ADX: 30
+DMP: 28
+DMN: 18
+Price Movement:
