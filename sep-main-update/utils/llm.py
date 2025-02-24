@@ -19,7 +19,25 @@ api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
 print(api_key)
 
-#============================================================================
+#===========================================================================================================
+import ollama
+
+class DeepSeekLLM:
+    def __init__(self, model="deepseek-r1"):
+        self.model = model
+
+    def __call__(self, prompt):
+        response = ollama.chat(model=self.model, messages=[{"role": "user", "content": prompt}])
+        content = response["message"]["content"]
+        
+        # Cắt từ vị trí của </think>
+        if "</think>" in content:
+            content = content.split("</think>", 1)[-1].strip()
+        
+        return content
+    
+
+#===========================================================================================================
 
 
 class OpenAILLM:

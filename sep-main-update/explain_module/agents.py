@@ -1,5 +1,5 @@
 from typing import List, Union, Literal
-from utils.llm import OpenAILLM, NShotLLM #, FastChatLLM
+from utils.llm import OpenAILLM, NShotLLM, DeepSeekLLM #, FastChatLLM
 from utils.prompts import REFLECT_INSTRUCTION, PREDICT_INSTRUCTION, PREDICT_REFLECT_INSTRUCTION, REFLECTION_HEADER
 from utils.fewshots import PREDICT_EXAMPLES
 
@@ -10,7 +10,7 @@ class PredictAgent:
                  summary: str,
                  target: str,
                  technical_indicators: str,
-                 predict_llm = OpenAILLM()
+                 predict_llm = DeepSeekLLM()
                  ) -> None:
 
         self.ticker = ticker
@@ -68,8 +68,8 @@ class PredictReflectAgent(PredictAgent):
                  summary: str,
                  target: str,
                  technical_indicators: str = "",
-                 predict_llm = OpenAILLM(),
-                 reflect_llm = OpenAILLM()
+                 predict_llm = DeepSeekLLM(),
+                 reflect_llm = DeepSeekLLM()
                  ) -> None:
 
         super().__init__(ticker, summary, target, technical_indicators, predict_llm)
