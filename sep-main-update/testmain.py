@@ -89,7 +89,7 @@ dataloader = DataLoader(args)
 data = dataloader.load(flag="train")
 # print(data)
 # Lưu DataFrame vào tệp CSV
-# data.to_csv("data_sample2.csv", index=False)  # index=False để không lưu chỉ số dòng
+data.to_csv("data_sample21.csv", index=False)  # index=False để không lưu chỉ số dòng
 print("DataFrame đã được lưu vào 'data.csv'")
 
 #===========================================================================================================================================

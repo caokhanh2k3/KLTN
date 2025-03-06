@@ -1,4 +1,4 @@
-from utils.llm import OpenAILLM
+from utils.llm import OpenAILLM, DeepSeekLLM
 from utils.prompts import SUMMARIZE_INSTRUCTION
 from utils.fewshots import SUMMARIZE_EXAMPLES
 import tiktoken
@@ -8,15 +8,16 @@ class Summarizer:
     def __init__(self):
         self.summarize_prompt = SUMMARIZE_INSTRUCTION
         self.summarize_examples = SUMMARIZE_EXAMPLES
-        self.llm = OpenAILLM()
+        # self.llm = OpenAILLM()
+        self.llm = DeepSeekLLM()
         self.enc = tiktoken.encoding_for_model("gpt-3.5-turbo-16k")
 
     def get_summary(self, ticker, tweets):
         summary = None
         if tweets != []:
             print("tweets len = ", len(tweets))
-            if(len(tweets) > 4):
-                tweets = tweets[:4]
+            if(len(tweets) > 20):
+                tweets = tweets[:20]
 
             print("tweets len = ", len(tweets))
             
