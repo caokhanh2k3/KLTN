@@ -16,8 +16,8 @@ class Summarizer:
         summary = None
         if tweets != []:
             print("tweets len = ", len(tweets))
-            if(len(tweets) > 20):
-                tweets = tweets[:20]
+            if(len(tweets) > 4):
+                tweets = tweets[:4]
 
             print("tweets len = ", len(tweets))
             

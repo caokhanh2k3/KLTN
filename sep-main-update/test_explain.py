@@ -78,12 +78,12 @@ print('Args in experiment:')
 
 import pandas as pd
 # Đọc tệp CSV
-df_loaded = pd.read_csv("data_sample.csv")
+df_loaded = pd.read_csv("data_sample2.csv")
 
 # Hiển thị nội dung DataFrame
 print("Nội dung tệp CSV:")
 # print(df_loaded)
-df_loaded
+# df_loaded = df_loaded[:2]
 
 from explain_module.util import summarize_trial, remove_reflections, save_results#, save_agents
 from explain_module.agents import PredictReflectAgent
@@ -123,6 +123,7 @@ for trial in range(args.num_reflect_trials):
             response = agent.scratchpad.split('Price Movement: ')[-1]
             sample = {"user_input": prompt, "completion_a": prev_response, "completion_b": response}
             comparison_data.append(sample)
+            # print("ádnasikdnaskd")
     correct, incorrect = summarize_trial(agents)
     print(f'Finished Trial {trial+1}, Correct: {len(correct)}, Incorrect: {len(incorrect)}')
 os.makedirs(args.datasets_dir, exist_ok=True)

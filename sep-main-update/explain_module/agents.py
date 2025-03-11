@@ -3,6 +3,7 @@ from utils.llm import OpenAILLM, NShotLLM, DeepSeekLLM #, FastChatLLM
 from utils.prompts import REFLECT_INSTRUCTION, PREDICT_INSTRUCTION, PREDICT_REFLECT_INSTRUCTION, REFLECTION_HEADER
 from utils.fewshots import PREDICT_EXAMPLES
 
+# LLM_EXPLAIN = OpenAILLM()
 
 class PredictAgent:
     def __init__(self,
@@ -10,7 +11,7 @@ class PredictAgent:
                  summary: str,
                  target: str,
                  technical_indicators: str,
-                 predict_llm = DeepSeekLLM()
+                 predict_llm = OpenAILLM()
                  ) -> None:
 
         self.ticker = ticker
@@ -68,8 +69,8 @@ class PredictReflectAgent(PredictAgent):
                  summary: str,
                  target: str,
                  technical_indicators: str = "",
-                 predict_llm = DeepSeekLLM(),
-                 reflect_llm = DeepSeekLLM()
+                 predict_llm = OpenAILLM(),
+                 reflect_llm = OpenAILLM()
                  ) -> None:
 
         super().__init__(ticker, summary, target, technical_indicators, predict_llm)

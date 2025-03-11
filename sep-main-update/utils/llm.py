@@ -17,7 +17,8 @@ load_dotenv()
 # Lấy API Key từ biến môi trường
 api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
-print(api_key)
+print("api_key: ", api_key)
+
 
 #===========================================================================================================
 import ollama
