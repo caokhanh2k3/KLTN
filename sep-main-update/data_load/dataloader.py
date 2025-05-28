@@ -9,7 +9,7 @@ class DataLoader:
         self.price_dir = args.price_dir
         self.tweet_dir = args.tweet_dir
         self.seq_len = args.seq_len
-        self.summarizer = Summarizer()
+        self.summarizer = Summarizer(args.llm_summarize)
 
 
     def daterange(self, start_date, end_date):

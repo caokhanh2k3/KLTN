@@ -17,6 +17,10 @@ parser.add_argument("--price_dir", type=str, default="data/sample_price/preproce
 parser.add_argument("--tweet_dir", type=str, default="data/sample_tweet/raw/")
 parser.add_argument("--seq_len", type=int, default=5)
 
+parser.add_argument("--technical_indicator_dir", type=str, default="data/sample_price/technical_indicator/") #****
+parser.add_argument("--llm_summarize", type=str, default="OpenAILLM") #**** # OpenAILLM // DeepSeekLLM
+
+
 # supervised finetuning
 parser.add_argument("--wandb", action="store_true", default=False)
 parser.add_argument("--data_path", type=str, default="./data/merge_sample.json")

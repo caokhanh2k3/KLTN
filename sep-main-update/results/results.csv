@@ -1,0 +1,185 @@
+Prompt,Response,Target
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of AMZN stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2021-12-05
+Amazon (AMZN) is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes.
+AMZN was listed as one of the top trending stocks on Fintwit.
+The top 5 bullish trends on the FTX exchange included $AMZN.
+One tweet mentioned how disruptive companies like AMZN, AAPL, and TSLA were not profitable in the early years.
+Another tweet highlighted the potential for significant profit through trading AMZN stock.
+Overall, the tweets indicate positive sentiment and interest in AMZN stock.
+
+2021-12-06
+$AMZN stock is currently pulling back against the 2019 low and failed to make new all-time highs on a recent rally. It is showing only 3 waves higher from the 8/19 lows, favoring a move lower and potentially breaking the 8/20 low.
+There was positive sentiment around $AMZN, with some users sharing successful trades related to the stock.
+$AMZN was included in various stock lists and options flow streams, indicating investor interest and activity in the stock.
+There was news that Meta (formerly Facebook) selected Amazon AWS as a key, long-term strategic cloud provider.
+An article was written suggesting that Ford stock is an ideal long-term electric vehicle investment, potentially impacting $AMZN and other EV-related stocks.
+There were discussions and analyses around the stock market bubble, with mentions of FAAMG (Facebook, Apple, Amazon, Microsoft, Google) stocks being overvalued, particularly $AMZN.
+Tickers like $AIEQ, $NVDA, $BOTZ, $ABB, $FANUY, $MSFT, $TLSA were mentioned alongside $AMZN in relation to artificial intelligence.
+There was market discussion and analyses for 12/06 around $AMZN, along with other major stocks like $AAPL, $AFRM, $AMD, $GOOGL, and $SHOP.
+Overall, there was a mix of trading strategies, investment ideas, market analyses, and news related to $AMZN in the tweets provided.
+
+2021-12-07
+Amazon (AMZN) experienced an outage on its AWS service that impacted various services, including Amazon and Disney+.
+Recent market fluctuations have indicated that the December 2021 correction caused by Omicron and the Fed Taper is over for companies like Microsoft (MSFT), Apple (AAPL), Google (GOOGL), Facebook (FB), Amazon (AMZN), and Tesla (TSLA).
+There is a diverse range of other stocks being discussed and traded, including Ocugen (OCGN), Kulr (KULR), BRFI (BFRI), and others.
+An options flow stream update includes discussions on various stocks like Apple (AAPL), Amazon (AMZN), Tesla (TSLA), Disney (DIS), and others.
+There is also discussion about blockchain-authenticated sharing of genomic and clinical outcomes data for cancer patients, which involves companies like Lilly (LLY), Berkshire Hathaway (BRKA), Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), and Google (GOOGL).
+Gamestop traders are advised to mark a specific date on their calendars, with a particular focus on stock market movements and specific stock mentions for companies like Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), Facebook (FB), Nvidia (NVDA), and Google (GOOG).
+There is also information about Rivian (RIVN) receiving financial backing from Amazon (AMZN) and Lucid Motors (LCID) providing Alexa technology despite not needing financial support.
+Day trading activities and successful trades are highlighted, with mentions of Pfizer (PFE) and other popular stocks like Tesla (TSLA), Apple (AAPL), S&P 500 ETF (SPY), Ethereum (ETH), Bitcoin (BTC), and others.
+Overall, the tweets cover a wide range of information related to Amazon (AMZN) stock, market trends, trading strategies, and company developments.
+
+2021-12-08
+- According to Warren Buffett's intrinsic value formula, AMZN stock is overvalued by 1,257% compared to its intrinsic value.
+- Amazon experienced network device issues that caused an outage, but they have since been resolved.
+- The top stocks over the past 24 hours on social media include AMZN along with other companies like AAPL, TSLA, GME, NVDA, and AMD.
+- AWS, Amazon's cloud service, opened a second ""ultrasecret"" region for government clients in the US.
+- Complaints have been filed against Amazon for deceptive ads in search results, leading to a new complaint to the FTC.
+- Amazon is predicted to become the largest delivery service in the US by 2022.
+- Popular options trading volume includes AMZN alongside other companies like TSLA, RKT, CRZR, NKE, and AMD.
+
+2021-12-09
+Amazon (AMZN) was fined $1.28 billion by Italy's antitrust watchdog for alleged abuse of market dominance.
+Amazon Web Services (AWS) is in discussions to open a data center in Mexico.
+A trade idea for AMZN stock was shared with a potential bullish move if the $3550 level is broken.
+AMZN CEO mentioned that the company had to double its fulfillment center network in the last 18 to 24 months due to increased demand.
+There is ongoing excitement and discussion about AMZN stock on social media platforms.
+
+Technical Indicators:
+SMA_5: 174.01
+EMA_5: 173.63
+MACD: 0.05
+MACD_SIGNAL: 0.69
+MACD_HIST: -0.64
+RSI: 38.88
+BB_UPPER: 183.84
+BB_LOWER: 168.72
+BB_MIDDLE: 176.28
+OBV: 2,982,766,000.0
+ADX: 17.52
+DMP: 16.03
+DMN: 24.97
+
+Price Movement:"," Positive
+Explanation: Amazon's strong fourth-quarter performance, driven by increased demand for its products, resulted in a 10.2% increase in after-hours trading. Additionally, the stock's strong technical indicators suggest a bullish trend, with RSI at 38.88 indicating a potential overbought signal but with room for short-term gains. The OBV is 2.98 billion, indicating strong buy pressure. The ADX at 17.52 suggests a strong upward trend, with DMN at 24.97 indicating a bullish strength. The MACD signal is above MACD_SIGNAL, and a negative MACD_HIST confirms this positive trend.
+
+END OF EXAMPLES
+
+Facts:
+2021-12-03
+Amazon (AMZN) is a leading global company in e-commerce, with strong customer base and a loyal customer base. The company has implemented a tiered pricing model, offering free shipping for the first month, a subscription box for the next, and a full subscription box for the following month. The company's customer retention rate has been high, with an increase in orders and sales compared to the previous year.
+
+2021-12-04
+Amazon (AMZN) is a global leader in cloud services, offering a wide range of services like AWS, Azure, and Google Cloud. The company's customer retention rate has been high, with an increase in orders and sales compared to the previous year. The company's product portfolio includes a wide range of products, and the customer base is well-established. Amazon has been a leader in cloud services for many years, with a strong customer base and a loyal customer base.
+
+2021-12-05
+Amazon (AMZN) is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes.
+
+2021-12-06
+Amazon (AMZN) is showing positive sentiment towards its stock, as more users are sharing successful trades, and the stock is trading at a high volume.
+
+2021-12-07
+Amazon (AMZN) experienced an outage on its AWS service that impacted various services, including Amazon and Disney+.
+
+2021-12-08
+Warren Buffett's intrinsic value suggests that AMZN stock is overvalued by 1,257% compared to its intrinsic value.
+
+2021-12-09
+Amazon (AMZN) was fined $1.28 billion by Italy's antitrust watchdog for alleged abuse of market dominance.
+
+2021-12-10
+Amazon (AMZN) is a global leader in e-commerce and cloud services, with strong customer base and a loyal customer base. The company has been improving its product offerings and customer retention rates. Amazon has been a leader in e-commerce for many years, with a strong customer base and a loyal customer base. Additionally, the company is a global leader in cloud services, with a wide range of services like AWS, Azure, and Google Cloud. The customer base is well-established, and the company has been improving its product portfolio and customer retention rates.
+
+2021-12-11
+Amazon (AMZN) is a global leader in cloud services and e-commerce. The company has been improving its product offerings and customer retention rates. It has been a leader in cloud services for many years, with a strong customer base and a loyal customer base. Amazon has been a global leader in e-commerce for many years, with a strong customer base and a loyal customer base. The company has been improving its product portfolio and customer retention rates.
+
+2021-12-12
+Amazon (AMZN) is showing positive sentiment towards its stock, as more users are sharing successful trades, and the stock is trading at a high volume.
+
+2021-12-13
+Amazon (AMZN) experienced an outage on its AWS service that impacted various services, including Amazon and Disney+.
+
+2021-12-14
+Amazon (AMZN) is a global leader in e-commerce and cloud services, with strong customer base and a loyal customer base. The company has been improving its product offerings and customer retention rates. The company has been a global leader in cloud services for many years, with a strong customer base and a loyal customer base. Additionally, the company has been improving its product portfolio and customer retention rates, as well as a global leader in e-commerce for many years.
+
+2021-12-15
+Amazon (AMZN) is a global leader in e-commerce and cloud services, with strong customer base and a loyal customer base. The company has been improving its product offerings and customer retention rates. The company has been a global leader in cloud services for many years, with a strong customer base and a loyal customer base. Additionally, the company has been improving its product portfolio and customer",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of AMZN stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2021-12-29
+- Amazon's stock symbol is $AMZN.
+- Some bullish trends for AMZN were noted in Futures and USD stocks.
+- The stock price for AMZN experienced some fluctuations, ending with a slight decrease of 0.78 for the day.
+- Amazon was among the top 15 most mentioned stocks on WallStreetBets in the last 24 hours.
+- Amazon was reportedly considering pay raises amidst a potential ""talent exodus.""
+- Baird picked Amazon as one of the top Internet picks for 2022.
+- There was a call to buy Dec 31, 2021, $3080.00 Calls for AMZN with a potential ROI of 24%.
+- Overall, there was some mixed sentiment and activity surrounding AMZN stock in the analyzed tweets.
+
+2021-12-30
+- Amazon's stock symbol is $AMZN.
+- The stock was mentioned frequently in the tweets, indicating high interest and trading activity.
+- There were discussions about price forecasts and options trading related to $AMZN.
+- A tweet highlighted Amazon's involvement in deforestation in Brazil's Amazon.
+- There were mentions of bullish forecasts and discussions about specific price levels for $AMZN.
+- The stock was part of active equity options trading alongside other popular stocks like Tesla, Apple, and Microsoft.
+- The company was referenced in comparison to Rivian in terms of vehicle deliveries for Amazon.
+
+2021-12-31
+- The tweets discuss various aspects of trading and investing in options with the stock ticker $AMZN (Amazon).
+- There are mentions of buying calls and potential ROIs for Amazon stock.
+- Analysts and traders discuss their predictions and recommendations for Amazon's performance in the future.
+- The tweets also mention other popular stocks and their performance in 2021, comparing them to Amazon.
+- Market analysis discussions and predictions for Amazon's stock price movement are also included in the tweets.
+
+2022-01-01
+In 2021, $AMZN had a relatively low performance compared to other tech giants like Apple, Microsoft, and Google, with just a 2% increase in stock value.
+Investors are still interested in FAANG stocks, with a focus on $GOOG, $MSFT, and $AAPL, while some money is shifting towards $FB and $AMZN.
+$AMZN's stock price is currently in a tight monthly range, indicating a potential upcoming parabolic move.
+Some investors believe that $AMZN will perform well in 2022.
+Overall, $AMZN's performance and potential future growth are being closely monitored by investors.
+
+2022-01-02
+- $AMZN is not a retailer but a services company, according to a tweet.
+- There is a call option recommendation for January 07, 2022, with specific entry and exit prices, stop loss, potential return on investment, and estimated hold time.
+- Jeff Bezos, the founder of Amazon, was mentioned in a tweet discussing his post-divorce lifestyle.
+- There is speculation about which companies will add Bitcoin to their balance sheets, with Amazon ($AMZN) being one of the potential candidates.
+- In a list of top performing stocks for 2021, $AMZN had a 2.4% increase.
+- Recent scan results show $AMZN as one of the top 5 bullish trend (#USD stocks) on the FTX exchange.
+- Technical analysis charts indicate potential volatility and market movement for $AMZN in the upcoming weeks.
+- $AMZN is among the top trending stocks on FinTwit alongside other big tech companies like Tesla ($TSLA) and Apple ($AAPL).
+- The GAFAM stocks (Google, Amazon, Facebook, Apple, Microsoft) were listed with their current stock prices.
+- Recent data shows $AMZN as one of the top trending stocks on FinTwit, along with other companies like Bitcoin and Pfizer.
+- Analysis of retail giants $SHOP, $WMT, and $AMZN was mentioned in a tweet.
+- Mention of Jeff Bezos selling a significant amount of $AMZN shares while the company's performance was not as strong as other big tech companies.
+- Current count of social media mentions for $AMZN compared to other popular tickers like $TSLA, $AAPL, $NIO, $MSFT, $FB, and $NVDA.
+
+Technical Indicators:
+SMA_5: 169.13
+EMA_5: 169.2
+MACD: -1.23
+MACD_SIGNAL: -1.11
+MACD_HIST: -0.12
+RSI: 55.74
+BB_UPPER: 175.81
+BB_LOWER: 165.78
+BB_MIDDLE: 170.79
+OBV: 2,993,790,000.0
+ADX: 11.38
+DMP: 17.18
+DMN: 18.45
+
+Price Movement:","Positive
+Explanation: Amazon's strong Q3 performance, strong cash reserves, and innovation projects indicate a positive price movement.
+
+---
+
+(13) Price Movement:",Positive

@@ -19,6 +19,7 @@ parser.add_argument("--tweet_dir", type=str, default="data/sample_tweet/raw/")
 parser.add_argument("--seq_len", type=int, default=5)
 
 parser.add_argument("--technical_indicator_dir", type=str, default="data/sample_price/technical_indicator/") #****
+parser.add_argument("--llm_summarize", type=str, default="OpenAILLM") #**** # OpenAILLM // DeepSeekLLM
 
 
 # supervised finetuning
@@ -88,9 +89,12 @@ print("Loading Train Agents...")
 dataloader = DataLoader(args)
 data = dataloader.load(flag="train")
 # print(data)
+
+
 # Lưu DataFrame vào tệp CSV
-data.to_csv("data_sample21.csv", index=False)  # index=False để không lưu chỉ số dòng
-print("DataFrame đã được lưu vào 'data.csv'")
+path = args.llm_summarize + "_data_train_sample.csv"
+data.to_csv(path, index=False)  # index=False để không lưu chỉ số dòng
+print(f"DataFrame đã được lưu vào '{path}'")
 
 #===========================================================================================================================================
 # from explain_module.util import summarize_trial, remove_reflections, save_results#, save_agents

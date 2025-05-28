@@ -5,19 +5,24 @@ import tiktoken
 import re
 
 class Summarizer:
-    def __init__(self):
+    def __init__(self, llm_summarize):
         self.summarize_prompt = SUMMARIZE_INSTRUCTION
         self.summarize_examples = SUMMARIZE_EXAMPLES
+        self.llm_summarize = llm_summarize
+
         self.llm = OpenAILLM()
-        # self.llm = DeepSeekLLM()
+        if(self.llm_summarize == "DeepSeekLLM"):
+            self.llm = DeepSeekLLM()
+
         self.enc = tiktoken.encoding_for_model("gpt-3.5-turbo-16k")
 
     def get_summary(self, ticker, tweets):
         summary = None
         if tweets != []:
-            print("tweets len = ", len(tweets))
-            if(len(tweets) > 20):
-                tweets = tweets[:20]
+
+            # print("tweets len = ", len(tweets))
+            # if(len(tweets) > 20):
+            #     tweets = tweets[:20]
 
             print("tweets len = ", len(tweets))
             
@@ -27,21 +32,21 @@ class Summarizer:
                                     examples = self.summarize_examples,
                                     tweets = "\n".join(tweets))
 
-            # while len(self.enc.encode(prompt)) > 16385:
-            #     tweets = tweets[:-1]
-            #     prompt = self.summarize_prompt.format(
-            #                             ticker = ticker,
-            #                             examples = self.summarize_examples,
-            #                             tweets = "\n".join(tweets))
-            #     print("tiktok==========================")
+            summary = ""
+            if (self.llm_summarize == "DeepSeekLLM"):
+                # print("self.llm_summarize == DeepSeekLLM")
+                summary = self.llm(prompt)
+            else: # self.llm_summarize == "OpenAILLM"
+                print("self.llm_summarize == OpenAILLM")
+                print(len(self.enc.encode(prompt)))
+                while len(self.enc.encode(prompt)) > 16385:
+                    tweets = tweets[:-1]
+                    prompt = self.summarize_prompt.format(
+                                            ticker = ticker,
+                                            examples = self.summarize_examples,
+                                            tweets = "\n".join(tweets))
 
-            summary = self.llm(prompt)
-            # print(prompt)
-
-            # print("tweets")
-            # print(tweets)
-            # print("summary")
-            # print(summary)
+                summary = self.llm(prompt)
 
         return summary
 

@@ -1,0 +1,10 @@
+# Bỏ qua thư mục venv và file .pyc
+venv/
+__pycache__/
+*.pyc
+
+# Bỏ qua file môi trường
+.env
+
+# Bỏ qua file log
+*.log

@@ -17,7 +17,7 @@ load_dotenv()
 # Lấy API Key từ biến môi trường
 api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
-print("api_key: ", api_key)
+# print("api_key: ", api_key)
 
 
 #===========================================================================================================
@@ -89,7 +89,8 @@ class NShotLLM:
 
     def __call__(self, prompt):
         query = self.tokenizer.encode(prompt, return_tensors="pt")
-        queries = query.repeat((self.num_shots, 1))
+        device = next(self.model.parameters()).device  # Lấy device đúng
+        queries = query.repeat((self.num_shots, 1)).to(device)
         output_ids = self.model.generate(
             queries,
             do_sample=True,
