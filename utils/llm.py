@@ -24,7 +24,7 @@ print("api_key: ", api_key)
 import ollama
 
 class DeepSeekLLM:
-    def __init__(self, model="deepseek-r1"):
+    def __init__(self, model="deepseek-r1:14b"):
         self.model = model
 
     def __call__(self, prompt):
@@ -34,6 +34,8 @@ class DeepSeekLLM:
         # Cắt từ vị trí của </think>
         if "</think>" in content:
             content = content.split("</think>", 1)[-1].strip()
+        if "<think>" in content:
+            content = content.split("<think>", 1)[-1].strip()
         
         return content
     

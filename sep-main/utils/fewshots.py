@@ -122,26 +122,15 @@ Google spent heavily on cloud and YouTube, leading to an earnings miss.
 """
 
 
-PREDICT_EXAMPLES = """Facts:
-2016-07-26
-Apple reported Q3 2016 earnings: Revenue of $42.4 billion, beating expectations. They sold 40.4 million iPhones, 9.9 million iPads, and 4.2 million Macs during that quarter.
-Apple's earnings beat expectations, causing the stock to rise by almost 5% in after-hours trading.
-Apple had $231.5 billion in cash reserves, enough to potentially acquire companies like Uber, Tesla, Twitter, Airbnb, Netflix, Snapchat, and SpaceX and still have billions left.
-Apple's China sales were down around 29% sequentially and 33% YoY.
-Despite declining unit sales, Apple's revenue was boosted by more expensive iPad Pro models.
-Apple Pay accounted for 3/4 of contactless payments in the US.
-Apple's services business (App Store, Apple Music, etc.) was projected to be the size of a Fortune 500 company in the next year.
-Apple was reported to be working on a car project called Project Titan, with Bob Mansfield leading it.
-The Apple Pencil was granted a patent to work with a Mac's trackpad.
-Apple faced declining iPhone sales, but the company focused on promoting apps and services.
-The stock price experienced fluctuations after the earnings report, with significant after-hours gains.
-Apple's market weight rating was reiterated by Wells Fargo, with a target price of $120.00.
+PREDICT_EXAMPLES = """Facts: 
+2016-04-24
+Market anticipation increased ahead of Apple’s Q2 earnings, with analysts warning of weak iPhone demand and possible revenue decline.
+News outlets speculated that Apple might post its first year-over-year revenue drop in over a decade.
 
-Price Movement: Positive
+2016-04-25
+Apple's stock dipped slightly as investors grew cautious.
+Reports emerged that Apple had reduced supplier orders, reinforcing expectations of lower iPhone sales.
 
-Explanation: Apple reported strong Q3 2016 earnings, surpassing revenue expectations and delivering robust sales figures across its product lines, including iPhones, iPads, and Macs. This performance exceeded market projections and triggered a nearly 5% increase in the stock's after-hours trading. Additionally, Apple's substantial cash reserves of $231.5 billion, capable of facilitating major acquisitions, demonstrated the company's financial stability and growth potential. Despite challenges in China, Apple's diverse revenue sources, including higher-priced iPad Pro models and the dominant Apple Pay in US contactless payments, contributed positively to its overall Price Movement. The promising growth trajectory of Apple's services business added further optimism. While facing declining iPhone sales, Apple's strategic focus on promoting apps and services reflected adaptability in response to changing market dynamics. The consistent support from Wells Fargo with a reiterated market weight rating and target price also reinforced investor confidence. The stock's fluctuations were notable but aligned with the positive earnings report, showcasing the market's responsiveness to Apple's performance.
-
-Facts:
 2016-04-26
 Apple reported its Q2 2016 earnings, missing both profit and revenue estimates.
 Apple's revenue for the quarter was $50.56 billion, falling short of the estimated $52 billion.
@@ -156,5 +145,5 @@ Apple's stock price experienced a decline of around 4.8% in after-hours trading 
 
 Price Movement: Negative
 
-Explanation: Apple reported disappointing Q2 2016 earnings, missing both profit and revenue estimates. The company's revenue and adjusted earnings per share fell short of expectations, marking the first quarterly revenue decline in 13 years. iPhone sales, a cornerstone of Apple's business, experienced their first-ever decline since the product's debut in 2007. The weaker-than-expected guidance for the next quarter further dampened investor Price Movement. The CEO's acknowledgment of strong macroeconomic headwinds, particularly in China, indicated external challenges affecting the company's performance. Despite announcing plans to increase dividends and return more to shareholders, the stock price plunged around 4.8% in after-hours trading following the earnings report. Overall, these factors collectively indicate a negative Price Movement surrounding AAPL stock due to its underwhelming financial performance and market outlook.
+Explanation: In the days leading up to Apple’s Q2 2016 earnings report, investor sentiment turned cautious due to mounting speculation about slowing iPhone demand and weak sales in China. On April 24 and 25, multiple reports and analyst revisions fueled expectations of disappointing financial results. These concerns materialized on April 26 when Apple missed both revenue and profit targets. The company posted its first quarterly revenue decline in 13 years, with iPhone sales dropping for the first time since the product’s launch. Additionally, weak guidance for the next quarter further eroded market confidence. Although Apple attempted to reassure investors by raising its dividend and boosting shareholder returns, these measures were insufficient to offset the negative sentiment. As a result, the stock dropped nearly 5% in after-hours trading, reflecting the market's overall negative reaction to the report and its implications for future growth.
 """

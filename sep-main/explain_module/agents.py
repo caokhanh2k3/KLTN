@@ -1,5 +1,5 @@
 from typing import List, Union, Literal
-from utils.llm import OpenAILLM, NShotLLM #, FastChatLLM
+from utils.llm import OpenAILLM, NShotLLM, DeepSeekLLM #, FastChatLLM
 from utils.prompts import REFLECT_INSTRUCTION, PREDICT_INSTRUCTION, PREDICT_REFLECT_INSTRUCTION, REFLECTION_HEADER
 from utils.fewshots import PREDICT_EXAMPLES
 
