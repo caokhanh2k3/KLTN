@@ -3,6 +3,7 @@ from utils.prompts import SUMMARIZE_INSTRUCTION
 from utils.fewshots import SUMMARIZE_EXAMPLES
 import tiktoken
 import re
+from openai import BadRequestError  # Thêm để bắt lỗi context
 
 class Summarizer:
     def __init__(self, llm_summarize):
@@ -20,9 +21,9 @@ class Summarizer:
         summary = None
         if tweets != []:
 
-            # print("tweets len = ", len(tweets))
-            if(len(tweets) > 200):
-                tweets = tweets[:200]
+            # # print("tweets len = ", len(tweets))
+            if(len(tweets) > 175):
+                tweets = tweets[:175]
 
             print("tweets len = ", len(tweets))
             
@@ -32,7 +33,7 @@ class Summarizer:
                                     examples = self.summarize_examples,
                                     tweets = "\n".join(tweets))
 
-            summary = ""
+            # summary = ""
             if (self.llm_summarize == "DeepSeekLLM"):
                 print("self.llm_summarize == DeepSeekLLM")
                 summary = self.llm(prompt)
@@ -41,12 +42,29 @@ class Summarizer:
                 # print(len(self.enc.encode(prompt)))
                 # while len(self.enc.encode(prompt)) > 16385:
                 #     tweets = tweets[:-1]
-                prompt = self.summarize_prompt.format(
-                                        ticker = ticker,
-                                        examples = self.summarize_examples,
-                                        tweets = "\n".join(tweets))
+                # prompt = self.summarize_prompt.format(
+                #                         ticker = ticker,
+                #                         examples = self.summarize_examples,
+                #                         tweets = "\n".join(tweets))
 
                 summary = self.llm(prompt)
+            # while tweets:
+            #     try:
+            #         prompt = self.summarize_prompt.format(
+            #                         ticker = ticker,
+            #                         examples = self.summarize_examples,
+            #                         tweets = "\n".join(tweets))
+            #         summary = self.llm(prompt)
+            #         return summary  # Nếu thành công thì return luôn
+            #     except BadRequestError as e:
+            #         # Nếu lỗi là vượt token, cắt bớt 25 dòng
+            #         if "maximum context length" in str(e):
+            #             print(f"Prompt quá dài. Cắt bớt 25 dòng. Còn lại: {len(tweets) - 25}")
+            #             tweets = tweets[:-25]
+            #             continue
+            #         else:
+            #             raise e  # Nếu lỗi không phải context length thì raise lại
+            
 
         return summary
 
