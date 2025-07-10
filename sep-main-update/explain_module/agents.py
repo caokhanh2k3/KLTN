@@ -32,10 +32,20 @@ class PredictAgent:
 
         facts = "Facts:\n" + self.summary + "\n\nTechnical Indicators:\n" + self.technical_indicators + "\n\nPrice Movement: "
         self.scratchpad += facts
-        print(facts, end="")
+        # print(facts, end="")
 
         self.scratchpad += self.prompt_agent()
         response = self.scratchpad.split('Price Movement: ')[-1]
+        if (self.prediction.lower() not in ['positive', 'negative']):
+            for word in response.split('Explanation')[0].split():
+                word_lower = word.lower()
+                if 'positive' in word_lower:
+                    self.prediction = 'Positive'
+                    break
+                elif 'negative' in word_lower:
+                    self.prediction = 'Negative'
+                    break
+
         self.prediction = response.split()[0]
         print(response, end="\n\n\n\n")
 
@@ -82,7 +92,7 @@ class PredictReflectAgent(PredictAgent):
         self.reflections_str: str = ''
 
     def run(self, reset=True) -> None:
-        print("self.is_finished() = ", self.is_finished(), "     ", "not self.is_correct() = ", not self.is_correct())
+        # print("self.is_finished() = ", self.is_finished(), "     ", "not self.is_correct() = ", not self.is_correct())
         if self.is_finished() and not self.is_correct():
             self.reflect()
         PredictAgent.run(self, reset=reset)
