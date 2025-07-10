@@ -29,17 +29,30 @@ class PredictAgent:
 
         facts = "Facts:\n" + self.summary + "\n\nPrice Movement: "
         self.scratchpad += facts
-        print(facts, end="")
+        # print(facts, end="")
 
         self.scratchpad += self.prompt_agent()
         response = self.scratchpad.split('Price Movement: ')[-1]
         self.prediction = response.split()[0]
+        if (self.prediction.lower() not in ['positive', 'negative']):
+            for word in response.split('Explanation')[0].split():
+                word_lower = word.lower()
+                if 'positive' in word_lower:
+                    self.prediction = 'Positive'
+                    break
+                elif 'negative' in word_lower:
+                    self.prediction = 'Negative'
+                    break
         print(response, end="\n\n\n\n")
 
         self.finished = True
 
     def prompt_agent(self) -> str:
-        return self.llm(self._build_agent_prompt())
+        try:
+            return self.llm(self._build_agent_prompt())
+        except Exception as e:
+            return f"LLM Error during prediction: {str(e)}"
+        # return self.llm(self._build_agent_prompt())
 
     def _build_agent_prompt(self) -> str:
         return self.predict_prompt.format(
@@ -77,10 +90,9 @@ class PredictReflectAgent(PredictAgent):
         self.reflections_str: str = ''
 
     def run(self, reset=True) -> None:
-        print("self.is_finished() = ", self.is_finished(), "     ", "not self.is_correct() = ", not self.is_correct())
+        # print("self.is_finished() = ", self.is_finished(), "     ", "not self.is_correct() = ", not self.is_correct())
         if self.is_finished() and not self.is_correct():
             self.reflect()
-        return
         PredictAgent.run(self, reset=reset)
 
     def reflect(self) -> None:
@@ -88,10 +100,14 @@ class PredictReflectAgent(PredictAgent):
         reflection = self.prompt_reflection()
         self.reflections += [reflection]
         self.reflections_str = format_reflections(self.reflections)
-        print(self.reflections_str, end="\n\n\n\n")
+        # print(self.reflections_str, end="\n\n\n\n")
 
     def prompt_reflection(self) -> str:
-        return self.reflect_llm(self._build_reflection_prompt())
+        try:
+            return self.reflect_llm(self._build_reflection_prompt())
+        except Exception as e:
+            return f"LLM Error during reflection: {str(e)}"
+        # return self.reflect_llm(self._build_reflection_prompt())
 
     def _build_reflection_prompt(self) -> str:
         return self.reflect_prompt.format(

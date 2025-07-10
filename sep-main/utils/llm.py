@@ -17,9 +17,30 @@ load_dotenv()
 # Lấy API Key từ biến môi trường
 api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
-print(api_key)
+print("api_key: ", api_key)
 
-#============================================================================
+
+#===========================================================================================================
+import ollama
+
+class DeepSeekLLM:
+    def __init__(self, model="deepseek-r1:14b"):
+        self.model = model
+
+    def __call__(self, prompt):
+        response = ollama.chat(model=self.model, messages=[{"role": "user", "content": prompt}])
+        content = response["message"]["content"]
+        
+        # Cắt từ vị trí của </think>
+        if "</think>" in content:
+            content = content.split("</think>", 1)[-1].strip()
+        if "<think>" in content:
+            content = content.split("<think>", 1)[-1].strip()
+        
+        return content
+    
+
+#===========================================================================================================
 
 
 class OpenAILLM:
@@ -70,7 +91,8 @@ class NShotLLM:
 
     def __call__(self, prompt):
         query = self.tokenizer.encode(prompt, return_tensors="pt")
-        queries = query.repeat((self.num_shots, 1))
+        device = next(self.model.parameters()).device  # Lấy device đúng
+        queries = query.repeat((self.num_shots, 1)).to(device)
         output_ids = self.model.generate(
             queries,
             do_sample=True,
