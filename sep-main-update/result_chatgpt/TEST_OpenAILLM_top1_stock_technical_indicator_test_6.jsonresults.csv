@@ -1,0 +1,618 @@
+Prompt,Response,Target
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-21
+The tweets mention a large trade of $UNH stock with a size of 295,045 shares at a price of $520.89, totaling $153,685,990.05. There is also a discussion of various stocks including $UNH, $VZ, $V, $WMT, and $WBA in the context of potential investments. Additionally, there is a focus on healthcare stocks like $WBA, $JNJ, $AMGN, $MRK, and $UNH with references to COVID-19 vaccines and boosters. Furthermore, the tweets highlight companies around the world that distribute dividends, including $UNH in the healthcare sector.
+
+2022-10-22
+The tweets mention UnitedHealth Group (UNH) as a healthcare stock alongside other companies in different sectors as part of a list of Dow Jones stocks. The tweets also refer to UNH in the context of healthcare, vaccines, and boosters, suggesting a focus on the company's role in the healthcare industry. Additionally, there is mention of dividend growth companies, with UNH included as a symbol representing the healthcare sector. Overall, the tweets highlight UNH as a key player in the healthcare and stock markets.
+
+2022-10-23
+The tweet mentions various stocks including UNH (UnitedHealth Group) along with other companies like Apple, Microsoft, Google, Amazon, Tesla, Nvidia, and more.
+There is information about how some of the largest stocks have performed in 2022, with Apple down 17.1%, Microsoft down 28%, Google down 30.2%, and Amazon.
+A list of 20 dividend growth companies is provided, including UNH (UnitedHealth Group) along with Apple, Microsoft, Home Depot, Visa, Starbucks, McDonald's, and others.
+
+2022-10-24
+UNH stock is experiencing a bearish trend according to the SuperTrend indicator, with a resistance level at $535.12. The Smoothed Heiken Ashi indicator suggests a bullish trend. The Relative Strength Index (RSI) is in the neutral zone. Other stocks mentioned in relation to UNH include Visa, Eli Lilly, ASML, Microsoft, ExxonMobil, Visa, Alibaba, Facebook, Berkshire Hathaway, Tesla, and more. There is also a mention of ETFs buying large amounts of Microsoft, Apple, Cisco, NVIDIA, and others. Additionally, there are references to stocks in the Dow Jones, including Chevron, Coca-Cola, Disney, IBM, Verizon, and more. The tweets also touch on healthcare stocks like Walgreens, Johnson & Johnson, Amgen, and Merck. Lastly, there is discussion on currency trading and cryptocurrency.
+
+2022-10-25
+- UnitedHealthGroup (UNH) stock has shown a maximum downward movement of -4.29% and a maximum upward movement of 10.33% in the last 24 months.
+- The stock primarily moved between -1.3% and 1.42% during that period.
+- The healthcare sector, including companies like UnitedHealth (UNH), Johnson & Johnson (JNJ), and Merck (MRK), is highlighted in the tweets.
+- There is a focus on dividend-paying businesses like Visa (V), Eli Lilly (LLY), and Microsoft (MSFT) in the tweets.
+- The tweets provide resources for investing in global stocks, including UnitedHealthGroup (UNH).
+- The COVID-19 pandemic and vaccine-related news are mentioned in connection with healthcare companies like UnitedHealthGroup (UNH).
+
+Technical Indicators:
+SMA_5: 535.92
+EMA_5: 536.49
+MACD: 5.21
+MACD_SIGNAL: 1.1
+MACD_HIST: 4.1
+RSI: 84.54
+BB_UPPER: 545.4
+BB_LOWER: 491.53
+BB_MIDDLE: 518.46
+OBV: 190,609,500.0
+ADX: 15.02
+DMP: 26.89
+DMN: 16.44
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UNH stock suggest a bullish momentum, with the RSI at a high level of 84.54 indicating overbought conditions. Despite this, the stock has been making upward movements as evidenced by the SuperTrend indicator showing a bearish trend but the Smoothed Heiken Ashi indicator suggesting a bullish trend. The OBV is also relatively high at 190,609,500.0, indicating strong buying interest. The tweets mentioning UNH as a key player in the healthcare sector, along with references to dividend-paying businesses and global stock investments, further support a positive outlook for UNH stock. The overall sentiment seems to be optimistic for UNH based on both technical and fundamental factors.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-31
+- UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months.
+- The stock mainly fluctuated between -1.48% and 1.5% during that period.
+- On November 4, 2022, UNH near ATM options had a call-put ratio of 17.86 for the $550.0 strike, with the last traded price at $551.24.
+- The IBD50 list for October 29, 2022, included UNH (UnitedHealth Group) as a stock to watch for potential investment opportunities.
+- The largest stocks in 2022, including UNH, have had varying performance with Apple (AAPL) down -12.3%, Microsoft (MSFT) down -29.9%, and Google (GOOGL) down -33.5%.
+
+2022-11-01
+UnitedHealth Group (UNH) stock was mentioned in one tweet, discussing long-term investment opportunities.
+The tweet also mentioned other stocks trending on Twitter, including AAPL, CVX, CSCO, KO, DIS, DOW, GS, HD, MMM, AXP, AMGN, BA, CAT, HON, IBM, INTC, JNJ, JPM, MCD, VZ, V, WMT, and WBA. 
+Additionally, the tweet included the hashtag #WeAimHigher.
+Another tweet mentioned Drug Channels' analysis of preferred pharmacy networks in 2023's Medicare Part D plans, which could potentially impact UNH stock.
+UNH stock was not directly discussed in the other tweets provided.
+
+Technical Indicators:
+SMA_5: 547.79
+EMA_5: 545.78
+MACD: 8.49
+MACD_SIGNAL: 5.77
+MACD_HIST: 2.72
+RSI: 53.56
+BB_UPPER: 562.21
+BB_LOWER: 490.65
+BB_MIDDLE: 526.43
+OBV: 187,894,600.0
+ADX: 18.68
+DMP: 25.67
+DMN: 16.38
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UNH stock suggest a neutral to slightly bullish trend, with the RSI at 53.56 indicating potential for further upside. The stock price has shown a maximum upward movement of 6.25% in the last 12 months, suggesting a positive trajectory. Additionally, being mentioned in tweets discussing long-term investment opportunities and potential impacts from Drug Channels' analysis on preferred pharmacy networks in Medicare Part D plans could generate investor interest and positively impact the stock price. The overall trend of UNH stock, coupled with external factors highlighting investment potential, indicates a favorable outlook for a positive price movement.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-04
+UnitedHealth Group (UNH) stock was mentioned in a list of trending stocks, with a price drop of 2.21%.
+A top analyst provided a price target for UNH stock for the following week.
+UNH was included in a list of stocks alongside companies like Visa, Nike, Lowe's, PepsiCo, Costco, AbbVie, and Amgen known for dividend growth.
+
+2022-11-05
+The tweets mention various stocks and ETFs including $UNH (UnitedHealth Group). UnitedHealth Group is included in a list of trending stocks alongside other companies like $AAPL (Apple), $KO (Coca-Cola), $WMT (Walmart), and $IBM. Additionally, a mention of generating passive income with dividend stocks/funds includes $UNH as a potential option. UnitedHealth Group is a health insurance company that is part of the S&P 500 index.
+
+2022-11-07
+UnitedHealth (UNH) is listed as the 8th largest company globally based on market cap, exceeding $500 billion.
+UNH has a Price-to-Earnings (P/E) ratio of 26x.
+UNH stock is being discussed in a live day-trading room alongside other major companies like Apple (AAPL), Facebook (FB), Tesla (TSLA), and more.
+
+2022-11-08
+UnitedHealth ($UNH) is ranked #8 by market cap globally, with a market cap of over $500 billion.
+$UNH ATM options analytics show a call-put ratio of 1.25, with the $540.0 strike having the highest open interest and a call-put ratio of 7.67.
+UnitedHealth has a P/E ratio of 26x.
+UnitedHealth is one of the 28 quality dividend-paying assets, alongside companies like Apple ($AAPL), Microsoft ($MSFT), and Johnson & Johnson ($JNJ).
+The largest stocks, including Apple ($AAPL), Microsoft ($MSFT), Google ($GOOGL), and Amazon ($AMZN), had mixed performance during the day.
+
+Technical Indicators:
+SMA_5: 544.1
+EMA_5: 544.68
+MACD: 7.16
+MACD_SIGNAL: 6.97
+MACD_HIST: 0.19
+RSI: 44.63
+BB_UPPER: 562.57
+BB_LOWER: 510.08
+BB_MIDDLE: 536.32
+OBV: 189,291,500.0
+ADX: 14.8
+DMP: 20.9
+DMN: 19.31
+
+Price Movement:","Negative
+
+Explanation: Despite UnitedHealth Group (UNH) being a trending stock and having a significant market cap exceeding $500 billion, the technical indicators suggest a short-term bearish sentiment. The RSI at 44.63 indicates a lack of strong momentum, and the MACD histogram is close to zero, signaling weak bullish momentum. Additionally, the stock is trading below both the SMA and EMA, indicating a potential short-term weakness in price movement. While the stock's inclusion in lists of dividend-paying assets is positive, the technical indicators suggest a negative price movement in the near term.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-13
+The tweet mentions various large stock symbols, including UNH. It also discusses the performance of some of the largest stocks in 2022, including Apple, Microsoft, Google, and Amazon. Apple has seen a decrease of 15.7%, Microsoft dropped by 26.5%, Google decreased by 33.4%, and Amazon saw a decrease of an undisclosed percentage.
+
+2022-11-14
+The tweets mention various companies such as $TSLA, $NVDA, $MU, $AMZN, $MSFT, $BABA, $NFLX, $ADBE, $AXP, $IBM, $CSCO, $CVX, $INTC, $DD, $DIS, $MCD, $MMM, $PG, $TRV, $NKE, $UTX, $VZ, $WBA, $WYNN, $XLNX, $ACN, $FB, $DLTR, $EA, $SPY, $SPX, $DJIA, $HD, $GS, $BA, $GDX, $WDC, $AMD, $ADSK, $CAT, and $JPM. Additionally, there is a mention of ""industrias resistentes a las crisis"" which include companies like Anheuser-Busch InBev ($ABI), Heineken ($HEIA), and Carlsberg ($C). The sphere of influence in modern-day capitalism is also highlighted, with companies like $AAPL, $MSFT, $GOOGL, $AMZN, $TSLA, $BRK.A, $UNH, $XOM, $JNJ, $V, and $JPM being mentioned.
+
+2022-11-15
+UnitedHealthcare (UNH) announced a partnership to help millions of AARP members save on hearing aids.
+There is speculation that UNH stock is set for a potential run-up.
+A bullish swing was flagged for UNH on 11-14-2022 based on unusual options flow.
+There is a live day-trading room offering free access and live alerts for various stocks, including UNH.
+
+Technical Indicators:
+SMA_5: 518.91
+EMA_5: 517.52
+MACD: -1.91
+MACD_SIGNAL: 3.17
+MACD_HIST: -5.07
+RSI: 32.25
+BB_UPPER: 565.11
+BB_LOWER: 508.25
+BB_MIDDLE: 536.68
+OBV: 178,772,200.0
+ADX: 19.52
+DMP: 12.42
+DMN: 28.96
+
+Price Movement:","Positive
+
+Explanation: Despite some bearish technical signals such as a negative MACD and a low RSI of 32.25, the overall sentiment from recent news and indicators suggests a potential positive impact on UNH stock price. The partnership announcement to help AARP members save on hearing aids and the speculation of a potential run-up create a bullish sentiment. Additionally, the unusual options flow and bullish swing flag on 11-14-2022 signal potential upside movement. The live day-trading room offering alerts for UNH also indicates interest and potential buying activity. Therefore, the combination of positive news and potential market reaction suggests a positive price movement for UNH stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-18
+UnitedHealth Group (UNH) stock saw a significant increase of 2.76% and was trending as one of the top-performing stocks on the DJIA. The company is involved in healthcare and COVID-related initiatives.
+
+2022-11-19
+The tweets mention UnitedHealth Group (UNH) as one of the trending stocks. Other stocks mentioned in the tweets include Chevron (CVX), Cisco (CSCO), Coca-Cola (KO), Disney (DIS), Boeing (BA), Intel (INTC), Johnson & Johnson (JNJ), McDonald's (MCD), Verizon (VZ), Visa (V), Walmart (WMT), and Walgreens (WBA). 
+
+Additionally, the tweets list several top tier dividend stocks across various sectors, including technology (AAPL, MSFT), real estate (O, FRT, PLD, DLR, SPG), and consumer goods (KO, PG).
+
+2022-11-21
+UnitedHealth Group (UNH) is a key stock mentioned in the tweets.
+UNH is one of the top holdings in the Vanguard Dividend Appreciation ETF (VIG).
+UNH stock had a -2.10% change intraday according to a bull forecast.
+UNH stock trended down by 1.00% according to the latest update.
+UNH stock is mentioned along with other stocks like Visa (V), Nike (NKE), and Mastercard (MA) in various contexts and comparisons.
+
+2022-11-22
+UnitedHealth (UNH) had a stock price of $523.09 with a size of 529163 and an amount of $276,799,873.67 at 4:00 PM in the latest report.
+UnitedHealth holds a market cap of $500 billion.
+The momentum picks for the fourth quarter of 2022 saw UnitedHealth Group (UNH) with a plus of 1.4% in unrealized gains.
+UnitedHealth Group (UNH) is part of the top 10 holdings in Vanguard Dividend Appreciation ETF.
+UnitedHealth Group (UNH) appears to be a stock that some investors consider a top dividend growth stock.
+
+Technical Indicators:
+SMA_5: 523.06
+EMA_5: 523.86
+MACD: -2.07
+MACD_SIGNAL: -0.6
+MACD_HIST: -1.47
+RSI: 57.77
+BB_UPPER: 563.83
+BB_LOWER: 503.1
+BB_MIDDLE: 533.46
+OBV: 188,040,600.0
+ADX: 17.86
+DMP: 19.35
+DMN: 22.65
+
+Price Movement:","Negative
+
+Explanation: Despite UnitedHealth Group (UNH) showcasing a strong performance and being a top-performing stock on DJIA, the technical indicators suggest a bearish sentiment. The MACD line crossing below the signal line indicates a potential trend reversal to the downside. The RSI value of 57.77 is neutral, but the ADX value of 17.86 suggests a weakening trend strength. Additionally, the OBV value of 188,040,600.0 indicates recent accumulation may not be significant enough to counteract the negative sentiment. Overall, the combination of the technical indicators points towards a potential negative price movement for UNH stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-26
+The list of stocks mentioned in the tweet includes UnitedHealth Group ($UNH) among others such as Tesla ($TSLA), NVIDIA ($NVDA), Amazon ($AMZN), Microsoft ($MSFT), Netflix ($NFLX), etc.
+There is a discussion about dividend stocks with a 10%+ Dividend Growth Rate (DGR) and Annual Average Return (AAR) over a 10-year period, with Visa ($V) and Nike ($NKE) being among them.
+
+2022-11-27
+UnitedHealth Group (UNH) stock was mentioned in a list of other major companies, including Tesla, Nvidia, Amazon, Microsoft, and others.
+No specific financial data or news about UnitedHealth Group was shared in the provided tweets.
+
+2022-11-28
+UnitedHealth Group (UNH) forecasts revenue between $357 billion to $360 billion and adjusted EPS between $24.40 to $24.90 for 2023, slightly below analyst estimates.
+UNH is a top trending stock with a positive reach percentage.
+UNH stock saw a minimal increase of 0.20% amid a mixed performance of other major stocks in the S&P 500 and DJIA.
+UNH stock is expected to make significant moves in the upcoming week.
+
+2022-11-29
+UnitedHealth Group (UNH) reported that their 2023 revenue is expected to be between $357 billion and $360 billion, with adjusted earnings per share projected to be between $24.40 and $24.90.
+UNH stock was down -0.8% for the day.
+UNH had an investor day where they projected an 11% revenue increase for 2023.
+There were options analytics for UNH showing a call-put ratio of 2.09 for ATM options.
+The top analyst price target for UNH for next week was mentioned.
+UNH was part of the DJIA, with the stock down -1.00% for the day.
+There was a promotion for a trading chat-room involving UNH stock.
+
+2022-11-30
+The list of stocks mentioned includes $UNH, which refers to UnitedHealth Group, a public company. UnitedHealth Group is one of the 20 biggest public companies according to the tweet shared by Mayhem4Markets. Additionally, it is included in a list of stocks that are being actively traded in a live day-trading room.
+
+Technical Indicators:
+SMA_5: 536.51
+EMA_5: 535.87
+MACD: 1.55
+MACD_SIGNAL: 0.12
+MACD_HIST: 1.43
+RSI: 54.98
+BB_UPPER: 557.37
+BB_LOWER: 503.92
+BB_MIDDLE: 530.64
+OBV: 189,700,000.0
+ADX: 15.12
+DMP: 27.28
+DMN: 19.66
+
+Price Movement:","Positive
+
+Explanation: Despite the technical indicators not showing extreme bullish strength, the overall performance of UNH stock seems to be positive based on the recent news and forecasts. The mention of UNH among other major companies in discussions and the company's positive revenue forecast for 2023 indicate a favorable outlook for the stock. The minimal increase in UNH stock amidst mixed performance in the market, coupled with the positive mention in options analytics and top analyst price target, suggest that the stock has the potential for growth. The investor day projections for an 11% revenue increase for 2023 also add to the positive sentiment surrounding UNH stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-12-04
+UNH (UnitedHealth) is among the companies listed for earnings in a given week.
+UnitedHealth is not listed among the largest US stocks in terms of revenue.
+There is no specific information regarding UnitedHealth's financial performance or stock price in the provided tweets.
+
+2022-12-05
+- UnitedHealth Group (UNH) is a top stock, with a top analyst price target for the next week.
+- UNH chart suggests Fibonacci-based resistance and support levels.
+- The largest US stocks generated revenue over the last year, with Apple (AAPL) leading at $394.3 billion.
+- UnitedHealth Group (UNH) stock had a slight decline of 0.2%.
+- There are top-ranked companies with supercharged dividend growth, including UNH.
+- There were 10 dividend stocks with a 10-year 20%+ AAR, including UnitedHealth Group.
+- UnitedHealth Group (UNH) is part of the XLV sector, alongside other healthcare companies like JNJ, LLY, and ABBV.
+- There is anticipation for a potential move in UnitedHealth Group (UNH) stock in the coming hours.
+
+2022-12-06
+- The tweet mentions various stock symbols, including $UNH, indicating that UnitedHealth Group is one of the discussed companies.
+- The tweet references dividend stocks with a 10-year annualized average return of 20% or more, suggesting that UNH may be considered a strong dividend stock option.
+- The list includes other well-known companies such as Microsoft, Mastercard, and Amazon, implying that UNH is in good company in terms of investment potential.
+
+2022-12-07
+- UnitedHealth Group (UNH) is mentioned in multiple tweets alongside other companies in various stock market analyses.
+- There is a mention of a price target for UNH from a top analyst for the upcoming week.
+- UNH stock had a 0.53% increase during a trending session of the Dow Jones Industrial Average.
+- In a comparison of stock distances from their historical highs, UNH is mentioned as being 3% away from its peak.
+- UNH is included in a list of various stocks in a tweet promoting a live day-trading room.
+- UNH is part of the stock mentions in a tweet promoting free access to a live day-trading room with alerts.
+
+Technical Indicators:
+SMA_5: 540.27
+EMA_5: 541.9
+MACD: 3.55
+MACD_SIGNAL: 1.8
+MACD_HIST: 1.75
+RSI: 70.44
+BB_UPPER: 554.55
+BB_LOWER: 504.82
+BB_MIDDLE: 529.69
+OBV: 193,148,100.0
+ADX: 15.83
+DMP: 29.18
+DMN: 17.35
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UNH stock suggest a positive momentum with a rising SMA_5 and EMA_5, along with a MACD indicating bullish momentum. The RSI within the overbought territory at 70.44 could indicate a potential correction, but it also suggests strong buying pressure. The Bollinger Bands show the stock approaching the upper limit, indicating potential for a breakout. Additionally, the OBV is rising, suggesting strong buying activity. These technical signals, combined with positive sentiment from analysts and dividend growth, could lead to a positive price movement for UNH stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-12-10
+- UNH (UnitedHealth Group) is ranked 6th in the top 10 stocks by 1-week market cap.
+- UNH is considered part of a recession-resistant dividend portfolio, alongside other companies like Kroger, PepsiCo, Xcel Energy, General Mills, and Dollar General.
+
+2022-12-11
+UnitedHealth Group (UNH) is mentioned in a list of top analyst price targets for the upcoming week.
+There is a live day-trading room offering free access and live alerts for UNH and other stocks.
+UnitedHealth Group is featured in a list of stocks alongside companies like Tesla, Microsoft, Amazon, and others.
+
+2022-12-12
+UnitedHealth Group (UNH) is mentioned as a top health care stock with potential for dividend growth.
+UNH, along with LULU and OXY, are highlighted as market-beating stocks to consider buying and holding.
+Healthcare is described as one of the best sectors for dividend growth stocks.
+UNH is recommended as a healthcare stock for investment.
+UNH is part of a list of companies in the healthcare sector, along with other notable names like Pfizer (PFE), Johnson & Johnson (JNJ), and Merck (MRK).
+
+2022-12-13
+UnitedHealth Group (UNH) announced its earnings release date.
+Top analyst price targets for UNH were discussed.
+There was a short signal based on 20 signals on the 30-min chart for UNH stock.
+The stock chart for UNH was analyzed with Fibonacci retracement levels.
+Various other stocks and ETFs were mentioned in the tweets, indicating a broader discussion on investing and trading opportunities.
+
+2022-12-14
+The tweets mention various healthcare-related companies and services like UnitedHealth Group (UNH), Walgreens Boots Alliance (WBA), Johnson & Johnson (JNJ), Amgen (AMGN), and Merck (MRK). There is also a mention of Health Savings Accounts (HSA) and Flexible Spending Accounts (FSA). The hashtag #WeAimHigher indicates a focus on improving healthcare services and outcomes. The stock symbols mentioned include $UNH for UnitedHealth Group.
+
+Technical Indicators:
+SMA_5: 537.86
+EMA_5: 536.04
+MACD: 2.11
+MACD_SIGNAL: 2.65
+MACD_HIST: -0.55
+RSI: 31.28
+BB_UPPER: 552.22
+BB_LOWER: 516.63
+BB_MIDDLE: 534.43
+OBV: 189,330,900.0
+ADX: 15.86
+DMP: 22.83
+DMN: 19.96
+
+Price Movement:","Positive
+
+Explanation: Despite the RSI indicating a slightly oversold condition at 31.28, UNH stock may experience a positive price movement due to the stock's rank in the top 10 by 1-week market cap, its reputation as part of a recession-resistant dividend portfolio, and mentions as a top health care stock for potential dividend growth. The technical indicators also show a potential for a positive trend, as the SMA_5 and EMA_5 values are trending upwards, with the MACD signal line crossing above the MACD line. Additionally, the OBV shows strong buying volume, and the stock price is currently near the lower Bollinger Band, indicating a potential bounce back upwards.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-12-17
+The tweets mention stock symbols of various companies, including UNH (UnitedHealth Group). The list includes tech companies like Visa ($V), Apple ($AAPL), and Microsoft ($MSFT), along with other companies in different sectors like real estate. The tweets also mention a live day-trading room offering free access and live alerts for trading.
+
+2022-12-18
+UnitedHealth Group (UNH) is a powerful dividend growth stock that could continue to outperform in 2023.
+UNH is included in a list of stocks like Chevron (CVX), Cisco (CSCO), Coca-Cola (KO), Disney (DIS), and more.
+There are positive sentiments about UNH's potential for future growth and performance in the market.
+UNH is part of a list of dividend growth and dividend staple stocks, along with companies like Visa (V) and Walmart (WMT).
+Overall, UNH is seen as a strong stock that could potentially keep crushing the market.
+
+2022-12-20
+- UnitedHealth Group (UNH) is being discussed in relation to top analyst price targets for the upcoming week.
+- The stock ticker UNH had a negative intraday change of -1.18 as per a bull forecast report.
+- UNH is mentioned alongside other companies like Tesla, Nvidia, Amazon, and Microsoft in a list of stock tickers.
+
+2022-12-21
+- Analysts have set a top price target for UnitedHealth Group (UNH) for the next week.
+- UnitedHealth Group (UNH) has been forecasted with a positive log change in intraday trading.
+- Hospitals are experiencing a 3.8% increase in payment, which is being used for various purposes like building fountains, sponsoring sports teams, and addressing staffing crises in the nursing field.
+
+Technical Indicators:
+SMA_5: 524.43
+EMA_5: 526.78
+MACD: -1.51
+MACD_SIGNAL: 0.28
+MACD_HIST: -1.79
+RSI: 44.33
+BB_UPPER: 550.79
+BB_LOWER: 518.75
+BB_MIDDLE: 534.77
+OBV: 178,658,000.0
+ADX: 13.15
+DMP: 18.75
+DMN: 21.61
+
+Price Movement:","Positive
+
+Explanation: Despite the slightly bearish MACD and RSI indications, the overall sentiment surrounding UnitedHealth Group (UNH) is overwhelmingly positive. Analysts and reports highlight UNH as a powerful dividend growth stock with the potential to outperform, leading to positive forecasts and top price targets. Additionally, UNH is part of lists featuring strong dividend growth stocks, indicating investor confidence in its future performance. The technical indicators suggest a neutral to slightly bearish outlook, but the positive sentiment and analyst recommendations may outweigh these signals, potentially driving the stock price upwards.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UPS stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-06-06
+Based on the tweets provided, it appears that UPS stock (ticker symbol $UPS) had a positive intraday change of 0.60 in the first set of bull forecasts and 0.20 in the bear forecasts on June 6, 2022. This indicates a slightly bullish sentiment towards UPS stock on that day.
+
+2022-06-07
+- UPS stock ticker is $UPS.
+- Upfi Network announced a strategic partnership with MathWallet, allowing $UPS to be bought and sold on the platform.
+- There is anticipation for a significant move in UPS stock in the next few hours.
+- Short sellers have not covered any shares of UPS stock recently.
+
+2022-06-08
+The tweets mention UPS stock and upcoming moves in the industrial sector. There is also reference to top flow in the industrial sector for stocks such as NOC, WM, PWR, RHI, CMI, FLS, GE, DAL, UPS, CSX, and more. This indicates potential buying and selling activity in these stocks.
+
+2022-06-09
+- Shorts have not covered any shares of UPS stock.
+- Bull forecasts for UPS show a small positive change in the stock price.
+- Other stocks mentioned in the tweets include GDX, IWM, CMG, GME, BKNG, EXPE, KR, GLD, DKNG, KSS, EWZ, SPY, SLV, PARA, and ENPH, with varying changes in their stock prices.
+
+Technical Indicators:
+SMA_5: 180.33
+EMA_5: 178.18
+MACD: -1.32
+MACD_SIGNAL: -1.54
+MACD_HIST: 0.22
+RSI: 24.11
+BB_UPPER: 189.11
+BB_LOWER: 167.75
+BB_MIDDLE: 178.43
+OBV: 4,835,700.0
+ADX: 20.74
+DMP: 19.14
+DMN: 33.28
+
+Price Movement:","Positive
+
+Explanation: Despite the negative MACD and RSI below 30, indicating potential oversold conditions, the technical indicators show that UPS stock might be due for a positive price movement. The BB_UPPER and BB_LOWER values suggest a wider range where the stock price may fluctuate. The OBV is relatively high, indicating strong buying activity. The DMP and DMN values are close, pointing to a possible reversal in the stock's direction. The overall sentiment from the facts and technical indicators leans towards a potential positive price movement in UPS stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UPS stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-06-13
+UPS stock is currently trending as a sell, with a buy percentage of 95% and a sell percentage of 5%.
+Short sellers have not covered any shares of UPS stock.
+
+2022-06-14
+UPS welcomed Bala Subramanian to the newly created position of EVP and Chief Digital and Technology Officer.
+UPS reached a tentative agreement with pilots on a two-year contract extension.
+
+2022-06-15
+United Parcel Service, Inc. (UPS) is listed on the NYSE with the stock ticker symbol UPS.
+UPS released a press release on June 14, 2022.
+There is information available on United Parcel Service in a Market Outlook video by Market Scholars.
+Short interest in UPS reveals that shorts haven't covered any shares.
+
+2022-06-16
+The stock of UPS (United Parcel Service) is being discussed with suggestions of an upcoming move and the fact that shorts have not covered any shares. This indicates potential volatility or uncertainty in the UPS stock.
+
+Technical Indicators:
+SMA_5: 173.2
+EMA_5: 173.38
+MACD: -2.55
+MACD_SIGNAL: -1.98
+MACD_HIST: -0.57
+RSI: 27.55
+BB_UPPER: 187.95
+BB_LOWER: 167.45
+BB_MIDDLE: 177.7
+OBV: -3,010,400.0
+ADX: 21.02
+DMP: 18.86
+DMN: 30.14
+
+Price Movement:","Negative
+
+Explanation: Despite the bearish signals sent by technical indicators like the negative MACD and low RSI, the impact of fundamental factors such as the high sell percentage for UPS stock, lack of short covering, and uncertain market sentiment around discussions hinting at potential volatility, add downward pressure to UPS stock. The recent executive appointment and contract extension with pilots may not have been sufficient to offset prevailing negative market sentiment and technical weakness, leading to a negative price movement.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UPS stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-06-23
+$UPS stock had a decrease in its options value with a % difference of -6.39%.
+In intraday trading, $UPS stock saw a decrease of -0.52%.
+After hours trading saw $UPS as a loser with a decrease in value of -0.23%.
+Other stocks like $FDX and $AAXJ saw gains in after-hours trading.
+
+2022-06-24
+- UPS stock (ticker symbol: UPS) was trending positively in the intraday bull forecasts on June 24, 2022.
+- The stock had an intraday log change of 1.11%, 1.10%, and 1.56% in different time periods on that day.
+- Other notable stocks mentioned in the forecasts include IWM, SPY, GME, DIS, and CHPT.
+- The forecasts indicated positive momentum and potential upward movement for UPS stock on that particular day.
+
+2022-06-25
+- UPS stock is being discussed, with suggestions to watch for potential movements in the next few hours.
+- Analysts have set a price target for UPS stock.
+
+Technical Indicators:
+SMA_5: 178.88
+EMA_5: 179.52
+MACD: -0.7
+MACD_SIGNAL: -1.64
+MACD_HIST: 0.94
+RSI: 67.57
+BB_UPPER: 188.61
+BB_LOWER: 169.05
+BB_MIDDLE: 178.83
+OBV: 8,354,100.0
+ADX: 18.08
+DMP: 27.81
+DMN: 21.83
+
+Price Movement:","Positive
+
+Explanation: Despite a slight decrease in options value and a small intraday decrease in stock value, the positive trend in UPS stock on June 24, 2022, as indicated by the intraday log changes and bull forecasts, suggests potential upward movement. The technical indicators, such as a positive MACD histogram and a relatively high RSI of 67.57, support the positive momentum and indicate a favorable outlook for the stock. The OBV also shows strong accumulation, further reinforcing the potential for a positive price movement. Overall, the combination of positive forecasts, technical indicators, and analyst price target suggests a favorable price movement for UPS stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UPS stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-06-30
+- Top analysts have set price targets for UPS stock
+- There is expected to be a significant move in UPS stock in the next few hours
+
+Technical Indicators:
+SMA_5: 182.64
+EMA_5: 183.07
+MACD: 0.86
+MACD_SIGNAL: -0.33
+MACD_HIST: 1.19
+RSI: 71.71
+BB_UPPER: 188.47
+BB_LOWER: 169.06
+BB_MIDDLE: 178.76
+OBV: 12,293,200.0
+ADX: 15.31
+DMP: 25.38
+DMN: 19.14
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UPS stock show positive momentum, with the SMA and EMA both trending upward and the MACD histogram indicating bullish movement. The RSI of 71.71 suggests the stock is not yet in overbought territory, potentially leaving room for further price increases. The OBV is also strong, indicating that recent volumes have been supporting price appreciation. Additionally, the fact that top analysts have set price targets for UPS stock and anticipated a significant move in the next few hours adds to the positive sentiment, potentially driving the stock price higher.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UPS stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-07-07
+- United Parcel Service (UPS) stock was mentioned in the tweets.
+- There are bullish forecasts for various stocks, including UPS which had a log change of -1.12 intraday.
+- The tweet mentions three sectors to consider buying before the Q2 earnings season, which could potentially impact UPS stock.
+
+2022-07-11
+UPS stock is currently in a selling trend, with a calculated pivot point selling level of 186.77 and a current stock price of 185.4. The support level is at 183.56. UPS stock is recommended to be sold based on the real-time trend analysis provided.
+
+Technical Indicators:
+SMA_5: 184.15
+EMA_5: 182.98
+MACD: 1.2
+MACD_SIGNAL: 0.83
+MACD_HIST: 0.37
+RSI: 28.04
+BB_UPPER: 189.46
+BB_LOWER: 169.98
+BB_MIDDLE: 179.72
+OBV: 8,838,300.0
+ADX: 15.44
+DMP: 21.6
+DMN: 22.59
+
+Price Movement:","Negative
+
+Explanation: Despite the technical indicators showing a mixed picture, with a low RSI suggesting oversold conditions and a relatively neutral MACD, the overall sentiment in the market seems to be negative for UPS stock. The mention of UPS stock in tweets and the recommendation to sell based on real-time trend analysis indicate a bearish outlook. The support level being close to the current stock price and the selling trend further support the expectation of a negative price movement. Additionally, the bullish forecasts for other stocks and sectors may divert attention away from UPS, contributing to a potential decline in its stock price.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UPS stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-07-15
+The key facts regarding UPS stock from the given tweets are that the stock is currently trending downwards, with a sell recommendation and a last reported price of $178.28. Additionally, there are forecasts indicating bullish sentiment for UPS stock, with a positive intraday change of 0.34.
+
+2022-07-16
+- UPS stock was mentioned in a tweet regarding notable analyst upgrades and downgrades for the week of July 11, 2022.
+- The tweet did not specify the nature of the upgrade or downgrade for UPS stock.
+
+2022-07-17
+- UPS stock was mentioned in a list of other companies such as Amazon, Alibaba, Pfizer, and Pinterest.
+- An alert was able to collect $215 in premium per contract related to UPS.
+- UPS was part of a list of companies mentioned in the tweet, along with other stocks like Amazon, Alibaba, and Pfizer.
+
+2022-07-18
+During earnings season, United Parcel Service (UPS) was one of the companies reporting financial results.
+Suncoast Equity Management made the Top 5 trades involving UPS during the second quarter.
+There was an increase in the number of funds holding shares of UPS.
+The Best Pivot Point Calculator was recommended for traders interested in analyzing UPS stock.
+Various other companies were also reporting earnings during the same period, including Tesla, Netflix, Apple, Amazon, Bank of America, AMD, Google, Exxon Mobil, Snapchat, Johnson & Johnson, and more.
+The stock ticker for UPS is $UPS.
+
+Technical Indicators:
+SMA_5: 180.94
+EMA_5: 182.42
+MACD: 0.69
+MACD_SIGNAL: 0.63
+MACD_HIST: 0.06
+RSI: 65.91
+BB_UPPER: 188.35
+BB_LOWER: 174.95
+BB_MIDDLE: 181.65
+OBV: 14,346,600.0
+ADX: 13.58
+DMP: 25.46
+DMN: 19.12
+
+Price Movement:","Positive
+
+Explanation: Despite the downward trend in the current stock price and the lack of specific details regarding analyst upgrades or downgrades on the previous day, the positive intraday change, bullish forecasts, and mentions of UPS in various contexts hint at potential positive sentiment. The technical indicators paint a mixed picture, with a slightly positive MACD histogram and RSI indicating room for growth. The increase in funds holding UPS shares and positive mentions during earnings season suggest a favorable outlook, potentially driving the price movement upward.",Positive

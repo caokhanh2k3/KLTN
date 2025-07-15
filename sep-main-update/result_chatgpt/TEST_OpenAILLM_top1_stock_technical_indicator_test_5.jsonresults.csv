@@ -1,0 +1,718 @@
+Prompt,Response,Target
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-07-07
+UnitedHealth (UNH) stock experienced a slight decline of 0.1% during the day. The stock was mentioned in a technical analysis tweet indicating a positive setup based on various indicators. Other major stocks like Apple, Google, and Tesla saw gains on the day.
+
+2022-07-08
+UnitedHealth Group (UNH) is mentioned in several tweets alongside other healthcare and tech-related stocks like Merck (MRK), Thermo Fisher (TMO), Pfizer (PFE), and Apple (AAPL).
+UNH's stock performance is mentioned in trending lists for S&P 500 and DJIA, showing variations in percentage changes.
+Earnings reports for UNH are expected in the following week, along with several other companies like Delta Air Lines (DAL), JPMorgan Chase (JPM), and Wells Fargo (WFC).
+UNH's stock is seen to have a positive 1.4853% change in the DJIA trending list.
+The stock is mentioned in multiple trending lists alongside well-known companies like Apple, Microsoft, Coca-Cola (KO), and Johnson & Johnson (JNJ).
+Overall, UNH's stock seems to be part of the ongoing discussions and analyses in the stock market, particularly in the healthcare sector.
+
+2022-07-09
+UNH stock is listed among the trending stocks on fintwit.
+UNH is scheduled to report earnings next week.
+UNH experienced a big green day, with call options performing well.
+The earnings season is set to begin on Friday, with UNH being one of the companies reporting earnings.
+
+2022-07-10
+- UnitedHealth Group (UNH) is scheduled to report earnings next week.
+- Other companies also reporting earnings include $ETWO, $PSMT, $GBX, $PEP, $FAST, $DAL, $TSM, $JPM, $MS, $CTAS, $FRC, $ERIC, $CAG, $WFC, $BLK, $C, $USB, and $PNC.
+- The upcoming week will also see important economic data releases such as U.S. inflation data and retail sales.
+- Notable events for the week include a 20-for-1 split for $GOOGL, Amazon Prime Day, and IPO launches for $NA and $VRAX.
+
+2022-07-11
+- UNH (UnitedHealth Group) had an implied move of 3.7% for earnings during the start of the Q2 season.
+- UnitedHealth Group's stock was trending, with a slight decrease indicated.
+- Earnings season was beginning, with companies like UNH, JPM, PEP, MS, TSM, WFC, and others scheduled to report their earnings.
+- UnitedHealth Group was part of the S&P 500 trending list with a minor decrease in stock value.
+- UNH was being monitored closely for its earnings performance along with other companies like DAL, TSM, JPM, MS, CTAS, and more.
+- There was a discussion on the impact of an inverted yield curve on the market.
+
+Technical Indicators:
+SMA_5: 515.93
+EMA_5: 514.93
+MACD: 7.51
+MACD_SIGNAL: 5.26
+MACD_HIST: 2.25
+RSI: 56.62
+BB_UPPER: 540.88
+BB_LOWER: 450.63
+BB_MIDDLE: 495.76
+OBV: 147,790,500.0
+ADX: 19.71
+DMP: 24.18
+DMN: 17.18
+
+Price Movement:","Positive
+
+Explanation: Despite a relatively neutral RSI reading of 56.62, the technical indicators for UNH stock, including a positive MACD histogram and a strong OBV of 147,790,500.0, suggest bullish momentum. The stock's performance in trending lists alongside major companies and the positive 1.4853% change in the DJIA list indicate market interest and potential positive sentiment. Additionally, the anticipation surrounding UNH's upcoming earnings report and its inclusion in numerous discussions reflect a substantial level of attention from investors, potentially boosting the stock price.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-07-14
+- UnitedHealth Group Inc. (UNH) is set to report earnings before the markets open.
+- Wall Street is expecting an EPS of $5.21, which is a 10% increase.
+- Revenue estimates for Q2 are $79.68 billion, an 11.7% increase, with Optum revenues expected to be $44.23 billion, up by 15.5%.
+- Key things to watch for in the earnings report include medical costs, the impact of COVID, and updates on acquisitions.
+- UNH is part of the group of companies reporting earnings on July 14, 2022.
+- UnitedHealth Group Inc. stock is trending, with a 0.75% change.
+- Healthcare stocks like Pfizer, Merck, Abbott, AbbVie, Medtronic, and more are performing well in dividend growth.
+- Other companies reporting earnings at the end of the week include Wells Fargo (WFC), Citigroup (C), and more.
+- UnitedHealth Group Inc. stock had a 35% increase in calls, indicating positive market sentiment.
+- UNH is among the stocks to watch for earning premarket on Friday, July 15, along with other companies like Wells Fargo, BlackRock, Citigroup, and more.
+
+2022-07-15
+UnitedHealth Group (UNH) reported strong Q2 2022 earnings, beating expectations for both revenue and adjusted earnings per share.
+The company raised its full-year earnings forecast after the profit beat.
+UnitedHealthcare, a subsidiary of UNH, announced the elimination of out-of-pocket costs on several prescription drugs, including insulin, for eligible members.
+Optum, another subsidiary, experienced 18% growth in Q2.
+UNH's CEO discussed inflationary pressures on employers and emphasized the importance of helping them manage costs.
+The stock saw a significant increase, with a top analyst price target for the following week.
+It was noted as a top-performing Dow Jones stock.
+UNH also announced a $0 copay initiative to support members during challenging times.
+Overall, UNH demonstrated solid financial performance and initiatives to support its members.
+
+2022-07-16
+UnitedHealth (UNH) had a strong performance, with its stock price rising by 5.4%.
+
+2022-07-17
+- UnitedHealthGroup (UNH) stock has shown a maximum downward movement of -4.29% and a maximum upward movement of 10.33% in the last 24 months.
+- The stock price of UNH has primarily moved between -1.26% and 1.44%.
+- A buy recommendation for hedged investments including stocks like AAPL, MSFT, GOOG, AMZN, TSLA, BRK-B, UNH, JNJ, and others was shared.
+- UNH had a mini-gap up on earnings with heavy volume through a specific pivot point.
+- There is anticipation for the next move in UNH stock in a few hours.
+- The performance of largest stocks like AAPL, MSFT, GOOGL, AMZN over the past week was mentioned.
+- UNH was included in a watch list along with other stocks like VRTX, UTHR, HALO, SWAV, LNTH, and CELH in charts shared by MarketSmith.
+- There are some nice IBD50 setups including stocks like AMPH, VRTX, ECPG, LI, LLY, MRK, and others.
+
+2022-07-18
+Top flow in the healthcare sector today included buy flow on UnitedHealth Group ($UNH) stock, along with other companies like Zoetis ($ZTS), Gilead Sciences ($GILD), and Abbott Laboratories ($ABT).
+UnitedHealth Group (UNH) was one of the companies with significant buy flow in the healthcare sector.
+Investors buying $10,000 of SPDR S&P 500 ETF ($SPY) are indirectly investing $709 in Apple ($AAPL) stock.
+
+Technical Indicators:
+SMA_5: 517.25
+EMA_5: 522.15
+MACD: 8.17
+MACD_SIGNAL: 6.41
+MACD_HIST: 1.76
+RSI: 68.22
+BB_UPPER: 534.77
+BB_LOWER: 484.98
+BB_MIDDLE: 509.87
+OBV: 153,572,300.0
+ADX: 18.19
+DMP: 27.46
+DMN: 17.95
+
+Price Movement:","Positive
+
+Explanation: The technical indicators show a bullish trend with the stock prices sitting above the SMA and EMA, a positive MACD histogram, and RSI not in overbought territory at 68.22. The Bollinger Bands indicate a potential uptrend, and the OBV confirms that there is significant buying volume supporting the price movement. The positive market sentiment, earnings beat, raised forecast, and initiatives to support members by UnitedHealth Group further contributed to the stock's strong performance, with a 5.4% increase in price on July 16. Additionally, the flow of buy orders in the healthcare sector, including UNH, demonstrates investor confidence and support in the company's future prospects.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-07-21
+- UnitedHealth Group (UNH) stock was mentioned in the tweets.
+- Top 5 2nd Quarter Trades of Davis-Rea Ltd were discussed in one tweet.
+- A Pivot Point Calculator for trading was recommended in another tweet.
+- Market breadth information for XLV (Healthcare Select Sector SPDR Fund) and SPX/SPY sectors was provided in a tweet.
+- Various healthcare companies were mentioned alongside UNH, such as JNJ, PFE, ABBV, LLY, MRK, TMO, ABT, DHR, BMY, AMGN, CVS, MDT, ELV, CI, ZTS, and ISRG.
+- A company called SLHG was highlighted as potentially undervalued in the healthcare sector, with a joint venture with CNC and significant revenue relative to its market cap.
+- Other stocks mentioned in the tweets include ONEM, AMZN, PRVA, OSH, CANO, TDOC, AMWL.
+
+2022-07-22
+UnitedHealth Group (UNH) stock was mentioned in the tweets.
+There is news related to Dixon Hubard Feinour & Brown I regarding UNH stock.
+There is a recommendation to try the Best Pivot Point Calculator for trading UNH stock.
+Other stocks mentioned alongside UNH include NVAX, GBT, ALKS, BMRN, CRSP, EXEL, IONS, SRPT, VIR, AAPL, MSFT, GOOGL, GOOG, AMZN, TSLA, META, V, JNJ, TSM, NVDA, WMT, LLY, and MA.
+Bull forecasts indicate a -0.83 intraday change in UNH stock on July 22, 2022.
+
+2022-07-23
+The stock market experienced volatility, with $ES_F failing to break the GP level leading to a subsequent result. Traders are watching for reactions to key levels on the chart.
+Various large-cap stocks had mixed performance for the week:
+- Apple ($AAPL) was up 2.6%
+- Microsoft ($MSFT) increased by 1.4%
+- Google's parent company, Alphabet ($GOOGL), decreased by 3.5%
+- Amazon ($AMZN), UnitedHealth Group ($UNH), and other stocks had unspecified performance changes.
+
+2022-07-24
+UnitedHealth Group (UNH) stock had positive performance, holding onto its earnings gap.
+The stock was mostly flat but needed to surpass the 533 level for further gains.
+
+2022-07-25
+UnitedHealth Group (UNH) was mentioned as one of the stocks that lawmakers are buying, according to an article on InvestorPlace.
+UNH stock was included in a list of 20 Great Dividend Growth Stocks alongside companies like Apple (AAPL) and Microsoft (MSFT).
+UnitedHealth Group (UNH) was mentioned as one of the Dow Jones stocks that performed well on a particular day.
+
+Technical Indicators:
+SMA_5: 524.88
+EMA_5: 526.67
+MACD: 8.36
+MACD_SIGNAL: 7.47
+MACD_HIST: 0.89
+RSI: 64.82
+BB_UPPER: 535.21
+BB_LOWER: 499.87
+BB_MIDDLE: 517.54
+OBV: 155,037,100.0
+ADX: 17.62
+DMP: 27.72
+DMN: 17.12
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UNH stock show a generally positive sentiment, with the stock trading above both the SMA_5 and EMA_5 values, indicating potential upward momentum. The MACD is also positive, with the signal line lower than the MACD line, suggesting bullish momentum. The RSI value of 64.82 indicates that the stock is not yet in overbought territory, allowing for further potential gains. The OBV value of 155,037,100.0 suggests strong buying pressure, supporting the positive price movement. Additionally, the stock's ability to hold onto its earnings gap and the positive mentions in various tweets and news articles further support a positive outlook for UNH stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-07-29
+UnitedHealth Group (UNH) stock was mentioned in the tweets.
+First Long Island Investors, LLC made the top 5 trades in the 2nd quarter involving UNH stock.
+There is a new pivot point calculator available for stock trading.
+UNH stock was not among the top-performing stocks mentioned in the list.
+UNH stock was not among the top 10 S&P 500 stocks mentioned.
+ROE, which stands for Return on Equity, was briefly discussed in one of the tweets.
+
+2022-07-30
+UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 6 months.
+The stock mainly fluctuated between -1.75% and 1.8%.
+Investors were encouraged to start investing in global stocks.
+UnitedHealth Group (UNH) was listed as one of the top 10 S&P 500 stocks.
+UnitedHealth Group (UNH) was mentioned in a dividend portfolio along with other companies like Apple (AAPL), Microsoft (MSFT), and Costco (COST).
+
+2022-07-31
+UnitedHealth Group (UNH) stock was mentioned in a tweet regarding options analytics with a call-put ratio of 2.83 and the $535.0 strike having the highest open interest.
+There were no specific details provided about UNH's financial performance or news related to the company in the given tweets.
+
+2022-08-01
+UnitedHealth Group (UNH) was mentioned in a list of top flow stocks in the healthcare sector.
+UNH had a negative intraday change of 1.59%.
+In 2022, UNH had a negative performance so far with a decrease of unknown percentage.
+
+Technical Indicators:
+SMA_5: 537.86
+EMA_5: 535.84
+MACD: 9.68
+MACD_SIGNAL: 8.98
+MACD_HIST: 0.7
+RSI: 57.06
+BB_UPPER: 546.78
+BB_LOWER: 501.18
+BB_MIDDLE: 523.98
+OBV: 162,374,600.0
+ADX: 18.44
+DMP: 23.7
+DMN: 17.09
+
+Price Movement:","Negative
+
+Explanation: Despite technical indicators suggesting a relatively neutral or positive trend, the lack of significant positive news or financial data related to UnitedHealth Group (UNH) in the given facts indicates a limited catalyst for price movement. With no specific details provided regarding the company's performance or news, investors may remain cautious about UNH stock. The stock's negative intraday change of 1.59% and the overall negative performance in 2022 further support the potential downward movement of UNH stock. While the stock was mentioned in various contexts, the absence of strong bullish factors suggests that the price movement is likely to be negative.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-08-07
+UnitedHealth Group (UNH) stock is near At-the-Money (ATM) options analytics with a last traded price of $535.06.
+The ATM Call-Put ratio is 2.18, indicating bullish sentiment in options trading.
+The $540.0 strike has the highest open interest with a call-put ratio of 1.52.
+UNH is a component of the Dow Jones Industrial Average, along with other companies like 3M, Apple, Boeing, and Coca-Cola.
+The stock is part of a diverse portfolio of companies that make up the Dow Jones index.
+
+2022-08-08
+UnitedHealth Group's stock (UNH) had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last three months. The stock primarily fluctuated between -1.67% and 1.49%. UnitedHealth Group is part of the Dow Jones index.
+
+Technical Indicators:
+SMA_5: 536.66
+EMA_5: 536.48
+MACD: 8.06
+MACD_SIGNAL: 8.75
+MACD_HIST: -0.69
+RSI: 57.5
+BB_UPPER: 551.77
+BB_LOWER: 506.55
+BB_MIDDLE: 529.16
+OBV: 167,986,500.0
+ADX: 17.31
+DMP: 26.01
+DMN: 17.53
+
+Price Movement:","Positive
+
+Explanation: Despite the stock's recent fluctuations and varying movements in the last three months, the technical indicators present a relatively positive outlook. The SMA and EMA are close together, indicating possible price stability. The RSI at 57.5 suggests the stock is not overbought or oversold, presenting a neutral stance. The MACD histogram crossing below the signal line might hint at a potential reversal or consolidation in price. The OBV is showing a positive trend, suggesting accumulation of the stock by investors. Overall, the technical indicators point towards a potential positive price movement for UnitedHealth Group (UNH) stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-08-11
+UnitedHealth Group (UNH) is one of the stocks in the Dow Jones index.
+The stock ticker for UnitedHealth Group is UNH.
+On August 11, 2022, UnitedHealth Group (UNH) experienced a log change intraday of -1.03.
+UNH is part of the largest stocks in the S&P 500.
+
+2022-08-14
+1. UNH (UnitedHealth Group) is listed on the Dow Jones.
+2. UNH stock is part of the largest stocks in the market.
+3. UnitedHealth Group's stock performance was not specifically mentioned in the tweets provided.
+
+2022-08-15
+- UnitedHealth Group (UNH) reported strong earnings, pushing its stock to near all-time highs.
+- UNH is listed on the NYSE.
+- UNH was mentioned in a list of stocks in the Dow Jones index.
+- UNH is one of the largest companies in the US by revenue in FY 2021.
+- Other stocks mentioned in relation to UNH include Alibaba (BABA), Facebook (FB), Tesla (TSLA), Visa (V), Walmart (WMT), Disney (DIS), and others.
+
+Technical Indicators:
+SMA_5: 541.01
+EMA_5: 542.3
+MACD: 7.62
+MACD_SIGNAL: 7.87
+MACD_HIST: -0.25
+RSI: 72.51
+BB_UPPER: 549.71
+BB_LOWER: 520.49
+BB_MIDDLE: 535.1
+OBV: 172,473,000.0
+ADX: 16.8
+DMP: 24.88
+DMN: 16.75
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UNH stock show a positive trend, with the SMA_5 and EMA_5 both indicating an upward movement in the stock price. The RSI at 72.51 suggests the stock is not yet overbought, allowing for further price appreciation. The MACD Signal line is higher than the MACD line, indicating a potential uptrend. The OBV showing an increase in buying volume further supports the positive price movement. Combined with the strong earnings report from UnitedHealth Group and the near all-time high stock price, these factors are likely to contribute to a positive price movement for UNH stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-08-18
+UnitedHealth Group (UNH) stock was mentioned in the tweets.
+The stock had options analytics with a call-put ratio of 0.68 and the $540.0 strike received the highest open interest.
+UnitedHealth Group (UNH) has shown significant growth, with 14 straight years of green and a remarkable increase of +377,000% since its IPO.
+The stock was included in a list of Dow Jones stocks.
+Overall, there were positive mentions and observations regarding UnitedHealth Group (UNH) stock in the tweets.
+
+2022-08-19
+UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months. The stock primarily moved between -1.38% and 1.53%. UNH had a positive movement of 0.57% in the trending DJIA stocks. UNH was mentioned in the context of defensive stock rotation, with companies like UNH, HSY, and MRK holding up well in the market. Additionally, the healthcare sector, which includes UNH, LLY, and JNJ, performed well with broad upward movements.
+
+2022-08-20
+UnitedHealth Group (UNH) was mentioned as one of the stocks in the Dow Jones index.
+There were no specific key facts or news mentioned regarding UNH stock in the provided tweets.
+
+2022-08-21
+UnitedHealth Group's stock, $UNH, was mentioned in a list of top analyst ratings and price targets for the week. It is a component of the Dow Jones Industrial Average, which also includes companies like Apple ($AAPL), Microsoft ($MSFT), Amazon ($AMZN), and Google ($GOOGL).
+
+2022-08-22
+Signify Health (SGFY) saw a 35% surge in its stock price due to reports that Amazon (AMZN) is among the bidders for the company.
+
+UnitedHealth (UNH) was trending among the largest stocks in the DJIA, with a slight decline in its stock price.
+
+UnitedHealth and Amazon are reported to be among the potential bidders for Signify Health, according to sources.
+
+Technical Indicators:
+SMA_5: 543.78
+EMA_5: 542.0
+MACD: 6.19
+MACD_SIGNAL: 7.33
+MACD_HIST: -1.13
+RSI: 30.82
+BB_UPPER: 549.31
+BB_LOWER: 530.34
+BB_MIDDLE: 539.83
+OBV: 171,033,200.0
+ADX: 16.45
+DMP: 21.7
+DMN: 21.16
+
+Price Movement:","Negative
+
+Explanation: Despite UnitedHealth Group (UNH) stock receiving positive mentions and being listed as a top performer in tweets, the technical indicators present a mixed picture. The RSI of 30.82 suggests the stock is nearing oversold territory, potentially signaling a downward correction. Additionally, the MACD histogram shows a negative value, indicating a potential bearish trend. While there is an increase in OBV, suggesting accumulation, the overall technical analysis points to a possible negative price movement. The lack of specific key facts or news about UNH stock in the provided tweets could contribute to uncertainty in the market, leading to a slight decline in the stock price.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-08-27
+The tweet mentions UnitedHealth Group (UNH) as one of the stocks in the Dow Jones index. It is included in a list of other companies such as Apple (AAPL) and Microsoft (MSFT).
+
+Additionally, UnitedHealth Group (UNH) is not specifically mentioned in the second tweet, which discusses the performance of different large stocks in the past week.
+
+2022-08-28
+UnitedHealth Group (UNH) stock was mentioned in the tweets.
+There were options analytics for UNH stock with a last traded price of $529.25 and an ATM call-put ratio of 0.13.
+The $520.0 strike received the highest open interest for UNH options.
+UNH is part of the Dow Jones index of stocks.
+UNH stock performance was not explicitly provided in the tweets.
+
+2022-08-29
+The tweets primarily focus on the performance of various stocks, including UNH (UnitedHealth Group). UNH is listed along with other companies in the Dow Jones index and is highlighted as one of the larger stocks with available cash. Overall, the tweets provide general information about the stock market and the performance of different companies, including UNH.
+
+Technical Indicators:
+SMA_5: 531.98
+EMA_5: 530.6
+MACD: 1.41
+MACD_SIGNAL: 4.57
+MACD_HIST: -3.16
+RSI: 21.56
+BB_UPPER: 551.38
+BB_LOWER: 525.34
+BB_MIDDLE: 538.36
+OBV: 172,434,100.0
+ADX: 15.31
+DMP: 14.79
+DMN: 22.92
+
+Price Movement:","Negative
+
+Explanation: The technical indicators for UNH stock show a bearish trend with the SMA_5 and EMA_5 both below the current price. The MACD histogram is negative, indicating a weakening trend, and the RSI is low at 21.56, suggesting an oversold condition. Additionally, the price is below the Bollinger Bands middle line, signaling downward pressure. The ADX is relatively low at 15.31, indicating a weaker trend strength. Despite positive OBV indicating some buying volume, the overall technical picture points towards a negative price movement for UNH stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-03
+The tweet mentions various large companies including Chevron, Cisco, Coca-Cola, Disney, Dow, Goldman Sachs, Home Depot, 3M, American Express, Amgen, Apple, Boeing, Caterpillar, Merck, Microsoft, Nike, Procter & Gamble, Salesforce, Travelers, Honeywell, IBM, Intel, Johnson & Johnson, JPMorgan Chase, McDonald's, UnitedHealth Group, Verizon, Visa, Walmart, and Walgreens. The tweet also discusses the revenue generated per day by Apple ($912 million), Microsoft ($570 million), and Google ($766 million).
+
+2022-09-04
+UnitedHealth Group (UNH) stock was mentioned in the context of options analytics, with the last traded price at $516.35.
+The ATM call-put ratio was 1.06, and the $520.0 strike received the highest open interest with a call-put ratio of 0.04.
+There was no specific information provided about UNH's performance or financials in the tweets.
+
+2022-09-05
+UnitedHealth Group (UNH) is one of the top 10 stocks increasing their dividend by over 10% yearly for 10+ years.
+UNH is included in the list of the 10 most owned stocks by superinvestors.
+UNH is part of the stock market sector along with other companies like Visa, Snap-On, Alphabet, Meta Platforms, Apple, Microsoft, and Google.
+UNH stock is mentioned alongside other companies like Chevron, Cisco, Coca-Cola, Disney, Dow, Goldman Sachs, Home Depot, 3M, American Express, Amgen, Boeing, Caterpillar, Merck, Nike, Procter & Gamble, Salesforce, Travelers, Honeywell, IBM, Intel, Johnson & Johnson, JPMorgan Chase, McDonald's, Verizon, Walmart, and Walgreens in various investment discussions.
+Overall, UNH is seen as a strong company by investors and part of a diverse portfolio of stocks.
+
+2022-09-06
+UnitedHealth Group (UNH) stock was mentioned in several tweets, including being one of the top analyst price targets for the following week. The company also celebrated Grandparents Day with new resources to help families grow in healthy ways. Additionally, a histogram chart showed the stock's movement over the last 36 months, with the maximum downward movement being -17.28% and the maximum upward movement being 12.8%. Other dividend stocks mentioned in relation to UNH included Visa (V), Snap-On (SNA), and PepsiCo (PEP).
+
+Technical Indicators:
+SMA_5: 519.81
+EMA_5: 521.25
+MACD: -2.85
+MACD_SIGNAL: 0.22
+MACD_HIST: -3.06
+RSI: 42.06
+BB_UPPER: 555.16
+BB_LOWER: 513.12
+BB_MIDDLE: 534.14
+OBV: 174,900,200.0
+ADX: 17.57
+DMP: 13.33
+DMN: 20.71
+
+Price Movement:","Neutral
+
+Explanation: The technical indicators for UNH stock show mixed signals, with the RSI at 42 indicating a neutral stance. Although the BB_UPPER and BB_LOWER bands suggest potential volatility, the MACD and MACD_HIST in negative territory signal possible downward pressure. The lower OBV of 174,900,200.0 could indicate weakening accumulation, but the positive trend strength indicated by an ADX of 17.57 could counterbalance this. The facts surrounding UNH, including its inclusion in dividend-focused strategies and positive sentiment from investors, may help support the stock price despite technical uncertainties. Overall, the impact of the technical indicators and market sentiment seems balanced, resulting in a neutral price movement outlook.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-09
+UnitedHealth Group (UNH) is mentioned in the list of stocks alongside other companies like Chevron (CVX), Cisco (CSCO), Coca-Cola (KO), Disney (DIS), and Goldman Sachs (GS).
+UNH's stock has a potential price target for the week, as mentioned by a top analyst.
+There is a tweet suggesting that UNH is an undervalued stock that could potentially rise in value.
+Overall, the tweets hint at UNH being a part of various stock discussions and potential investment opportunities.
+
+2022-09-10
+UnitedHealth Group (UNH) stock is trading near the at-the-money (ATM) options analytics with a last traded price of $524.34.
+The ATM call-put ratio is 0.07, indicating more put options traded than call options.
+The $520.0 strike has the highest open interest with a call-put ratio of 0.39.
+There are various other stocks mentioned in the tweets such as $CVX, $CSCO, $KO, $DIS, $DOW, $GS, $HD, $MMM, $AXP, $AMGN, $BA, $CAT, $MRK, $MSFT, $NKE, $PG, $CRM, $TRV, $HON, $IBM, $INTC, $JNJ, $JPM, $MCD, $VZ, $V, $WMT, $WBA.
+The largest stocks like Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) had varying performances in the past week.
+
+2022-09-11
+The tweets mention various companies and stock symbols, including UNH (UnitedHealth Group). The performance of the largest stocks in the past week is summarized, with Apple (AAPL) experiencing a slight decline, Microsoft (MSFT) seeing an increase, Google (GOOGL) rising, and Amazon (AMZN) having a positive change. UnitedHealth Group (UNH) is listed among other companies like Chevron (CVX), Cisco (CSCO), Coca-Cola (KO), Disney (DIS), Goldman Sachs (GS), Home Depot (HD), and others.
+
+2022-09-12
+- UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months.
+- The stock mostly moved between -1.46% and 1.52% during that period.
+- UNH was trending, with a reach of 1,618.26%.
+- Analyst Jordan Cvetanovski from Pella Funds liked both UNH and NTR stocks.
+- UNH stock has shown significant growth over the past three years.
+
+2022-09-13
+UnitedHealth Group (UNH) stock experienced a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 6 months. The stock primarily moved between -1.52% and 1.52%. 
+Other large stocks like Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) all experienced significant declines in their stock prices. 
+Investors are advised to consider investing in global stocks through platforms like the one mentioned in the tweet.
+
+Technical Indicators:
+SMA_5: 521.37
+EMA_5: 518.0
+MACD: -3.86
+MACD_SIGNAL: -1.88
+MACD_HIST: -1.98
+RSI: 29.22
+BB_UPPER: 551.67
+BB_LOWER: 506.8
+BB_MIDDLE: 529.23
+OBV: 170,933,600.0
+ADX: 16.01
+DMP: 15.6
+DMN: 24.4
+
+Price Movement:","Negative
+
+Explanation: The technical indicators point to a bearish outlook for UNH stock, with the SMA_5 crossing below the EMA_5 and a negative MACD suggesting a potential downtrend. The RSI at 29.22 indicates an oversold condition, while the Bollinger Bands narrowing in and the ADX at 16.01 suggest a lack of strong trend direction. The negative MACD histogram further supports the idea of a downward movement. Coupled with the mention of UNH in various investment discussions and the mixed performance of other large stocks, investors may perceive UNH as a risky investment option, leading to a negative price movement.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-16
+The tweet mentions various stocks, including UNH (UnitedHealth Group), as part of a list that includes companies like Apple, Facebook, Tesla, and others. There is also mention of a live day-trading room with free access for live alerts. Another tweet references $NBIO, a stock showing strength and potential for a significant increase in value, along with other stocks like AAPL (Apple), TSLA (Tesla), and META. This indicates a focus on stock market trading and potential opportunities for investment.
+
+2022-09-17
+The largest stocks, including Apple ($AAPL), Microsoft ($MSFT), Google ($GOOGL), Amazon ($AMZN), and UnitedHealth Group ($UNH), experienced varying declines in their stock prices over the past week.
+
+2022-09-18
+UnitedHealth Group (UNH) stock was mentioned in a tweet about ATM options analytics, with the last traded price at $521.02 and the highest open interest at the $520.0 strike.
+The tweet also included a list of stocks and how they performed over the past week, with UNH not included in the list.
+Overall, there is no specific key information regarding UNH stock in the provided tweets.
+
+2022-09-19
+UnitedHealth Group (UNH) stock was mentioned in several tweets. Key facts regarding UNH stock include:
+
+- UnitedHealth Group's acquisition of Change Healthcare was approved by a judge following a DOJ suit, which was considered a significant win for the parties involved.
+- Options analytics for UNH indicated that the stock was near ATM (At-The-Money) with a call-put ratio of 1.03 and the $520.0 strike had the highest open interest with a call-put ratio of 0.38.
+- UNH was listed as one of the top dividend-paying companies in the US alongside other companies like Pepsi (PEP), Starbucks (SBUX), Johnson & Johnson (JNJ), Apple (AAPL), and Microsoft (MSFT).
+- UNH stock was mentioned in a list of stocks to keep on the radar for trading and investing.
+- There was a live day-trading room where UNH stock could potentially be traded, along with other companies like Alibaba (BABA), Facebook (FB), Tesla (TSLA), and Disney (DIS).
+
+2022-09-20
+UnitedHealth Group (UNH) attempted to acquire Change Healthcare Inc., but a district court denied the request to enjoin the acquisition.
+
+UNH stock had a maximum downward movement of -4.29% and a maximum upward movement of 10.33% in the last 24 months.
+
+Several stocks were mentioned in relation to potential investments, including UNH, NBIO, WINH, and GSDT.
+
+$UNH had a favorable target price set by a top analyst for the next week, indicating potential growth in the stock.
+
+Technical Indicators:
+SMA_5: 520.47
+EMA_5: 518.54
+MACD: -3.48
+MACD_SIGNAL: -2.8
+MACD_HIST: -0.67
+RSI: 33.72
+BB_UPPER: 538.68
+BB_LOWER: 508.13
+BB_MIDDLE: 523.41
+OBV: 167,291,400.0
+ADX: 11.92
+DMP: 18.9
+DMN: 18.33
+
+Price Movement:","Positive
+
+Explanation: Despite the decline in UNH stock in the past week as indicated by the tweet, the approval of UnitedHealth Group's acquisition of Change Healthcare by a judge following a DOJ suit marks a significant win for the companies involved. The mention of UNH in options analytics and as one of the top dividend-paying companies reflects a positive sentiment around the stock. Additionally, the favorable target price set by a top analyst for the next week suggests potential growth in UNH stock. The technical indicators, although not strongly bullish, do not signal a significant downside, and the historical price movement range of -4.29% to 10.33% in the last 24 months indicates potential for upward movement. Overall, the combination of positive fundamental developments and technical data points towards a positive price movement for UNH stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-23
+UnitedHealth Group (UNH) is one of the top healthcare stock picks.
+The 5-minute chart for UNH shows a bearish trend, with resistance at $519.87.
+UNH is categorized as a Blue chip stock in the US market.
+UnitedHealth Group is one of the largest stocks in the S&P 500.
+Investing in global stocks is recommended, including UNH.
+UNH is in the healthcare sector and is a leading company.
+
+2022-09-24
+UnitedHealth Group (UNH) stock is near the money (ATM) options analytics for the expiry date of 30 September 2022. The last traded price was $513.61. The ATM call-put ratio is 0.88. The $510.0 strike received the highest open interest with a call-put ratio of 0.07. #options #UNH
+
+2022-09-25
+UnitedHealth Group (UNH) is one of the companies mentioned in the list of stocks.
+UNH stock had a last traded price of $513.61.
+The options analytics show that the $520.0 strike has the highest open interest with a call-put ratio of 0.84.
+The ATM call-put ratio for UNH stock is 0.81.
+The options expire on September 30, 2022.
+UNH is part of the Dow Jones index.
+
+2022-09-26
+The list of stocks mentioned includes $UNH (UnitedHealth Group).
+There is a list of dividend growth stocks that includes UnitedHealth Group (UNH).
+
+Technical Indicators:
+SMA_5: 512.35
+EMA_5: 512.68
+MACD: -4.64
+MACD_SIGNAL: -3.86
+MACD_HIST: -0.79
+RSI: 48.3
+BB_UPPER: 531.01
+BB_LOWER: 505.98
+BB_MIDDLE: 518.5
+OBV: 169,783,400.0
+ADX: 12.32
+DMP: 14.42
+DMN: 19.83
+
+Price Movement:","Negative
+
+Explanation: Despite being recognized as a top healthcare stock pick and part of the Dow Jones index, UnitedHealth Group (UNH) faces downward pressure as indicated by the bearish trend on the 5-minute chart and the negative MACD values. The options analytics point towards mixed sentiment with the highest open interest at the $510.0 and $520.0 strike prices, hinting at uncertainty among traders. Additionally, the RSI at 48.3 suggests the stock is in a neutral zone, not yet oversold or overbought. The technical indicators do not show strong bullish signals, and the stock may experience a negative price movement in the near term.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-30
+The tweet mentions a list of various stocks including UNH (UnitedHealth Group). It highlights the performance of some of the largest stocks in the market on that day, including Apple, Microsoft, Google, Amazon, and Tesla. Apple saw a 3% decrease, Microsoft a 1.9% decrease, Google a 1.8% decrease, Amazon a 1.6% decrease, and Tesla's stock performance is not specified. Additionally, it suggests investing in an S&P 500 ETF (VOO) for instant diversification and exposure to 500 of the best US companies.
+
+2022-10-01
+UnitedHealth Group (UNH) stock was mentioned in the first tweet regarding options analytics. The last traded price was $505.04 with an ATM call-put ratio of 0.28, and the $505.0 strike received the highest open interest.
+
+In the second tweet, UNH was listed among other stocks like CVX, CSCO, KO, DIS, DOW, GS, HD, MMM, AXP, AMGN, AAPL, BA, CAT, MRK, MSFT, NKE, PG, CRM, TRV, HON, IBM, INTC, JNJ, JPM, MCD, VZ, V, WMT, and WBA as part of a group aiming higher.
+
+The stock performance of UNH was not specifically mentioned in the other tweets, which focused on the largest stocks like Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) during Q3 and the past week.
+
+2022-10-03
+The tweet mentions various large stocks, including UNH (UnitedHealth Group), and their performance in 2022. As of the tweet, Apple (AAPL) had experienced a 22.2% decline in stock performance, while UNH's performance is not specified.
+
+Technical Indicators:
+SMA_5: 515.92
+EMA_5: 519.22
+MACD: -2.39
+MACD_SIGNAL: -3.86
+MACD_HIST: 1.47
+RSI: 71.97
+BB_UPPER: 532.34
+BB_LOWER: 502.72
+BB_MIDDLE: 517.53
+OBV: 172,309,400.0
+ADX: 11.91
+DMP: 18.59
+DMN: 14.06
+
+Price Movement:","Negative
+
+Explanation: Despite the technical indicators showing some bullish signals, like a relatively high RSI of 71.97 and the MACD histogram being positive at 1.47, the overall impact on UNH stock price movement is negative. The stock's performance was not specifically highlighted in various tweets, but the general negative trend among large-cap stocks, as seen in the decline in Apple's stock performance, could be indicative of broader market sentiment affecting UNH as well. Additionally, the lack of specific positive news or catalysts for UNH could contribute to the downward price movement despite the strong technical signals.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-07
+- UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months.
+- The stock mostly moved between -1.46% and 1.52% during this period.
+- The DJIA trending stocks included UNH with a movement of -2.75%.
+- There were unusual PUT options activity for UNH with a Nov 25, 2022, 505 Put (Weekly).
+- UnitedHealth Group (UNH) was mentioned in a list of stocks reporting earnings next week during the earnings season.
+- Investors were discussing PPO plans with UNH and expressing frustrations with them.
+- There was a live day-trading room offering free access with live alerts for various stocks, including UNH.
+
+2022-10-08
+The tweet mentions UNH as one of the companies reporting earnings for the week. UnitedHealth Group (UNH) is listed alongside other companies like JPMorgan Chase (JPM), PepsiCo (PEP), and BlackRock (BLK) in the earnings lineup. This suggests that UNH is an important player in the market and is expected to provide insights into the financial performance of the healthcare sector.
+
+2022-10-09
+UnitedHealth Group (UNH) stock is currently showing a bearish trend, with resistance at $525.63. The Relative Strength Index (RSI) is in the neutral zone. The company is included in a list of top recession-resistant dividend stocks. There are upcoming events involving the Federal Reserve and economic indicators that could impact the stock market. #UnitedHealthGroup $UNH #Trading #Investing.
+
+2022-10-10
+UnitedHealth Group (UNH) stock was mentioned in the Tweets.
+An analyst shared a top price target for UNH stock for the upcoming week.
+The stock movements of UNH over the last three months showed a maximum downward movement of -3.25% and a maximum upward movement of 5.44%.
+
+2022-10-11
+UnitedHealthcare (UNH) is mentioned as a top analyst price target for the next week in the stock market.
+UNH is also listed as one of the favorite Dividend Growth Stocks.
+Real-time results show that UNH is part of a bullish stock pick with a confidence level of 62.8%.
+
+Technical Indicators:
+SMA_5: 504.52
+EMA_5: 504.05
+MACD: -5.25
+MACD_SIGNAL: -4.04
+MACD_HIST: -1.2
+RSI: 30.86
+BB_UPPER: 530.46
+BB_LOWER: 496.17
+BB_MIDDLE: 513.32
+OBV: 169,488,100.0
+ADX: 14.64
+DMP: 13.7
+DMN: 21.72
+
+Price Movement:","Negative
+
+Explanation: The technical indicators for UNH, such as the RSI at 30.86 and the negative MACD, suggest a bearish sentiment. The stock price movements within the last 12 months, combined with the downward trend mentioned in recent news, indicate a negative outlook for UNH. Additionally, the unusual PUT options activity and discussions regarding investor frustrations with PPO plans may contribute to the bearish sentiment surrounding the stock. Despite being mentioned as a top analyst price target, the overall indicators point towards a negative price movement for UnitedHealth Group (UNH) stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of UNH stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-14
+UnitedHealth Group (UNH) reported its Q3 2022 earnings, with an EPS of $5.79, exceeding expectations of $5.42, and revenue of $80.89 billion, surpassing the estimated $80.5 billion. The company had a yearly revenue growth of 12%.
+
+The company also provided guidance for the full year, with an expected EPS of $20.85 to $21.05.
+
+Following the earnings report, the stock price of UNH increased by 0.85%.
+
+2022-10-15
+The tweets mention various healthcare and dividend stocks, including:
+- $WBA (Walgreens Boots Alliance)
+- $JNJ (Johnson & Johnson)
+- $AMGN (Amgen)
+- $MRK (Merck)
+- $UNH (UnitedHealth Group)
+- Mention of COVID vaccines and boosters
+- Reference to aiming higher with the hashtag #WeAimHigher
+
+The other tweet references dividend stocks used everyday, including:
+- $V (Visa)
+- $UL (Unilever)
+- $AAPL (Apple)
+- $NSRGY (Nestlé)
+- $MA (Mastercard)
+- $MSFT (Microsoft)
+
+2022-10-16
+The tweet mentions various healthcare and pharmaceutical companies, including UnitedHealth Group (UNH). It also includes hashtags related to COVID-19 vaccines and boosters. The tweet emphasizes the importance of aiming higher.
+
+2022-10-17
+Credit Suisse maintains an Outperform rating on UnitedHealth Group (UNH) and raises the price target from $579 to $590.
+There is top analyst price target prediction for UNH in the next week.
+There are mentions of UNH stock in various lists of other stocks like $CVX, $CSCO, $KO, $DIS, $DOW, $GS, $HD, $MMM, $AXP, $AMGN, $AAPL, $BA, $CAT, $HON, $IBM, $INTC, $JNJ, $JPM, $MCD, $VZ, $WMT, $WBA, $TSLA, $NVDA, $MU, $AMZN, $MSFT, $BABA, $NFLX, $ADBE, among others.
+There is a mention of a live day-trading room with free access and live alerts for UNH and other stocks.
+Joining instructions for a beta version and a platform are provided in the tweets.
+
+2022-10-18
+UnitedHealth Group (UNH) has never missed Street estimates for a quarter going back to 4Q11.
+The stock symbol for UnitedHealth Group is UNH.
+UnitedHealth Group is included in lists of popular stocks such as $CVX, $CSCO, $KO, $DIS, $DOW, $GS, $HD, $MMM, $AXP, $AMGN, $AAPL, $BA, $CAT, $HON, $IBM, $INTC, $JNJ, $JPM, $MCD, $VZ, $V, $WMT, and $WBA.
+
+Technical Indicators:
+SMA_5: 517.49
+EMA_5: 517.43
+MACD: -1.13
+MACD_SIGNAL: -3.03
+MACD_HIST: 1.9
+RSI: 65.36
+BB_UPPER: 528.84
+BB_LOWER: 496.3
+BB_MIDDLE: 512.57
+OBV: 182,244,000.0
+ADX: 13.07
+DMP: 19.86
+DMN: 20.08
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for UNH stock show that it is currently in a slight uptrend with the SMA_5 and EMA_5 above the current price. The RSI is at a relatively neutral level of 65.36, indicating room for potential price appreciation. The MACD histogram shows a positive value, suggesting bullish momentum. Alongside these technical factors, the positive Q3 earnings report exceeding expectations, guidance for the full year, and the increase in yearly revenue growth contribute to a favorable sentiment around the stock. Additionally, the price target increase by Credit Suisse and the historical track record of UNH meeting or exceeding street estimates further support the positive outlook for UNH stock, leading to an overall positive price movement.",Negative

@@ -1,0 +1,1167 @@
+Prompt,Response,Target
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-08-18
+Exxon Mobil (XOM) stock is being mentioned in multiple tweets, with the stock price listed at $94.38 on August 18, 2022. There is a 0.00% return currently associated with this stock. There is also a mention of crude oil demand being at its highest in 2022, the factors that may favor being long on crude oil, and China starting to reopen again.
+
+There are alerts and forecasts related to the XOM stock, with mention of low float momentum, price at $94.22, and an increase from the first alert. Additionally, there is a bullish forecast for XOM, with a 1.48% change intraday.
+
+Analyst price targets for XOM stock are mentioned, with resources provided to check for the top analyst price target for the following week. The stock performed positively at 1.48% change intraday.
+
+2022-08-19
+Exxon Mobil Corporation (XOM) stock is being traded at a price of $94.38 on 08/18/2022 with a current return of 0.00%. 
+There is an efficient up target above $90.80.
+There are stock buybacks happening.
+The top price target for XOM stock is being monitored for next week.
+
+2022-08-20
+- Exxon Mobil (XOM) stock was mentioned in a tweet discussing a comparison between Exxon Mobil and Chevron (CVX) in terms of investing.
+- The tweet also included a link for more information on the top analyst price target for the following week.
+
+2022-08-22
+- Oil prices plummeted due to concerns over the Iran nuclear deal being imminent.
+- Exxon Mobil (XOM) stock is mentioned alongside other energy companies like Schlumberger (SLB), Chevron (CVX), Occidental Petroleum (OXY), ConocoPhillips (COP), and Phillips 66 (PSX).
+- There is anticipation of a potential run-up in XOM stock.
+- Analysts have provided price targets for XOM in the upcoming week.
+- XOM is part of the energy sector ETF XLE, which has seen declining market breadth and price changes.
+- The comparison between Exxon Mobil (XOM) and Chevron (CVX) is highlighted, focusing on their performance and dividend payouts.
+- XOM stock is being discussed in various trading and investment communities, along with other stocks like Tesla (TSLA), Apple (AAPL), Microsoft (MSFT), and Amazon (AMZN).
+- The performance of major tech and energy stocks like Apple, Microsoft, Google, Amazon, and Exxon Mobil is being monitored closely.
+- There is trading analysis and alerts related to XOM stock, along with other stocks like Occidental Petroleum (OXY), Delta Air Lines (DAL), and JPMorgan Chase (JPM).
+- XOM's current status on the EPSMomentum platform is shared, indicating its opening price and return.
+- Analysis and updates on various stocks, including Facebook (FB), American Airlines (AAL), AMD, and Gold (GLD), are provided alongside XOM.
+- Saudi Arabia's oil minister's comments on oil prices being disconnected from fundamentals are highlighted.
+
+Technical Indicators:
+SMA_5: 94.53
+EMA_5: 95.0
+MACD: 1.47
+MACD_SIGNAL: 0.99
+MACD_HIST: 0.48
+RSI: 81.99
+BB_UPPER: 97.72
+BB_LOWER: 87.38
+BB_MIDDLE: 92.55
+OBV: -40,776,100.0
+ADX: 11.03
+DMP: 30.6
+DMN: 23.43
+
+Price Movement:","Positive
+
+Explanation: Despite a slightly high RSI of 81.99 indicating potential overbought conditions, the price movement of Exxon Mobil (XOM) stock is likely to be positive. The stock is benefiting from mentions and positive forecasts, including alerts about low float momentum, stock buybacks, and bullish forecasts for XOM. Additionally, the surge in crude oil demand in 2022 and China's re-opening contribute to a positive sentiment. Furthermore, the technical indicators such as a positive MACD and a bullish ADX suggest that the stock may see an uptrend in the near term. Despite concerns over oil prices due to Iran's nuclear deal, the overall sentiment and forecasts for XOM appear favorable.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-08-25
+- Exxon Mobil (XOM) stock saw a large transaction with a size of 184,815 shares at a price of $98.67, totaling $18,235,696.05.
+- Top analysts provided a price target for XOM for the following week.
+- There was discussion about an increase in demand for energy products from Iran due to an energy crisis in Europe and China.
+- XOM was mentioned as a low float momentum alert with a price of $99.72.
+- Various stock alerts and analyses were shared for XOM, including entries and exits recommendations.
+- Members in a trading server expressed satisfaction with the assistance they received with their investments, mentioning several other stocks related to XOM, such as CMCSA, PEP, SAP, ABBV, ABT, TM, and more.
+
+2022-08-26
+Exxon Mobil Corporation (XOM) stock was mentioned in several tweets, with analysts discussing price targets and the performance of energy stocks.
+Energy stocks, including XOM, outperformed during the week, with analysts bullish on the sector.
+There were comparisons made between the rally of energy stocks like XOM and other companies like Chevron (CVX) and Occidental Petroleum (OXY).
+There were also mentions of trading alerts and analysis related to XOM stock in various trading platforms.
+
+2022-08-27
+- Exxon Mobil (XOM) stock was part of the energy sector that performed well over the past week, as indicated by the S&amp;P map.
+- Other major stocks like Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) experienced declines in their stock prices.
+- Specific data on Exxon Mobil's stock performance was not provided in the tweets.
+
+2022-08-28
+- Exxon Mobil (XOM) is included in the list of stocks mentioned in the trading chat on Discord.
+- Exxon Mobil's stock performance for the past week is not explicitly mentioned, but it is likely included in the list of largest stocks that saw declines, such as Apple, Microsoft, Google, and Amazon.
+- Exxon Mobil is part of the group of companies known as Dividend Champions, which have a track record of more than 25 years of consecutive dividend increases.
+
+2022-08-29
+- Exxon Mobil (XOM) stock had a nice print with a size of 207,144 shares at a price of $100, totaling $20,714,400.
+- Morgan Stanley maintained an overweight rating on Exxon Mobil and raised its price target to $107.
+- Oil stocks, including XOM, OXY, and COP, were defying the red market trend and experiencing gains.
+- There were low float momentum alerts for XOM, with price increases of 1%, 2%, and 3% noted.
+- Bull forecasts for XOM indicated a positive intraday change of 2.80%.
+- Other companies mentioned alongside XOM in these tweets include Apple (AAPL), Nvidia (NVDA), Chevron (CVX), Marathon Oil (MRO), Schlumberger (SLB), Royal Dutch Shell (RH), and Humana (HUM).
+- There were discussions about dividend champions, Berkshire Hathaway potentially selling its shares in Occidental Petroleum (OXY), and the potential impact of China's economic challenges on various stocks.
+
+Technical Indicators:
+SMA_5: 98.39
+EMA_5: 97.64
+MACD: 2.17
+MACD_SIGNAL: 1.76
+MACD_HIST: 0.42
+RSI: 46.66
+BB_UPPER: 100.89
+BB_LOWER: 86.43
+BB_MIDDLE: 93.66
+OBV: -17,979,100.0
+ADX: 12.56
+DMP: 27.75
+DMN: 23.39
+
+Price Movement:","Positive
+
+Explanation: Despite some negative sentiment in the market overall and declines in other major tech stocks, Exxon Mobil (XOM) stock benefited from positive mentions, analyst price targets, and increased demand for energy products due to global energy crises. The stock saw substantial transactions and positive momentum alerts, with mentions in various trading platforms and social media indicating increasing interest and bullish sentiments. The technical indicators, including a positive MACD, RSI approaching neutral levels, and a strong ADX confirming trend strength, suggest a potential for price appreciation in XOM stock, supported by the favorable outlook and bullish sector performance.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-02
+Top analyst price target for $XOM stock for next week is indicated to be $1,200.
+Russia has suspended the Nord Stream pipeline to Europe indefinitely, impacting stocks like $XLE and $XOM.
+$XOM, Exxon Mobil, was removed from the Dow two years ago, replaced by $CRM.
+China's lockdown measures have negatively affected auto stocks like $OXY, with Berkshire Hathaway also dumping $DAL.
+China's economic confidence is at a 20-year low, leading to potential shorting opportunities in various stocks including $XLE, $XOM, $OXY, $COP, $PSX, $CVX, $HES, and $NIO.
+There are dividend ETFs like ISHARES $DVY and SCHWAB $SCHD that include stocks like $XOM in their holdings.
+Overall, the largest stocks like Apple $AAPL, Microsoft $MSFT, Google $GOOGL, Amazon $AMZN, and Tesla $TSLA experienced varied performance during the observed period.
+
+2022-09-03
+Exxon Mobil Corporation (XOM) is listed as one of the best stocks with an Earning Momentum of 32.0, a market capitalization of 360,762.0, and a perfect timing of 6.3.
+
+There is no specific information regarding Exxon Mobil Corporation's revenue or earnings in the provided tweets.
+
+2022-09-04
+Exxon Mobil Corporation (XOM) was mentioned in several tweets discussing its stock performance and analyst price targets.
+Some tweets mentioned oil plays, including XOM, as potentially heating up in the market.
+There were discussions about XOM being added to the Best Stocks list with various metrics provided.
+Overall, the sentiment around XOM stock seemed positive and there was anticipation for a potential run-up in its value.
+
+2022-09-05
+- Exxon Mobil Corporation (XOM) stock has been added to the Best Stocks list with an EM of 32.0 and a market capitalization of 356916.0.
+- Top analysts have set price targets for XOM for the next week.
+- XOM stock is set and ready for a potential run-up.
+- XOM is one of the best-performing Mega Cap stocks year-to-date, with a 56.22% increase in value.
+
+2022-09-06
+- Exxon Mobil Corporation ($XOM) stock is set for a potential run-up.
+- Top analysts have provided price targets for $XOM for the next week.
+- $XOM has been added to the Best Stocks list with certain metrics.
+- There are CALL/PUT ratios for energy plays, with $XOM being put-dominated.
+- The stock saw a 700% increase in trading volume, making it one of the top trending stocks on Reddit.
+- Shell and Exxon have launched the sale of a major Dutch gas venture, NAM, in hopes of raising over $1 billion.
+- Two years ago, Salesforce ($CRM) replaced Exxon Mobil Corporation ($XOM) in the Dow.
+
+Technical Indicators:
+SMA_5: 94.83
+EMA_5: 95.06
+MACD: 1.12
+MACD_SIGNAL: 1.54
+MACD_HIST: -0.41
+RSI: 38.04
+BB_UPPER: 100.04
+BB_LOWER: 90.08
+BB_MIDDLE: 95.06
+OBV: -70,012,400.0
+ADX: 10.43
+DMP: 23.04
+DMN: 29.91
+
+Price Movement:","Negative
+
+Explanation: Despite some positive sentiment and potential run-up predictions for Exxon Mobil Corporation (XOM) stock, multiple factors weigh negatively on its price movement. The suspension of the Nord Stream pipeline by Russia has impacted energy stocks like XOM. China's economic uncertainty and lockdown measures have also contributed to potential shorting opportunities in stocks like XOM. The omission of XOM from the Dow index coupled with overall market struggles hint at challenges for XOM's price movement. Additionally, technical indicators like the RSI (38.04) being below the overbought threshold and a negative MACD histogram (-0.41) suggest a bearish sentiment in the short term, adding pressure to XOM's price movement.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-09
+Key facts regarding XOM stock:
+- Exxon Mobil Corporation (XOM) is set for a potential run up
+- Top analyst price target for XOM for next week is favorable
+- There is a potential opportunity to earn significant dividends from owning XOM stock, with one investor claiming to be up 133% and receiving over $500 every quarter
+- XOM is seen as a promising investment by some traders and investors
+- XOM stock was listed as one of the options for investing stimulus checks in a tweet, indicating potential value in the stock
+- There were discussions about oil and commodity markets potentially facing challenges, which could impact XOM's performance
+
+These tweets suggest that XOM stock may be a favorable investment option for some traders, with positive outlooks and potential opportunities for growth.
+
+2022-09-10
+- ExxonMobil ($XOM) had various analyst ratings and price targets for the week.
+- The bullish trend for ExxonMobil was strong, with support levels being important for potential benefits.
+- A technical rally was mentioned in relation to various other stocks and indices, including SPY, QQQ, AAPL, XOM, and more.
+- The performance of the largest stocks in the past week was briefly summarized.
+- ExxonMobil had top analyst price targets for the upcoming week.
+
+2022-09-11
+- Exxon Mobil (XOM) is included in the Best Stocks list with an Earning Momentum of 32.0 and a market capitalization of 356,916.0.
+- Top analysts have provided price targets for XOM for the next week.
+- Europe is struggling to cope with Russia gas shutoffs, which could impact companies like Exxon Mobil (XOM), Occidental Petroleum (OXY), Chevron (CVX), and Royal Dutch Shell (SHEL).
+- There is anticipation of a significant move in XOM in the next few hours.
+
+2022-09-12
+- Exxon Mobil (XOM) stock is being discussed and analyzed for a potential run-up.
+- Top analysts have set price targets for XOM for the next week.
+- There is speculation and analysis on the performance of oil and commodities, including XOM.
+- There is observed buying activity and a dip in XOM stock, with investors hoarding shares.
+- XOM is part of the discussion on how the largest stocks performed that day.
+- XOM is mentioned in the context of money flow and stock market trends.
+- The stock is part of trading alerts, updates, and analysis discussions.
+- XOM is included in discussions about stimulus check investments and potential returns.
+
+2022-09-13
+- Exxon Mobil Corporation (XOM) was mentioned in the tweets as one of the stocks being traded and discussed.
+- There was a trade alert for XOM that hit 50% profit.
+- Top analyst price targets for XOM were mentioned.
+- A mention of people buying the dip and hoarding shares of XOM.
+- Stimulus check amounts were linked to cryptocurrency prices, including XOM.
+- Overall, the sentiment towards XOM in the tweets seemed to be mixed with mentions of both positive and negative aspects of the stock.
+
+Technical Indicators:
+SMA_5: 96.4
+EMA_5: 96.5
+MACD: 1.08
+MACD_SIGNAL: 1.21
+MACD_HIST: -0.13
+RSI: 61.16
+BB_UPPER: 100.09
+BB_LOWER: 91.99
+BB_MIDDLE: 96.04
+OBV: -13,549,700.0
+ADX: 8.57
+DMP: 28.14
+DMN: 26.04
+
+Price Movement:","Positive
+
+Explanation: The technical indicators for XOM stock, such as a slightly positive MACD and RSI below overbought levels at 61.16, suggest a moderate bullish sentiment. Despite some mixed sentiment in tweets about the stock, the key facts indicated a favorable outlook, potential dividends, and significant gains for investors. The bullish trend analysis for ExxonMobil, coupled with top analyst price targets and the anticipation of a potential move, indicates an overall positive sentiment surrounding the stock. Additionally, discussions about XOM's inclusion in the Best Stocks list and potential buying activity during dips further contribute to the positive outlook for the stock. With technical indicators pointing to a potential run-up and the market sentiment favoring XOM, the overall impact on the price movement of XOM stock is estimated to be positive.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-16
+Exxon Mobil Corporation (XOM) stock had a trade alert for a profitable put option on 9/16/22. 
+There was a significant increase in put-dominated option trading volume for XOM.
+A top analyst price target was set for XOM.
+XOM was mentioned in comparison to Meta Platforms Inc (formerly Facebook) in terms of market cap growth.
+Exxon Mobil was listed as one of the top analyst-rated stocks for the week.
+There was positive sentiment and buying activity surrounding XOM stock after a dip.
+Various stock trading groups and analysts provided updates, analysis, and alerts for XOM.
+
+2022-09-17
+Exxon Mobil (XOM) stock was on the list of the largest stocks by market cap.
+Exxon Mobil was mentioned in rumors regarding layoffs and job cuts.
+25% of the Energy & Natural Resources Committee traded XOM or CVX stock.
+XOM stock was down 3.4% in the past week.
+There is a top analyst price target for XOM stock for the upcoming week.
+EPSMomentum listed XOM as an opened trade with a current return of -4.57%.
+
+2022-09-18
+- Exxon Mobil (XOM) stock was mentioned in several tweets discussing analyst price targets, trading activity, and market performance.
+- 25% of the Energy & Natural Resources Committee traded XOM or Chevron (CVX) stock.
+- There was a trading chat on Discord mentioning various stocks, including XOM.
+- Exxon Mobil stock was being bought by many investors, indicating a potential dip in the stock price.
+- The largest stocks by market cap in January 2000 included Microsoft (MSFT), Walmart (WMT), and Exxon Mobil (XOM).
+
+2022-09-19
+Exxon Mobil Corporation (XOM) stock was mentioned in several tweets regarding analyst price targets and trading activity.
+Some individuals are buying the dip in XOM shares, indicating potential investor interest or confidence in the stock.
+There were mentions of energy plays like OXY and CVE, as well as the energy sector ETF XLE, which may impact XOM's performance.
+Overall, the tweets suggest a mixed sentiment towards XOM stock with some focus on potential price movements and trading strategies.
+
+2022-09-20
+ExxonMobil (XOM) stock had a significant trade with a size of 725,221 shares at a price of $92.1861, totaling $66,855,295.63.
+There were top analyst price targets for XOM for the upcoming week.
+There were mentions of hoarding shares of XOM and possible buying the dip scenarios.
+There was discussion about layoffs at ExxonMobil and changes within the company.
+There were alerts about potential pump and dump schemes, as well as new offerings and redemptions in the energy sector.
+Oil demand was mentioned to be decreasing, with implications for related stocks like XOM.
+There were warnings about a potential ETF flash crash and suggestions to sell or short various stocks, including XOM.
+Overall, there was a mix of positive and negative sentiment regarding XOM stock in the tweets provided.
+
+Technical Indicators:
+SMA_5: 92.93
+EMA_5: 92.82
+MACD: -0.15
+MACD_SIGNAL: 0.58
+MACD_HIST: -0.73
+RSI: 24.22
+BB_UPPER: 100.24
+BB_LOWER: 91.03
+BB_MIDDLE: 95.64
+OBV: -119,903,700.0
+ADX: 10.43
+DMP: 21.91
+DMN: 28.48
+
+Price Movement:","Negative
+
+Explanation: The technical indicators for XOM stock, such as the RSI of 24.22 indicating oversold conditions, a negative MACD trend, and a downward sloping OBV, point towards a bearish sentiment. The negative price movement is further fueled by the negative news surrounding job cuts, decreasing oil demand, potential pump and dump schemes, and warnings of a flash crash in related ETFs. Despite some positive mentions like buying the dip scenarios and top analyst price targets, the overall sentiment inferred from both facts and technical indicators leans towards a negative impact on the price movement of XOM stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-23
+$XOM stock experienced a bearish formation and a confirmed downtrend, in line with the oil market.
+Top analyst price targets for $XOM were discussed.
+$XOM stocks were correcting and trading lower, with potential for further downside.
+There was significant buying activity for $XOM, with many hoarding shares during the dip.
+Various committees and sectors were actively trading $XOM and other energy stocks.
+Call/put ratios for energy plays showed a mix of call dominance for $OXY and $XOM, and put dominance for $XLE, $CVE, and $PLUG.
+
+2022-09-24
+-XOM is the symbol for ExxonMobil.
+-Top analysts provided price targets for XOM stock for the next week.
+-There was a long-term forecast for XLE (Energy ETF) for a specific date in 2022, involving XOM and Chevron (CVX).
+-There were alerts and updates regarding XOM stock movements.
+-There were discussions about ExxonMobil overspending on oil and gas projects.
+-There were mentions of layoffs and job cuts at ExxonMobil.
+-Imperial Oil (IMO.TO) was mentioned in the context of share buybacks.
+
+2022-09-25
+- Exxon Mobil (XOM) stock is mentioned in the tweets, with analysts providing price targets for the following week.
+- There is anticipation that XOM is set for a potential run-up in its stock price.
+- There are concerns about oil and banks, with references to the XLE (Energy Select Sector SPDR Fund) and XLF (Financial Select Sector SPDR Fund) being hammered.
+- A leaked study suggests that Exxon Mobil and its partners overspent by $138 billion on oil and gas projects.
+
+2022-09-26
+ExxonMobil (XOM) stock experienced a decline in price, with specific price targets and levels posted ahead of time.
+There were layoffs at ExxonMobil, causing job cuts in Texas and Houston.
+The energy sector, including ExxonMobil, was affected by market conditions.
+There were discussions about the company's performance and market analysis in trading chat rooms and Discord channels.
+
+2022-09-27
+ExxonMobil (Ticker: XOM) stock saw concerns as oil prices dropped below $80, leading to speculation about layoffs in Texas, Houston, and Singapore.
+Top analysts provided price targets for XOM stock for the next week.
+There were alerts and updates on XOM stock movements, with discussions on Discord and other trading platforms.
+Call/put ratios for energy plays like XOM showed call dominance, while some ETF exposure rankings included XOM as a top stock.
+Investors were buying the dip in XOM stock, with hoarding of shares reported.
+Overall, there was general market volatility and trading activity surrounding XOM stock.
+
+Technical Indicators:
+SMA_5: 86.98
+EMA_5: 87.77
+MACD: -1.89
+MACD_SIGNAL: -0.84
+MACD_HIST: -1.05
+RSI: 48.22
+BB_UPPER: 100.54
+BB_LOWER: 85.03
+BB_MIDDLE: 92.78
+OBV: -148,974,700.0
+ADX: 16.06
+DMP: 21.54
+DMN: 32.1
+
+Price Movement:","Negative
+
+Explanation: The technical indicators for XOM stock show a bearish sentiment, with the stock below its SMA and EMA, negative MACD values indicating a bearish momentum, RSI below 50 signaling a lack of strong buying pressure, and the OBV showing a net outflow of volume. Despite some positive directional indicators like DMP > DMN, suggesting potential strength in the uptrend, the overall market sentiment surrounding XOM is negative due to confirmed downtrends, bearish formations, concerns regarding overspending on projects, layoffs, and the impact of falling oil prices on the energy sector, leading to further downside potential. Additionally, call/put ratios and buying activity may not be sufficient to reverse the bearish trend in XOM stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-09-30
+Exxon Mobil (XOM) overtook Meta's market value for the first time in 5 years.
+Exxon Mobil (XOM) faced a decline in revenue, with its Q2 earnings showing a 13% decrease.
+Exxon Mobil (XOM) closed above META in market value for the first time in 5 years.
+Exxon Mobil (XOM) experienced layoffs and job cuts.
+Analysts provided price targets for Exxon Mobil (XOM) for the next week.
+Exxon Mobil (XOM) stock performance was closely monitored and analyzed by traders and analysts in the market.
+Exxon Mobil (XOM) opposed the Biden administration's request to reduce overseas oil exports and stockpile oil.
+
+2022-10-01
+Exxon Mobil (XOM) had a monthly golden cross, indicating potential bullish momentum.
+The stock price of Exxon Mobil surpassed Facebook's market capitalization for the first time in 6 years.
+Apple (AAPL) experienced an 8.1% decrease in stock price, Microsoft (MSFT) decreased by 2.1%, Google (GOOGL) by 3.1%, and Amazon (AMZN) increased by 3.1% this past week.
+During Q3, Apple (AAPL) decreased by 0.5%, Microsoft (MSFT) by 10.3%, Google (GOOGL) by 12%, and Amazon (AMZN) increased by 3.1%.
+There were top analyst price targets for Exxon Mobil (XOM) for the following week.
+
+2022-10-02
+Based on the tweets, key facts regarding XOM (Exxon Mobil) stock include:
+- Top analyst price target for next week is being discussed.
+- Oil producers, including Exxon Mobil, may consider cutting output by more than 1 million barrels a day.
+- Trading analysis and updates are available for XOM stock.
+- Discord trading chatrooms offer alerts and entries/exits for various stocks, including XOM.
+- XOM is part of a list of energy stocks discussed in trading analysis.
+- Free trading analysis and updates are provided for XOM stock.
+
+2022-10-03
+Exxon Mobil (XOM) stock was being monitored for potential bullish alerts at $91.82.
+OPEC+ seeking to cut oil production could impact gasoline prices and oil stocks positively, including XOM.
+Analysts had a positive outlook on XOM, with the stock price expected to shoot higher.
+XOM was included in various stock trading groups and discussions, with traders taking note of its performance.
+There were mentions of buying the dip in XOM, indicating potential interest in the stock.
+The overall market analysis included XOM as part of the S&P 500 quarterly analysis.
+There were alerts and recommendations given for trading XOM, as well as other stocks in the market.
+XOM had experienced a 9.30% intraday change, and its performance was being closely watched by traders.
+
+2022-10-04
+Exxon Mobil ($XOM) signals strong Q3 earnings but is shy of a record. Their operating results could drop to about $11 billion before earnings are announced. The stock price of XOM has the potential for a breakout as oil prices are projected to rise.
+
+Technical Indicators:
+SMA_5: 92.46
+EMA_5: 93.85
+MACD: -0.28
+MACD_SIGNAL: -1.04
+MACD_HIST: 0.77
+RSI: 81.33
+BB_UPPER: 100.72
+BB_LOWER: 83.66
+BB_MIDDLE: 92.19
+OBV: -107,355,600.0
+ADX: 16.14
+DMP: 37.57
+DMN: 20.89
+
+Price Movement:","Positive
+
+Explanation: Despite the decline in revenue and layoffs faced by Exxon Mobil (XOM), the stock exhibited strong positive momentum as indicated by a high RSI of 81.33 and a monthly golden cross suggesting potential bullish momentum. The technical indicators, such as a positive MACD histogram and bullish ADX reading, further supported the positive price movement. Additionally, Exxon Mobil surpassed Facebook's market capitalization and a potential breakout in the stock price, fueled by strong Q3 earnings projections amidst rising oil prices. The collective impact of these factors is likely to drive XOM stock price upwards in the near term.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-07
+- Exxon Mobil Corporation (XOM) stock was at an all-time high, facing a triple top.
+- Banks and analysts forecasted a potential increase in oil prices, suggesting upside potential for oil stocks like XOM.
+- Top analyst price targets were set for XOM for the next week.
+- Short sale volume for XOM was at 61% on a specific date.
+- Overall, there was a positive outlook for XOM stock amidst favorable market conditions and forecasts for the oil industry.
+
+2022-10-08
+Exxon Mobil (XOM) is on track to have its best week ever in history.
+The company has been public since the 1970s.
+$XOM has joined the Best Stocks list at EPSMomentum with Earning Momentum of 32.0 and perfect timing of 11.63.
+Top analyst price targets for XOM for the upcoming week are being shared.
+$XOM is part of the energy sector and has experienced significant growth compared to other market leaders in the past 52 weeks, with a positive performance of 66%.
+
+2022-10-09
+Exxon Mobil (XOM) stock was mentioned in several tweets alongside other oil companies like Chevron (CVX) and Devon Energy (DVN).
+Analysts provided price targets and analysis for XOM stock in the upcoming week.
+There was speculation about XOM being set for a potential run-up in price.
+Overall market analysis included XOM stock alongside other major companies like Microsoft (MSFT), Apple (AAPL), Facebook (FB), and more.
+The concept of negative CCC (Cash Conversion Cycle) was discussed, with Exxon Mobil (XOM) being mentioned as one of the companies with a negative CCC.
+There were mentions of upcoming dividend increases for companies like McDonald's (MCD), potentially including Exxon Mobil (XOM).
+
+2022-10-10
+Exxon Mobil (XOM) stock had a nice print with a total amount of $138,493,323.08.
+There were Level posts ahead of time for XOM.
+Analysts had different price targets for XOM's next week.
+Exxon was considering acquiring Denbury.
+The company Expresses preliminary interest in a Denbury buyout.
+There was a strong interest in buying the dip for XOM stock.
+
+2022-10-11
+Exxon Mobil (XOM) is considering acquiring Denbury (DEN) according to Bloomberg.
+There was a significant buy trade for $XOM with a size of 2026166 shares at a price of $98, totaling $198,564,268.
+There were alerts and updates regarding XOM stock price targets and analysis for the upcoming week.
+There were also discussions on layoffs and cost-cutting measures within Exxon Mobil.
+There was a general positive sentiment and buying activity surrounding XOM stock, with many investors buying the dip.
+
+Technical Indicators:
+SMA_5: 99.67
+EMA_5: 98.29
+MACD: 1.58
+MACD_SIGNAL: 0.54
+MACD_HIST: 1.04
+RSI: 60.58
+BB_UPPER: 103.47
+BB_LOWER: 82.54
+BB_MIDDLE: 93.01
+OBV: -124,692,900.0
+ADX: 19.6
+DMP: 32.37
+DMN: 21.9
+
+Price Movement:","Positive
+
+Explanation: Despite some technical indicators showing signs of slowdown, such as RSI at 60.58 suggesting potential consolidation, the overall positive sentiment in the market coupled with the strong fundamental factors led to an upward price movement for Exxon Mobil (XOM) stock. The continuous discussions of potential acquisitions, positive price targets, strong company performance, and optimistic market outlook all contributed to the stock reaching all-time highs and undergoing its best week ever in history. The high analyst price targets, discussions of dividend increases, and overall buying activity surrounding XOM indicated a bullish sentiment that outweighed the minor technical slowdown signals.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-14
+- Exxon Mobil (XOM) stock is being analyzed and recommended by various traders and analysts.
+- There is anticipation of a potential run-up in XOM stock.
+- The company recently made its first carbon capture deal.
+- XOM is included in the list of best performing dividend stocks.
+- Top analyst price targets and forecasts are being shared for XOM stock.
+- There are discussions about layoffs at ExxonMobil.
+- XOM is mentioned in various trading alerts and analysis.
+- Traders are discussing the potential profitability and target prices for XOM stock.
+
+2022-10-15
+ExxonMobil (XOM) has been listed as one of the best stocks with an Earning Momentum of 32.0 and perfect timing of 9.8.
+There are analyst price targets for XOM set for the next week.
+There is anticipation for XOM to have a run-up in its stock price.
+XOM is part of some dividend portfolio holdings alongside other companies in different sectors like 3M in Industrial, Johnson & Johnson and AbbVie in Healthcare, JPMorgan Chase, Bank of America, Franklin Resources, and T. Rowe Price in Financial, and Realty Income and LTC Properties in REIT.
+
+2022-10-16
+Analysts have set a top price target for XOM for the next week.
+XOM is anticipated to have a run-up based on market trends.
+Exxon has appointed an ex-auto executive to focus on climate-friendly profits.
+XOM has been listed as one of the best stocks with high earning momentum and market capitalization.
+XOM is included in a stock watchlist for options trading.
+XOM is part of the top 10 stocks based on social and market activity according to LunarCrush AlternativeRank™.
+
+2022-10-17
+Exxon Mobil Corp. (XOM) experienced layoffs in Texas and Houston as part of cost-cutting measures.
+Russia unilaterally terminated Exxon's interests in the Sakhalin-1 oil project.
+In the energy sector, there is a bullish outlook due to supply/demand imbalances, with a significant portion of the portfolio long on energy-related stocks like XOM, XLE, XOP, and CVX.
+Top analyst price targets for XOM were provided.
+Stimulus check comparisons were made with various cryptocurrencies, including XOM.
+There were alerts, watchlists, and chatroom invitations related to XOM trading and investments.
+
+2022-10-18
+Exxon Mobil ($XOM) has pulled out of Russia after failed attempts to transfer or sell its stake in the Sakhalin-1 oil and gas project.
+Oil futures dropping could lead to $XOM retesting $100 quickly.
+$XOM stock is awaiting a short signal based on 32 signals on the 15-minute chart.
+$XOM saw a confirmed double top on the daily chart.
+NJ attorney general filed a suit accusing $XOM and other oil companies of misleading the public about their products.
+Top analysts have set price targets for $XOM for the next week.
+$XOM had to say goodbye to Russia after Putin seized the oil project.
+There is a Discord group for stock traders discussing updates, analysis, and chat related to companies like $XOM.
+
+Technical Indicators:
+SMA_5: 101.25
+EMA_5: 101.35
+MACD: 2.42
+MACD_SIGNAL: 1.63
+MACD_HIST: 0.8
+RSI: 74.21
+BB_UPPER: 107.78
+BB_LOWER: 82.41
+BB_MIDDLE: 95.09
+OBV: -68,625,500.0
+ADX: 22.37
+DMP: 31.2
+DMN: 17.26
+
+Price Movement:","Negative
+
+Explanation: Despite some positive technical signals, such as a high RSI of 74.21 and a MACD indicating positive momentum, Exxon Mobil (XOM) stock faced significant challenges with layoffs in Texas and Houston, Russia terminating their interests in a key oil project, and legal issues regarding product transparency. These fundamental factors, along with the company's withdrawal from Russia amid falling oil prices, contributed to a negative sentiment towards XOM, overshadowing any technical strength. The divergence between technical indicators and fundamental developments led to a downward pressure on the stock price.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-21
+Exxon Mobil (XOM) shares hit a new all-time high at $106.16, surpassing the previous record.
+There is optimism for a potential run-up in XOM stock.
+Big Oil companies like XOM and CVX have a surprisingly bright future, according to analysts.
+ExxonMobil is considering significant job cuts in Texas, with potential bonuses to employees in December.
+Analysts have set a target price for XOM stock for the upcoming week.
+The stock price of XOM has been fluctuating, with alerts and updates provided for traders.
+There have been discussions about stimulus checks and their equivalent value in stocks like XOM.
+A low float momentum alert was issued for XOM, with a 1% increase in price.
+Traders are encouraged to join a Discord chat for analysis on stocks like XOM.
+Earnings are expected for XOM this week alongside other major companies.
+
+(END OF FACTS)
+
+2022-10-22
+Exxon Mobil (XOM) stock hit a new all-time high of $106.16.
+
+There is a big earnings week ahead, with Exxon Mobil (XOM) among the companies reporting earnings.
+
+Some companies reporting next week include Microsoft, Alphabet, Visa, Mastercard, Meta, Amazon, and Intel.
+
+Changes were made to a personal portfolio, including buying more shares of certain stocks like T (AT&T) and SCHB and selling 2 shares of XOM.
+
+Earnings for the week include companies like Apple (AAPL), Amazon (AMZN), Microsoft (MSFT), Meta (META), Google (GOOGL), UPS, General Motors (GM), Coca-Cola (KO), and Boeing (BA).
+
+Oil companies like Exxon Mobil (XOM) are also highlighted in financial reports.
+
+2022-10-23
+ExxonMobil ($XOM) stock is set and ready for a potential run-up according to analysts and technical analysis.
+An analyst has a price target for ExxonMobil ($XOM) stock for the next week.
+There are key earnings reports and events scheduled for ExxonMobil ($XOM) stock in the upcoming week.
+ExxonMobil ($XOM) stock is expected to make a move in the next few hours according to technical analysis.
+
+2022-10-24
+ExxonMobil (XOM) had a notable stock trade worth $41,671,251.07. The stock price reacted positively to reach $107.33. There are major energy earnings reports expected soon that include companies like $HAL, $VLO, $CVX, and more. Additionally, there are key earnings reports for the week ahead, including $AAPL, $MSFT, $GOOGL, $GM, and others.
+
+2022-10-25
+ExxonMobil stock ($XOM) has been mentioned in various tweets, including discussions about top analyst price targets, earnings reports, and stock performance.
+
+There are alerts and trading chat groups discussing various stocks, including $XOM, among others like $SPY, $AAPL, $NFLX, $MSFT, and more.
+
+ExxonMobil's stock has been identified as one of the best-performing stocks year-to-date, along with Occidental Petroleum ($OXY) and Northrop Grumman ($NOC).
+
+There is information about earnings for the week that includes companies like $XOM, $AAPL, $MSFT, $GOOGL, and more.
+
+There has been a mention of ExxonMobil facing challenges, potentially related to layoffs, job cuts, and collapsing in some form.
+
+Overall, the tweets provide a mix of information regarding ExxonMobil's stock performance, analysis, and potential challenges it might be facing.
+
+Technical Indicators:
+SMA_5: 105.88
+EMA_5: 105.68
+MACD: 3.4
+MACD_SIGNAL: 2.65
+MACD_HIST: 0.75
+RSI: 78.64
+BB_UPPER: 110.67
+BB_LOWER: 88.97
+BB_MIDDLE: 99.82
+OBV: -9,474,200.0
+ADX: 27.42
+DMP: 32.53
+DMN: 13.32
+
+Price Movement:","Positive
+
+Explanation: Despite some negative sentiment surrounding potential layoffs, Exxon Mobil (XOM) stock hit an all-time high, emphasizing the optimism among analysts. The technical indicators also support a positive price movement, with a high RSI of 78.64 indicating overbought conditions but potential continued momentum. The MACD showing a positive histogram supports bullish momentum, and the stock's price surpassing previous records suggests strong buying interest. Analyst price targets and positive earnings expectations add to the overall positive sentiment surrounding XOM stock.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-10-28
+Exxon Mobil (XOM) reported record-breaking profits in Q3 2022, with earnings of $4.45 per share, beating estimates of $3.89 per share. Their revenue was $112.07 billion, also surpassing expectations.
+Exxon Mobil announced a 3.40% increase in their quarterly dividend to $0.91 per share, marking their 40th consecutive year of annual dividend growth.
+The company's stock price was on the rise after the strong earnings report, with after-hours trading showing a 2.05% increase.
+Exxon Mobil's performance in Q3 2022 nearly matched that of tech giant Apple (AAPL), with their profit almost equaling Apple's.
+Analysts and investors have shown positive sentiment towards Exxon Mobil, with a neutral technical analysis score and expectations of continued strong performance.
+The company's strong results were attributed to record refining volumes and increased cash flow from operations.
+Exxon Mobil's stock has been trending positively and shows potential for further growth, with analysts setting optimistic price targets.
+
+2022-10-29
+Exxon Mobil (XOM) reported record-smashing Q3 profits that nearly matched Apple's earnings.
+Exxon Mobil increased its quarterly dividend by 3.4% to $0.91 per share, marking the 40th consecutive year of annual dividend increases.
+The company's total revenue for Q3 was $112.07 billion, surpassing analyst expectations of $102.96 billion.
+Exxon Mobil's EPS for the quarter was $4.45, higher than the estimated $3.80.
+The stock price of XOM experienced a 2.05% increase in after-hours trading.
+Exxon Mobil and Chevron reported a combined net income of over $30 billion in the last quarter.
+Exxon Mobil cited lower chemical margins due to softening demand in North America and Europe, as well as bottom-of-cycle conditions in Asia.
+
+2022-10-30
+Exxon Mobil Corporation (XOM) posted its highest-ever quarterly profit of over $20 billion in Q3.
+There is positive sentiment and expectations for XOM stock leading to a potential run-up.
+Top analysts have set a price target for XOM stock for the next week.
+Exxon's record-smashing Q3 profit nearly matches Apple's profit.
+There is ongoing discussion and analysis surrounding XOM stock within various trading groups and platforms.
+
+2022-10-31
+ExxonMobil (XOM) stock was set and ready for a potential run-up, with a top analyst price target for the next week.
+The company posted its highest-ever quarterly profit of over $20 billion in Q3.
+There is optimism about ExxonMobil's stock price, with some insiders holding shares since $74.
+ExxonMobil experienced steady growth and reached a new historical high.
+There have been mixed opinions and alerts about the stock, with some recommending it as a buy and others suggesting potential declines.
+Biden was reported to float a windfall tax on energy producers like ExxonMobil.
+Despite some analysts being bullish on oil stocks like ExxonMobil after midterms, there are contrasting views on the market trend.
+General insights suggest that the oil sector, including companies like ExxonMobil, is likely to see fluctuations and opportunities for profit.
+Various financial news outlets and analysts are closely monitoring ExxonMobil's performance and market dynamics, providing regular updates and predictions on the stock's movement.
+
+2022-11-01
+Exxon Mobil (XOM) stock has had a strong performance this year, with shares up more than 80% year-to-date, outperforming competitors like Chevron (CVX), BP, and Shell.
+
+Biden's call to tax oil companies did not significantly impact investor sentiment, as Exxon and Chevron stocks advanced despite the announcement.
+
+Top analysts have provided varying price targets for Exxon Mobil stock, with some anticipating a decrease in value in the upcoming week.
+
+Exxon Mobil reported massive profits, despite potential risks related to Biden's proposed windfall tax penalties on oil companies.
+
+There has been a notable increase in the number of stock options trading for energy sector companies like Exxon Mobil, indicating heightened interest and activity in the sector.
+
+Technical Indicators:
+SMA_5: 110.12
+EMA_5: 109.75
+MACD: 4.11
+MACD_SIGNAL: 3.55
+MACD_HIST: 0.56
+RSI: 61.55
+BB_UPPER: 112.9
+BB_LOWER: 95.56
+BB_MIDDLE: 104.23
+OBV: 64,869,900.0
+ADX: 34.74
+DMP: 32.7
+DMN: 12.57
+
+Price Movement:","Positive
+
+Explanation: The technical indicators, such as the positive MACD and the RSI in a healthy range of 61.55, align with the overwhelmingly positive fundamental news surrounding Exxon Mobil's record-breaking profits and dividend increases. The stock price reflected this optimism, rising over 2% in after-hours trading after the earnings report. Despite concerns about potential regulatory changes affecting oil companies, the strong financial results and positive sentiment from analysts and investors are likely to continue driving the stock price higher. The consistent uptrend in XOM stock and promising outlook suggest a positive price movement ahead.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-04
+The provided tweets contain information about stock trading alerts and analyst price targets for ExxonMobil (XOM). Other tweets mention ExxonMobil's stock hitting a new historic high, as well as its inclusion in a list of buy and hold dividend stocks. There is also mention of ExxonMobil layoffs and news relating to the company.
+
+2022-11-05
+ExxonMobil (XOM) stock was mentioned in several tweets about top analyst price targets, stock valuations, and updates on the company's performance. There were also mentions of ExxonMobil potentially facing layoffs and job cuts. The tweets highlighted the company's involvement in the energy industry, including oil and gas production.
+
+2022-11-06
+Exxon Mobil ($XOM) is facing up to a $2 billion loss on a troubled California offshore oil project.
+Two years ago, there were concerns about Exxon Mobil cutting its dividend.
+There are positive expectations for Exxon Mobil stock to have a run-up.
+An analyst has set a target price for Exxon Mobil stock for the next week.
+Exxon Mobil has been included on the Best Stocks list with an Earning Momentum of 24.0.
+There are discussions about layoffs at Exxon Mobil.
+There are analysis and price target updates for Exxon Mobil stock.
+A member praised a stock trading group for helping him reach his goals.
+There is a focus on financial indicators like EV/EBIT and ROCE for evaluating companies.
+
+2022-11-07
+Exxon Mobil Corporation (XOM) stock was mentioned in several tweets. The stock was trading at various levels that were posted beforehand. In the oil and gas sector, Exxon Mobil (XOM) and Chevron (CVX) were trading at new highs. Exxon Mobil will take up to a $2 billion loss on a sale of a troubled California offshore oil project. The company's top analyst price target for the following week was discussed.
+
+Additionally, there was a comparison between Exxon Mobil Corporation (XOM) and Chevron (CVX) in a dividend battle. ExxonMobil was mentioned as a favorite among institutional investors, with 59% ownership. The stock price of Exxon Mobil Corporation (XOM) was volatile, experiencing both upward and downward movements.
+
+Overall, the tweets highlighted the trading activity, price targets, and performance of Exxon Mobil Corporation (XOM) stock in relation to other companies in the oil and gas sector.
+
+2022-11-08
+ExxonMobil's stock, ticker symbol XOM, is mentioned in these tweets. There are discussions about the stock potentially being set for a run-up and receiving top analyst price targets for the next week.
+
+A House Republican, Bob Gibbs, bought ExxonMobil stock on November 9, 2021, and it has gained 72% since then.
+
+There is a low float momentum alert for XOM with a price of $114.24.
+
+There are comparisons between different dividend-paying stocks like XOM vs. CVX in a dividend battle.
+
+ExxonMobil was mentioned in relation to layoffs in a WSJ article.
+
+Various stock symbols are listed alongside XOM by traders and investors discussing market movements and potential opportunities.
+
+The tweets also mention reaching financial goals and lottery jackpot winnings with potential investments in dividend-paying stocks like XOM.
+
+There is a chatroom available for trading discussions, with mentioned stock symbols including XOM.
+
+ExxonMobil, McDonald's, Lockheed Martin, and Merck hit new 52-week highs, with XOM being one of the stocks mentioned. 
+
+Overall, these tweets provide insights into the potential performance and predictions for ExxonMobil's stock XOM in the market.
+
+Technical Indicators:
+SMA_5: 111.99
+EMA_5: 111.33
+MACD: 3.93
+MACD_SIGNAL: 3.96
+MACD_HIST: -0.02
+RSI: 38.86
+BB_UPPER: 116.12
+BB_LOWER: 98.5
+BB_MIDDLE: 107.31
+OBV: 110,661,300.0
+ADX: 35.24
+DMP: 27.63
+DMN: 19.95
+
+Price Movement:","Negative
+
+Explanation: Despite ExxonMobil's stock hitting a new historic high and being included in a list of buy and hold dividend stocks, the negative impact of layoffs, potential job cuts, and the $2 billion loss on an offshore oil project contributed to the overall negative sentiment. The technical indicators show a bearish RSI of 38.86 and the MACD histogram crossing below zero, indicating a potential downtrend. The mixed reactions from mentions of high analyst price targets and top performance in the oil and gas sector, coupled with volatility in the stock price, lead to an overall negative price movement outlook.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-11
+ExxonMobil's stock ($XOM) had various price targets set by analysts for the upcoming week.
+A senator bought up to $100,000 in Exxon Mobil stock.
+There was a low float momentum alert for $XOM with a price increase.
+A call option for $XOM was traded with a strike price of $55 and an expiration date in 2022, potentially resulting in a significant profit.
+ExxonMobil was mentioned in a tweet about layoffs and job cuts.
+A trading chat on Discord was mentioned for real-time alerts and analysis on stocks like $XOM.
+Live day trading and detailed analysis on stocks, including $XOM, was promoted for those seeking mentorship and real-time trading information.
+
+2022-11-12
+ExxonMobil (XOM) stock was mentioned in several tweets, with analysts providing price targets for the upcoming week.
+There was a comparison between ESG governance scores of different companies, with ExxonMobil scoring lower than expected.
+Various other stocks and market indicators were mentioned alongside ExxonMobil in the tweets.
+There was a mention of historic bullish positions in the oil market which could impact ExxonMobil's stock.
+ExxonMobil was highlighted in a list of stocks to buy and hold forever.
+There were references to layoffs and job cuts at ExxonMobil.
+A potential run-up in ExxonMobil stock was suggested by one tweet.
+An offer for trading assistance and tips was provided, including guidance on ExxonMobil stock.
+
+2022-11-13
+ExxonMobil (XOM) reported Q3 earnings with a key analyst price target for the upcoming week.
+ExxonMobil made its first oil discovery in Angola in 20 years.
+ExxonMobil's Coral South Project in Mozambique shipped its first LNG cargo to meet global demand.
+Traders are anticipating a potential run-up in ExxonMobil's stock price.
+There were discussions about ExxonMobil's ESG governance compared to other companies.
+ExxonMobil had $30 billion to spend on potential acquisitions.
+There was news of layoffs at ExxonMobil in Texas.
+Overall, it seems like ExxonMobil has been active in exploring new projects, making acquisitions, and dealing with market challenges.
+
+2022-11-14
+The key facts regarding XOM stock from the list of tweets are:
+
+- ExxonMobil (XOM) stock was mentioned in multiple tweets discussing trading, analyst price targets, and stock performance.
+- There was a mention of ExxonMobil potentially being a buyer in Next Bridge.
+- There was also a tweet mentioning layoffs at ExxonMobil.
+- Some tweets provided insights on XOM stock levels and performance predictions.
+
+Overall, the tweets discussed various aspects of ExxonMobil's stock, including trading strategies, analyst predictions, potential business moves, and recent developments like layoffs.
+
+2022-11-15
+ExxonMobil stock ($XOM) is part of a bullish trend and may be suitable for long positions.
+There is discussion and analysis of ExxonMobil stock in various trading groups.
+Some traders have reported making profits from trading ExxonMobil stock.
+ExxonMobil may be set for a run up, according to some analysis.
+There are concerns about layoffs and job cuts at ExxonMobil, potentially related to economic factors.
+Various price levels and potential moves for ExxonMobil stock have been discussed and shared in advance.
+Members of trading groups and communities have shared positive feedback about their experiences with analysis and support for trading ExxonMobil stock.
+
+Technical Indicators:
+SMA_5: 112.97
+EMA_5: 112.99
+MACD: 3.51
+MACD_SIGNAL: 3.75
+MACD_HIST: -0.23
+RSI: 54.6
+BB_UPPER: 116.41
+BB_LOWER: 104.07
+BB_MIDDLE: 110.24
+OBV: 136,251,400.0
+ADX: 31.11
+DMP: 27.72
+DMN: 18.68
+
+Price Movement:","Positive
+
+Explanation: Despite mixed sentiments and topics surrounding ExxonMobil (XOM) in the news and social media, the technical indicators suggest a positive outlook for the stock price. The stock is currently trading above both its 5-day Simple Moving Average (SMA) and Exponential Moving Average (EMA), indicating short-term bullish momentum. The Moving Average Convergence Divergence (MACD) is positive, with the signal line above the MACD line, signaling a potential uptrend. While the Relative Strength Index (RSI) is neutral at 54.6, the stock is trading within the Bollinger Bands region, with the price close to the middle band, indicating consolidation. The On-Balance Volume (OBV) is positive, suggesting buying pressure. Overall, the technical indicators point towards a positive price movement for ExxonMobil stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-18
+- ExxonMobil ($XOM) stock is mentioned in several tweets alongside other stocks like $AAPL, $T, $MSFT, $SPY, $FB, $CHWY, $PTON, $DIS, $F, $ADBE, $CSCO, $JPM, $CCL, $MGM, $IWM, $HD, $V, $TWTR, $AMD, $ZI, $BA, and $DOW.
+- A chart is referenced that highlights important levels for Energy stocks like $XOM, $XLE, $COP, $CVX.
+- $XOM's top analyst price target for the next week is mentioned in a tweet.
+- Another tweet mentions a trade alert for $XOM given by TradeWithAlerts, with a 20.42% change since the initial mention.
+- There are mentions of Discord groups providing updates, chatrooms, analysis, and trading alerts for stocks like $XOM and others.
+- A member review praises the server for helping them reach their financial goals, mentioning stocks like $CMCSA, $PEP, $SAP, $XOM, $ABBV, $ABT, $TM, $CRM, $ORCL, $CVX, $ASML, $LLY, $TMO, $AMGN, $AZN, $NKE.
+- Various stocks are mentioned in bullish forecasts, with intraday changes reported for $XOM and others.
+- A list of the 10 largest businesses in the world includes ExxonMobil ($XOM) alongside companies like Tesla ($TSLA), Apple ($AAPL), Amazon ($AMZN), Microsoft ($MSFT), and Google ($GOOGL).
+- Live day trading with detailed analysis, mentoring, and live news updates are promoted for stocks like $XOM and others.
+
+2022-11-19
+- ExxonMobil (XOM) is facing layoffs, job cuts, and restructuring within the company.
+- There are updates and analysis available on Discord for stock traders interested in XOM and other stocks.
+- Top analyst price targets for XOM are being discussed for the upcoming week.
+- ExxonMobil has a block in Guyana that is 26,806 square kilometers in size, 9 times larger than their average international offshore lease.
+- There are ETFs with top holdings in stocks like ExxonMobil, such as SCHD and DGRO.
+- There are long-term resistance levels for the energy complex, which includes ExxonMobil and other energy companies.
+
+2022-11-20
+ExxonMobil (XOM) stock was mentioned in several tweets regarding price targets, layoffs, and projected price movements.
+Analysts predicted various price targets for XOM stock for the upcoming week.
+There was speculation about layoffs at ExxonMobil, with references to job cuts in Texas and Houston.
+A chart was shared showing projected price movements for XOM stock.
+Several other stocks were also mentioned in the tweets, along with a recommendation for a Discord group for stock traders.
+Overall, the tweets provided a mix of information and speculation about ExxonMobil's stock performance and potential developments.
+
+2022-11-21
+ExxonMobil (XOM) stock experienced volatility due to concerns about a potential spike in Covid cases in China, causing oil prices to fall.
+Technical analysis suggests XOM is in a longer-term uptrend but has pulled back recently.
+There is a trading chatroom open to the public for those interested in XOM and other stocks.
+ExxonMobil layoffs were rumored, potentially contributing to stock movement.
+XOM was mentioned in the r/WallStreetBets daily discussion, indicating interest from retail traders.
+Analysts provided price targets for XOM for the next week.
+There were successful trades on XOM options, with some missing opportunities based on technical indicators.
+$XOM was listed in the IBD50 ranking.
+Overall, XOM stock faced uncertainty and potential downside pressure due to various factors mentioned in the tweets.
+
+Technical Indicators:
+SMA_5: 112.78
+EMA_5: 113.08
+MACD: 2.71
+MACD_SIGNAL: 3.18
+MACD_HIST: -0.46
+RSI: 57.76
+BB_UPPER: 115.67
+BB_LOWER: 108.26
+BB_MIDDLE: 111.96
+OBV: 118,461,700.0
+ADX: 24.22
+DMP: 25.76
+DMN: 21.05
+
+Price Movement:","Negative
+
+Explanation: Despite relatively neutral technical indicators such as a moderate RSI of 57.76 and a MACD showing mixed signals with a negative histogram, ExxonMobil (XOM) faced several external factors likely to impact its stock price negatively. The news of layoffs, job cuts, and restructuring within the company, combined with concerns about rising Covid cases in China affecting oil prices, created uncertainty for investors. While the stock exhibited a longer-term uptrend in technical analysis, the potential for downside pressure from these fundamental factors overshadowed any positive technical signals, contributing to an overall negative price movement sentiment.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-11-26
+- ExxonMobil (XOM) stock is being discussed in the context of trading chatrooms and analyst price targets.
+- Levels for XOM were posted ahead of time before the market opened.
+- There is a limited time offer to join a trading chatroom for learning and making profits.
+- Momentum is seen from big tech investors shifting towards big oil companies like ExxonMobil.
+- In comparison, the combined revenues of Chevron, ExxonMobil, and ConocoPhillips declined from $811 billion in 2007 to $478 billion last year, while the combined revenues of Google, Amazon, and Microsoft grew from $82 billion to $895 billion during the same period.
+
+2022-11-27
+- ExxonMobil (XOM) stock was mentioned in several tweets, including in relation to layoffs, job cuts, and the energy sector.
+- Traders discussed making profits and trading in XOM stock, with mentions of trading chat rooms and Discord groups.
+- There were references to analyst price targets for XOM stock in the upcoming week.
+- XOM stock was part of a list of stocks traded by traders, along with updates, analysis, and chatrooms.
+- Some traders mentioned making profits trading XOM stock and sharing their trading strategies and results.
+- The European majors were contrasted with the US majors in terms of maximizing returns.
+- Trading opportunities and resources, such as live day trading, detailed analysis, mentoring, and live news, were offered for XOM stock and other stocks.
+
+2022-11-28
+$XOM (Exxon Mobil) is mentioned in several tweets, including discussions about layoffs in 2023 and the company's decision to exit Equatorial Guinea in 2026.
+There are mentions of trading $XOM stock successfully and providing updates on price targets.
+Some tweets discuss the performance of $XOM stock and its impact on the S&P 500 EPS.
+There is information about oil prices and oil equities like $XOM and $OXY being major winners YTD.
+There are references to analyst price targets for $XOM stock and discussions about the stock's next moves.
+Overall, the tweets suggest that $XOM stock is actively traded and monitored by investors and traders.
+
+2022-11-29
+ExxonMobil (XOM) stock experienced a bearish trend, with a 3% decline.
+There were top analyst price targets for XOM for the next week.
+XOM was listed as having a stimmy check value of $2,630.75.
+There were updates and analysis available for XOM in a stock traders group.
+XOM stock price was included in a list of how the largest stocks performed that day, showing a 0.7% increase.
+There was anticipation and analysis of XOM's performance in the near future.
+There was information about potential layoffs at Exxon Mobil in 2023.
+
+2022-11-30
+ExxonMobil, represented by the stock ticker XOM, experienced layoffs in 2023 according to a tweet. The stock was mentioned in relation to call and put ratios, suggesting trading activity in the energy sector.
+There were also mentions of a trading chat-room opening to the public for a limited time to discuss stock movements, as well as forecasts and trade recommendations for various stocks including XOM.
+Additionally, a tweet highlighted that a significant amount of money could be made through trading Amazon stock, potentially indicating trading opportunities in other stocks like XOM.
+
+Technical Indicators:
+SMA_5: 111.14
+EMA_5: 111.24
+MACD: 1.5
+MACD_SIGNAL: 2.29
+MACD_HIST: -0.79
+RSI: 41.59
+BB_UPPER: 115.36
+BB_LOWER: 109.08
+BB_MIDDLE: 112.22
+OBV: 111,523,200.0
+ADX: 18.32
+DMP: 22.01
+DMN: 22.96
+
+Price Movement:","Negative
+
+Explanation: Despite having a relatively stable SMA and EMA, the MACD indicated a bearish momentum with a negative histogram. The RSI at 41.59 suggested the stock was neither oversold nor overbought, potentially indicating a neutral sentiment. The Bollinger Bands showed that the price was within the normal range but trending towards the lower band, pointing to potential downside movement. The OBV was relatively steady, showing a lack of significant accumulation or distribution. Additionally, the ADX reading of 18.32 indicated a weakening trend strength. Overall, the technical indicators point towards a negative price movement for XOM stock based on the current market conditions and sentiment.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-12-03
+- Exxon Mobil (XOM) stock was mentioned by multiple users, with one highlighting a top analyst price target for the upcoming week.
+- Another user mentioned making $1,400 trading XOM in the first hour of market open.
+- There was a discussion about stimulus check amounts with references to XOM stock as a potential investment option.
+- A user shared a link to a trading chatroom with free entries and exits for stocks like XOM.
+- Another user mentioned a run-up opportunity for XOM stock and shared a link to a chatroom for trading advice on various stocks including XOM.
+- Exxon Mobil (XOM) was included in a list of stocks potentially relevant for trading and investment decisions.
+
+2022-12-04
+ExxonMobil (XOM) is a key stock that has been mentioned in the tweets.
+A top analyst has provided price targets for XOM for the upcoming week.
+There is anticipation for ExxonMobil's corporate plan update.
+There are references to layoffs and job cuts at ExxonMobil.
+XOM stock is at all-time highs with a potential big move in the works.
+There are mixed performances among large stocks in 2022, with XOM included.
+The OPEC decision not to change oil production targets may impact XOM.
+Discord groups are offering trading insights and analysis on various stocks, including XOM.
+Live day trading and mentoring sessions are being offered with analysis on stocks like XOM.
+Traders are sharing their success stories and profits from trading XOM.
+
+2022-12-05
+- J.P. Morgan raised the price target of oil giants Exxon Mobil (XOM) to $117 from $105 and Chevron (CVX) to $161 from previous levels.
+- Stocksnipa mentioned XOM at a price of $109.75 with a change of 5.97% since their initial mention.
+- Exxon Mobil raised the CEO and top executives' base pay.
+- There are speculations of layoffs at Exxon Mobil.
+- Exxon Mobil was among the largest US stocks in terms of generated revenue.
+- XOM was mentioned in a list of stocks expected to rise in 2023.
+- The stock performance of Exxon Mobil saw a decline of 2.7% on a specific day.
+- The CEO of Exxon Mobil, Darren Woods, received a raise in his annual base salary.
+- A watchlist for stock movements included XOM as a potential option for trading with specific strategies.
+
+2022-12-06
+- ExxonMobil ($XOM) stock is set for a potential run-up, with top analyst price targets for the upcoming week.
+- There are trade alerts and options activity regarding $XOM, including put options and strikes.
+- Oil stocks, including Chevron and Exxon, have seen significant gains in yield and stock prices.
+- ExxonMobil layoffs have been reported, impacting job cuts in Texas and Houston.
+- The largest US stocks' revenue over the last year includes ExxonMobil generating $403.2 billion.
+- Trading chat rooms and Discord groups are available for stock analysis, alerts, and updates on $XOM and other stocks.
+- $XOM stock price has been subject to price action and charting analysis.
+- Market breadth and sector performance for $XOM and other energy companies like Chevron and EOG are being monitored.
+- There is speculation about $XOM potentially reaching triple top or double-digit prices.
+
+Overall, $XOM stock has been the subject of various trading activities, price targets, and market analysis, indicating a mix of potential growth and challenges within the energy sector.
+
+2022-12-07
+- There is discussion and speculation regarding the oil market, with some predicting a bear market and pointing out factors like peak oil demand and potential recession impacts.
+- ExxonMobil (XOM) is mentioned in various tweets alongside other stocks and analysts' price targets.
+- There is technical analysis and trading strategies being shared for XOM stock, with mentions of early highs and short corrections.
+- Some tweets highlight unusual options activity for XOM, such as significant put sweeps with specific strike prices and expirations.
+- The impact of stimulus checks on various stocks, including XOM, is mentioned in one tweet.
+- A list of dividend stocks to consider includes Exxon Mobil (XOM).
+- Trading alerts and updates related to XOM and other stocks are shared, with information on entries, exits, and more.
+- A member's positive review of a trading server includes mention of various stocks, including XOM, as well as other companies like SAP, Oracle, and more.
+- A Discord trading chatroom is promoted for free access, with mentions of various stocks including XOM.
+- Details about salary increments at ExxonMobil in Singapore are mentioned.
+- There are references to pre-market level predictions for XOM and successful trading plays on other stocks like Amazon.
+- An offer for live day trading analysis, mentoring, and news coverage is promoted, mentioning stocks like XOM among others.
+
+Technical Indicators:
+SMA_5: 105.73
+EMA_5: 105.67
+MACD: -0.61
+MACD_SIGNAL: 0.79
+MACD_HIST: -1.4
+RSI: 23.39
+BB_UPPER: 117.31
+BB_LOWER: 104.0
+BB_MIDDLE: 110.66
+OBV: 56,857,200.0
+ADX: 20.62
+DMP: 18.74
+DMN: 30.26
+
+Price Movement:","Negative
+
+Explanation: Despite having a slightly higher SMA and EMA, the negative MACD, RSI at 23.39 indicating oversold conditions, and a bearish ADX of 20.62 suggest weakness in XOM stock's price movement. The negative MACD Histogram further confirms the bearish sentiment. While discussions, price targets, and attention from analysts indicate potential growth opportunities, factors such as layoffs, speculation of a potential bear market in the oil industry, and technical indicators reflecting downward pressure contribute to the overall negative price movement sentiment. Trading activities, market analysis, and revenue generation could impact the stock's performance, but the technical indicators and negative sentiment weigh heavier on the price direction.",Positive
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-12-10
+Exxon Mobil (XOM) expanded its share buyback program up to $50 billion through 2024.
+There were layoffs at Exxon Mobil (XOM) as part of cost-cutting measures.
+There was a report that ExxonMobil (XOM) faced potential long-term challenges in the energy sector.
+A top analyst provided a price target for Exxon Mobil (XOM) for the next week.
+There was a mention of investing in Exxon Mobil (XOM) and receiving dividends.
+There was a reference to a trading chat-room opening to the public with potential daily earnings.
+
+2022-12-11
+- Exxon Mobil (XOM) stock was discussed in multiple tweets, including price targets and trading strategies.
+- There was a mention of the oil and energy sector opportunity with regards to XOM stock.
+- Some tweets highlighted the dividend income potential of investing in XOM.
+- One tweet mentioned the success of a trading chatroom that provided alerts and analysis for stocks like XOM.
+- One member's success story with trading XOM stock was shared, indicating a profitable trade.
+- There were various stock symbols mentioned alongside XOM, indicating market trends and trading opportunities.
+- The dividends received from XOM stock were mentioned in a list of other dividend-paying stocks.
+- Another tweet listed high-quality dividend-paying stocks, including XOM.
+- A market update video covered various tickers, including XOM.
+- There was a mention of a potential dead cat bounce in the market, which may impact stocks like XOM.
+
+2022-12-12
+ExxonMobil (XOM) stock faced a short signal based on trading data.
+Top analysts provided price targets for XOM in the upcoming week.
+The State Department's senior adviser for energy security criticized ExxonMobil's stock buyback schemes and urged them to increase drilling.
+There was a $100 to $10,000 challenge involving XOM stock.
+Flow data indicated buying and selling activity in the energy sector, including XOM.
+A member of a trading chatroom successfully closed a trade on XOM for a 100% profit.
+RBC Capital Markets released a report on the ""Oil Strategy 2023 Outlook,"" which may impact XOM stock.
+ExxonMobil was mentioned in relation to layoffs, job cuts, and oil strategy within the stock market.
+Stock market analysis tools and chatrooms were used to monitor and trade XOM stock.
+Various price targets and detailed levels were posted and analyzed in advance for XOM stock.
+
+2022-12-13
+- Exxon Mobil (XOM) stock was mentioned in several tweets regarding stock trading rooms, price targets, and acquisitions of assets.
+- There was a mention of Exxon Mobil assets potentially being acquired by Savannah Energy, with Chad contesting the acquisition.
+- An individual reported making a profit of $1,400 while trading Exxon Mobil stock in the first hour of market open.
+- There was a mention of ExxonMobil RSU awards, possibly related to layoffs or job cuts.
+- A trading chatroom claimed to have turned $2 into $10 in Exxon Mobil stock.
+- There were various price targets and forecasts mentioned for Exxon Mobil stock, as well as discussions about energy super-surplus in Argentina.
+- There were also tweets promoting stock trading chatrooms and trading alerts for Exxon Mobil stock.
+- A member reported reaching their financial goal with the help of a trading server that included Exxon Mobil stock in its recommendations.
+- RBCCM released a report titled ""Oil Strategy 2023 Outlook: Dissecting the Next Cycle,"" which may have implications for Exxon Mobil stock.
+
+2022-12-14
+ExxonMobil ($XOM) stock was mentioned in various tweets discussing price targets, trading analysis, options activity, and layoffs within the company.
+There were mentions of top analyst price targets for XOM stock and potential trend reversals.
+A trading chatroom on Discord provided updates and analysis on various stocks, including XOM.
+There was speculation about potential runs or reversals in XOM stock.
+ExxonMobil was referenced in relation to layoffs and job cuts.
+One tweet mentioned a list of favorite oil and gas stocks, which may include XOM.
+A trading challenge from $100 to $10,000 was initiated involving XOM stock.
+
+Technical Indicators:
+SMA_5: 105.76
+EMA_5: 105.9
+MACD: -0.93
+MACD_SIGNAL: -0.35
+MACD_HIST: -0.58
+RSI: 40.95
+BB_UPPER: 115.9
+BB_LOWER: 101.8
+BB_MIDDLE: 108.85
+OBV: 47,315,100.0
+ADX: 20.04
+DMP: 18.95
+DMN: 30.49
+
+Price Movement:","Negative
+
+Explanation: Despite some positive factors like an increased share buyback program and dividend income potential, the negative impact of layoffs, potential long-term challenges in the energy sector, and criticism from the State Department's energy security adviser weighed down on ExxonMobil (XOM) stock. The technical indicators also signal a negative trend with a negative MACD and RSI below 50, indicating potential weakness in the stock's price movement. The overall sentiment from the combination of facts and technical indicators suggests a negative price movement for ExxonMobil (XOM) stock.",Negative
+"Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of XOM stock. Give your response in this format:
+(1) Price Movement, which should be either Positive or Negative.
+(2) Explanation, which should be in a single, short paragraph.
+
+Facts:
+2022-12-17
+- XOM stock is being traded on the US stock market.
+- The stock has shown significant growth potential, with some traders turning $2 into $10 and $2000 into $10,000.
+- Top analysts have set price targets for XOM stock for the next week.
+- Traders in a Discord stock group are discussing and analyzing XOM stock, along with other stocks like AAPL, MSFT, FB, TSLA, and more.
+- XOM stock has been part of successful trades resulting in a 100% profit and positive feedback from members.
+- Traders have reported making significant profits from trading XOM stock, among other stocks.
+- Some traders have shared their trading experience, with one member turning $5k into $49k in six months thanks to a trading resource.
+- XOM stock has attracted the attention of traders looking for successful trades and price targets.
+- Alerts and trading chat discussions about XOM stock are available for free on Discord.
+- The Discord group provides free entries and exits for trades on stocks like XOM, CHAP, DNR, and more.
+
+2022-12-18
+An analyst shared a top price target for XOM stock for the next week. Exxon Mobil announced a new $50 billion buyback plan. A $100 to $10,000 trading challenge involving XOM stock was started.
+
+2022-12-19
+ExxonMobil ($XOM) stock had a top analyst price target set for the following week.
+There were layoffs reported in ExxonMobil's outsourcing operations.
+There was a large print for ExxonMobil (XOM) stock, indicating significant trading activity.
+ExxonMobil was mentioned in relation to big oil investors' holdings.
+There was a mention of a member's successful trading experience with ExxonMobil stock.
+ExxonMobil stock levels were posted ahead of time before the market opened.
+ExxonMobil stock was highlighted as a potential trade opportunity in the coming week.
+The market caps of Tesla and Exxon had a large gap that significantly decreased over time.
+
+2022-12-20
+- ExxonMobil (XOM) stock was discussed in several tweets, including price targets and potential trading opportunities.
+- The stock was part of a sector analysis, indicating market breadth and changes in price.
+- Alerts and updates were provided for trading opportunities related to XOM stock.
+- There were discussions about ExxonMobil layoffs and job cuts.
+- ExxonMobil's stock levels were posted ahead of time, potentially helping traders make informed decisions.
+- The stock was mentioned in a trading chat on Discord, with various other stocks and market indicators being discussed.
+- There were recommendations and discussions about potential buy and sell points for XOM stock, as well as general trading advice.
+
+2022-12-21
+- ExxonMobil (XOM) stock was mentioned in numerous tweets, with top analyst price targets and stock analysis being shared.
+- There were references to ExxonMobil's layoffs and job cuts, as well as discussions about its stock performance and potential profitability.
+- One tweet compared Tesla's market capitalization to ExxonMobil's, highlighting the changing dynamics in the energy sector.
+- There were also mentions of significant profits made on trading Tesla stock.
+- Some tweets included alerts for trading opportunities and discussions about market outlook and analysis.
+- Discord chatrooms were promoted for stock trading discussions and analysis, with various stocks, including XOM, being mentioned throughout the tweets.
+
+Technical Indicators:
+SMA_5: 106.1
+EMA_5: 106.34
+MACD: -0.75
+MACD_SIGNAL: -0.7
+MACD_HIST: -0.05
+RSI: 46.02
+BB_UPPER: 112.73
+BB_LOWER: 101.63
+BB_MIDDLE: 107.18
+OBV: 21,362,000.0
+ADX: 19.05
+DMP: 20.24
+DMN: 30.64
+
+Price Movement:","Positive
+
+Explanation: Despite some mixed signals from technical indicators like the MACD trending slightly negative and the RSI at a neutral level of 46.02, the overall positive sentiment surrounding XOM stock, highlighted by significant growth potential, successful trades, and top analyst price targets, is likely to drive the price movement upwards. The active discussions on Discord, successful trading experiences, and the initiation of a $50 billion buyback plan by Exxon Mobil further support the positive outlook. The combination of trader engagement, potential trading opportunities, and growth prospects outweigh the modest technical signals, indicating a likely positive price movement for XOM stock.",Negative

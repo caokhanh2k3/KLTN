@@ -1,4 +1,4 @@
-ticker,summary,target,date,technical_indicator
+ticker,summary,target,date,technical_indicator_x,technical_indicator_y
 AMZN,"2020-04-02
 Amazon (AMZN) banned the sale of N95 and surgical masks to the general public.
 They filled 80,000 jobs out of the 100,000 announced in response to increased demand during the COVID-19 pandemic.
@@ -20,6 +20,18 @@ Overall, Amazon's stock appears to be influenced by news related to the coronavi
 Amazon is in contact with coronavirus test makers as it plans a pandemic response.
 There is a pandemic watchlist that includes companies like Google, Facebook, Netflix, Zoom, Microsoft, and Amazon.
 There is anticipation for driverless trucks, Uber and Lyft rides, and drone deliveries to be implemented sooner than expected.",Positive,2020-04-07,"SMA_5: 97.42
+EMA_5: 98.33
+MACD: 0.73
+MACD_SIGNAL: -0.1
+MACD_HIST: 0.83
+RSI: 70.53
+BB_UPPER: 102.76
+BB_LOWER: 85.13
+BB_MIDDLE: 93.94
+OBV: 396,412,000.0
+ADX: 15.59
+DMP: 27.43
+DMN: 17.77","SMA_5: 97.42
 EMA_5: 98.33
 MACD: 0.73
 MACD_SIGNAL: -0.1
@@ -64,6 +76,18 @@ BB_MIDDLE: 97.86
 OBV: 679,106,000.0
 ADX: 21.19
 DMP: 42.14
+DMN: 12.64","SMA_5: 105.5
+EMA_5: 106.8
+MACD: 3.09
+MACD_SIGNAL: 1.2
+MACD_HIST: 1.88
+RSI: 92.22
+BB_UPPER: 108.93
+BB_LOWER: 86.78
+BB_MIDDLE: 97.86
+OBV: 679,106,000.0
+ADX: 21.19
+DMP: 42.14
 DMN: 12.64"
 AMZN,"2020-04-12
 The Federal Reserve is buying ETFs such as $SPY, $QQQ, $DJIA, and $DIA.
@@ -97,6 +121,18 @@ Amazon's stock ($AMZN) reached a new all-time high driven by unprecedented deman
 - Amazon is one of the companies thriving during the crisis, with a 29% stock increase among the winners during the crisis.
 - The pandemic could prove that Amazon is the greatest thing that ever happened to the American consumer.
 - Amazon's gains are significant, with a 50% increase from the crash lows.",Negative,2020-04-17,"SMA_5: 115.43
+EMA_5: 115.08
+MACD: 5.54
+MACD_SIGNAL: 3.01
+MACD_HIST: 2.52
+RSI: 84.24
+BB_UPPER: 118.79
+BB_LOWER: 84.78
+BB_MIDDLE: 101.79
+OBV: 898,602,000.0
+ADX: 29.2
+DMP: 44.12
+DMN: 10.91","SMA_5: 115.43
 EMA_5: 115.08
 MACD: 5.54
 MACD_SIGNAL: 3.01
@@ -178,6 +214,18 @@ BB_MIDDLE: 103.16
 OBV: 1,014,016,000.0
 ADX: 31.65
 DMP: 45.33
+DMN: 10.25","SMA_5: 117.68
+EMA_5: 116.61
+MACD: 6.02
+MACD_SIGNAL: 3.62
+MACD_HIST: 2.4
+RSI: 85.41
+BB_UPPER: 121.26
+BB_LOWER: 85.05
+BB_MIDDLE: 103.16
+OBV: 1,014,016,000.0
+ADX: 31.65
+DMP: 45.33
 DMN: 10.25"
 AMZN,"2020-05-09
 - Amazon ($AMZN) has a low operating margin of 4.8% compared to other large stocks like Microsoft ($MSFT) and Alphabet ($GOOGL).
@@ -222,6 +270,18 @@ Based on the provided tweets, here are the key facts regarding AMZN stock:
 - David Tepper believes that Amazon has been essential during the pandemic.
 - Traders are watching key levels like $2350 for potential trading opportunities.
 - Free trading Discord groups are promoting discussions about various stocks, including $AMZN.",Positive,2020-05-14,"SMA_5: 119.02
+EMA_5: 118.79
+MACD: 3.26
+MACD_SIGNAL: 3.94
+MACD_HIST: -0.68
+RSI: 57.85
+BB_UPPER: 122.49
+BB_LOWER: 114.25
+BB_MIDDLE: 118.37
+OBV: 1,524,218,000.0
+ADX: 26.65
+DMP: 27.41
+DMN: 18.94","SMA_5: 119.02
 EMA_5: 118.79
 MACD: 3.26
 MACD_SIGNAL: 3.94
@@ -301,6 +361,18 @@ BB_MIDDLE: 123.96
 OBV: 1,763,576,000.0
 ADX: 28.3
 DMP: 33.74
+DMN: 20.99","SMA_5: 128.75
+EMA_5: 127.85
+MACD: 3.12
+MACD_SIGNAL: 2.9
+MACD_HIST: 0.22
+RSI: 52.98
+BB_UPPER: 130.41
+BB_LOWER: 117.5
+BB_MIDDLE: 123.96
+OBV: 1,763,576,000.0
+ADX: 28.3
+DMP: 33.74
 DMN: 20.99"
 AMZN,"2020-06-11
 Amazon's stock price experienced a significant drop in 2008 due to the recession, but YTD returns in 2020 have been positive.
@@ -338,6 +410,18 @@ Various trends in the market are highlighted, including the war on cash with com
 - A strong buying program for billions in profits was announced by the Federal Reserve, impacting various stocks including Amazon.
 - iQSTEL Inc. formed an interconnection partnership with China Mobile.
 - Ups and downs in stock prices were observed due to various factors like potential acquisitions, earnings reports, and market conditions.",Positive,2020-06-16,"SMA_5: 129.38
+EMA_5: 129.0
+MACD: 3.22
+MACD_SIGNAL: 3.0
+MACD_HIST: 0.22
+RSI: 68.71
+BB_UPPER: 131.79
+BB_LOWER: 117.88
+BB_MIDDLE: 124.84
+OBV: 1,912,590,000.0
+ADX: 27.99
+DMP: 33.36
+DMN: 18.5","SMA_5: 129.38
 EMA_5: 129.0
 MACD: 3.22
 MACD_SIGNAL: 3.0
@@ -388,6 +472,18 @@ These facts indicate the strong performance and growth potential of Amazon (AMZN
 - Analysts agree that there was a huge overreaction in the stock price of BELLUS Health ($BLU).
 - Amazon growth stocks are outperforming the S&P 500.
 - There are positive sentiments surrounding Amazon ($AMZN) right now, with a sentiment score of +1.146.",Positive,2020-07-09,"SMA_5: 152.11
+EMA_5: 152.38
+MACD: 7.54
+MACD_SIGNAL: 5.7
+MACD_HIST: 1.84
+RSI: 85.95
+BB_UPPER: 156.58
+BB_LOWER: 120.67
+BB_MIDDLE: 138.63
+OBV: 2,635,758,000.0
+ADX: 45.95
+DMP: 49.85
+DMN: 8.17","SMA_5: 152.11
 EMA_5: 152.38
 MACD: 7.54
 MACD_SIGNAL: 5.7
@@ -475,6 +571,18 @@ BB_MIDDLE: 154.02
 OBV: 2,411,534,000.0
 ADX: 38.86
 DMP: 34.62
+DMN: 18.02","SMA_5: 155.01
+EMA_5: 155.35
+MACD: 3.9
+MACD_SIGNAL: 4.43
+MACD_HIST: -0.53
+RSI: 62.0
+BB_UPPER: 161.22
+BB_LOWER: 146.82
+BB_MIDDLE: 154.02
+OBV: 2,411,534,000.0
+ADX: 38.86
+DMP: 34.62
 DMN: 18.02"
 AMZN,"2020-07-31
 Tech stocks Apple, Amazon, Facebook, and Alphabet reported strong earnings results.
@@ -520,6 +628,18 @@ Overall, the key facts regarding AMZN stock from the tweets are:
 - Barclays raised Amazon's price target to $3,530.00.
 - A tweet speculates about Amazon filling a gap and recovering a pivot point.
 - Several other tweets mention stock prices, alerts, and updates for various companies including Amazon.",Positive,2020-08-05,"SMA_5: 156.72
+EMA_5: 156.99
+MACD: 4.12
+MACD_SIGNAL: 4.37
+MACD_HIST: -0.24
+RSI: 70.99
+BB_UPPER: 162.03
+BB_LOWER: 146.64
+BB_MIDDLE: 154.33
+OBV: 2,489,864,000.0
+ADX: 38.63
+DMP: 35.74
+DMN: 16.96","SMA_5: 156.72
 EMA_5: 156.99
 MACD: 4.12
 MACD_SIGNAL: 4.37
@@ -584,6 +704,18 @@ BB_MIDDLE: 158.61
 OBV: 2,470,174,000.0
 ADX: 34.09
 DMP: 33.66
+DMN: 14.19","SMA_5: 164.63
+EMA_5: 163.86
+MACD: 3.98
+MACD_SIGNAL: 3.75
+MACD_HIST: 0.23
+RSI: 69.19
+BB_UPPER: 167.44
+BB_LOWER: 149.78
+BB_MIDDLE: 158.61
+OBV: 2,470,174,000.0
+ADX: 34.09
+DMP: 33.66
 DMN: 14.19"
 AMZN,"2020-08-20
 - Amazon ($AMZN) had a strong performance in the stock market, holding up well after a breakout.
@@ -614,6 +746,18 @@ There is varied technical analysis and chart pattern predictions for Amazon's st
 Amazon is reported to be working on cashierless technology for Whole Foods.
 There are significant options trades and calls for Amazon stock.
 There is ongoing interest and analysis of Amazon's stock price movement.",Positive,2020-08-25,"SMA_5: 164.97
+EMA_5: 165.01
+MACD: 4.16
+MACD_SIGNAL: 3.83
+MACD_HIST: 0.33
+RSI: 75.29
+BB_UPPER: 168.16
+BB_LOWER: 150.79
+BB_MIDDLE: 159.47
+OBV: 2,550,030,000.0
+ADX: 34.56
+DMP: 31.22
+DMN: 13.16","SMA_5: 164.97
 EMA_5: 165.01
 MACD: 4.16
 MACD_SIGNAL: 3.83
@@ -683,6 +827,18 @@ BB_MIDDLE: 160.5
 OBV: 2,680,204,000.0
 ADX: 35.65
 DMP: 36.03
+DMN: 12.05","SMA_5: 166.78
+EMA_5: 167.37
+MACD: 4.63
+MACD_SIGNAL: 3.99
+MACD_HIST: 0.64
+RSI: 84.59
+BB_UPPER: 170.03
+BB_LOWER: 150.96
+BB_MIDDLE: 160.5
+OBV: 2,680,204,000.0
+ADX: 35.65
+DMP: 36.03
 DMN: 12.05"
 AMZN,"2020-08-27
 Amazon unveiled Halo, a new wearable device that tracks activity, body fat, and emotions, as a competitor to Apple Watch and Fitbit.
@@ -729,6 +885,18 @@ BB_MIDDLE: 163.71
 OBV: 2,805,210,000.0
 ADX: 40.21
 DMP: 34.94
+DMN: 9.52","SMA_5: 171.94
+EMA_5: 171.71
+MACD: 5.34
+MACD_SIGNAL: 4.62
+MACD_HIST: 0.72
+RSI: 82.5
+BB_UPPER: 175.38
+BB_LOWER: 152.04
+BB_MIDDLE: 163.71
+OBV: 2,805,210,000.0
+ADX: 40.21
+DMP: 34.94
 DMN: 9.52"
 AMZN,"2020-09-11
 $AMZN stock experienced fluctuations in value.
@@ -759,6 +927,18 @@ Medical marijuana stocks and the ailments they treat were discussed, including C
 There was speculation about Snowflake's dependence on cloud services from AWS, Azure, and Google, impacting the stock prices of $AMZN, $MSFT, and $GOOG.
 GenTech Holdings' SINFIT Nutrition brand launched in major retailers across the U.S. and online.
 Overall, the tech sector, including stocks like $AAPL, $MSFT, $SPY, $TSLA, and $AMZN, showed various trends and performance fluctuations in the stock market.",Positive,2020-09-15,"SMA_5: 158.19
+EMA_5: 158.39
+MACD: -0.11
+MACD_SIGNAL: 2.04
+MACD_HIST: -2.15
+RSI: 39.31
+BB_UPPER: 177.59
+BB_LOWER: 153.24
+BB_MIDDLE: 165.41
+OBV: 2,308,216,000.0
+ADX: 26.68
+DMP: 19.45
+DMN: 22.82","SMA_5: 158.19
 EMA_5: 158.39
 MACD: -0.11
 MACD_SIGNAL: 2.04
@@ -841,6 +1021,18 @@ BB_MIDDLE: 156.58
 OBV: 2,623,892,000.0
 ADX: 15.21
 DMP: 34.5
+DMN: 16.09","SMA_5: 162.16
+EMA_5: 164.35
+MACD: 1.41
+MACD_SIGNAL: -0.21
+MACD_HIST: 1.63
+RSI: 79.9
+BB_UPPER: 167.86
+BB_LOWER: 145.29
+BB_MIDDLE: 156.58
+OBV: 2,623,892,000.0
+ADX: 15.21
+DMP: 34.5
 DMN: 16.09"
 AMZN,"2020-10-18
 Amazon's expansion beyond online sales into physical retail stores, particularly Amazon Fresh, in Woodland Hills, California.
@@ -911,6 +1103,18 @@ BB_MIDDLE: 161.59
 OBV: 2,267,538,000.0
 ADX: 14.02
 DMP: 18.66
+DMN: 24.53","SMA_5: 159.9
+EMA_5: 160.6
+MACD: 0.63
+MACD_SIGNAL: 1.18
+MACD_HIST: -0.55
+RSI: 41.87
+BB_UPPER: 171.1
+BB_LOWER: 152.09
+BB_MIDDLE: 161.59
+OBV: 2,267,538,000.0
+ADX: 14.02
+DMP: 18.66
 DMN: 24.53"
 AMZN,"2020-11-19
 Amazon (AMZN) launched Alexa-enabled Echo Frames glasses to the general public.
@@ -947,6 +1151,18 @@ Bitcoin sentiment discussed in relation to other stocks and cryptocurrencies.
 - There was a trade idea for $SNAP with a potential upside target.
 - There were discussions on potential buybacks for $HMY and disappointing earnings for $WMT.
 - There were mentions of heavy volume and buying pressure for XRP, with references to $AMZN and $AAPL.",Positive,2020-11-24,"SMA_5: 155.38
+EMA_5: 155.6
+MACD: -1.18
+MACD_SIGNAL: -1.05
+MACD_HIST: -0.13
+RSI: 49.58
+BB_UPPER: 164.9
+BB_LOWER: 148.59
+BB_MIDDLE: 156.74
+OBV: 2,293,156,000.0
+ADX: 13.07
+DMP: 20.14
+DMN: 27.75","SMA_5: 155.38
 EMA_5: 155.6
 MACD: -1.18
 MACD_SIGNAL: -1.05
@@ -1015,6 +1231,18 @@ BB_MIDDLE: 161.56
 OBV: 2,690,876,000.0
 ADX: 17.47
 DMP: 29.13
+DMN: 21.98","SMA_5: 165.73
+EMA_5: 165.86
+MACD: 1.84
+MACD_SIGNAL: 1.28
+MACD_HIST: 0.56
+RSI: 58.78
+BB_UPPER: 170.27
+BB_LOWER: 152.85
+BB_MIDDLE: 161.56
+OBV: 2,690,876,000.0
+ADX: 17.47
+DMP: 29.13
 DMN: 21.98"
 AMZN,"2021-03-01
 Amazon's stock (AMZN) was mentioned in multiple tweets.
@@ -1055,6 +1283,18 @@ Amazon opens its first store in London without cashiers outside the U.S.
 Amazon has been discussed on Reddit's WallStreetBets subreddit.
 There has been a bullish slide in the stock chart for Amazon.
 Overall, Amazon is experiencing variations in its stock price and potential developments in its service offerings.",Positive,2021-03-05,"SMA_5: 152.24
+EMA_5: 151.64
+MACD: -3.17
+MACD_SIGNAL: -1.76
+MACD_HIST: -1.41
+RSI: 28.94
+BB_UPPER: 171.44
+BB_LOWER: 147.92
+BB_MIDDLE: 159.68
+OBV: 2,459,498,000.0
+ADX: 24.21
+DMP: 11.62
+DMN: 35.35","SMA_5: 152.24
 EMA_5: 151.64
 MACD: -3.17
 MACD_SIGNAL: -1.76
@@ -1107,6 +1347,18 @@ Overall, Amazon's stock continued to generate interest and attention in the mark
 
 2021-03-18
 Amazon's stock (AMZN) was being discussed in relation to a variety of news and events, including major deals, emerging challenges, and the company's expansion initiatives. The company was launching Amazon Care nationwide, road testing electric delivery vans, and securing exclusive rights to broadcast NFL games. The stock faced selling pressure due to concerns about macroeconomic factors and reports of algorithms selling. Despite the challenging market conditions, Amazon continued to make headlines with its expansions and partnerships.",Positive,2021-03-19,"SMA_5: 154.12
+EMA_5: 153.76
+MACD: -1.78
+MACD_SIGNAL: -2.14
+MACD_HIST: 0.36
+RSI: 49.66
+BB_UPPER: 160.38
+BB_LOWER: 147.6
+BB_MIDDLE: 153.99
+OBV: 2,477,630,000.0
+ADX: 22.03
+DMP: 17.66
+DMN: 24.2","SMA_5: 154.12
 EMA_5: 153.76
 MACD: -1.78
 MACD_SIGNAL: -2.14
@@ -1173,6 +1425,18 @@ There were mentions of stocks that were actively traded in calls, including Tesl
 Discussions in trading groups highlighted trades made on stocks like NUGT with various other stock mentions and speculative comments.
 Technical analysis indicated potential bullish and bearish reversal points for Amazon's stock at different levels of support and resistance.
 Overall, the tweets indicated a mix of news, updates, speculation, and technical analysis related to Amazon's stock and its market dynamics.",Positive,2021-05-14,"SMA_5: 159.51
+EMA_5: 160.47
+MACD: -1.03
+MACD_SIGNAL: 0.43
+MACD_HIST: -1.46
+RSI: 45.37
+BB_UPPER: 175.72
+BB_LOWER: 156.58
+BB_MIDDLE: 166.15
+OBV: 3,034,452,000.0
+ADX: 22.55
+DMP: 17.43
+DMN: 26.84","SMA_5: 159.51
 EMA_5: 160.47
 MACD: -1.03
 MACD_SIGNAL: 0.43
@@ -1265,6 +1529,18 @@ BB_MIDDLE: 165.9
 OBV: 3,108,930,000.0
 ADX: 21.39
 DMP: 22.17
+DMN: 25.12","SMA_5: 160.31
+EMA_5: 161.49
+MACD: -0.91
+MACD_SIGNAL: 0.16
+MACD_HIST: -1.06
+RSI: 56.42
+BB_UPPER: 175.46
+BB_LOWER: 156.33
+BB_MIDDLE: 165.9
+OBV: 3,108,930,000.0
+ADX: 21.39
+DMP: 22.17
 DMN: 25.12"
 AMZN,"2021-07-22
 $AMZN (Amazon) stock has been performing well, with mentions of a simple plan, great execution, and no gimmicks.
@@ -1318,6 +1594,18 @@ Amazon is hiring a digital currency and blockchain expert, signaling potential p
 - Amazon is one of the big tech companies retaking market leadership, with earnings on tap.
 
 Overall, Amazon's stock price, upcoming earnings report, potential crypto payments acceptance, and insider hiring moves are key factors that investors are monitoring.",Positive,2021-07-26,"SMA_5: 181.53
+EMA_5: 182.45
+MACD: 2.95
+MACD_SIGNAL: 3.28
+MACD_HIST: -0.33
+RSI: 74.68
+BB_UPPER: 190.25
+BB_LOWER: 170.17
+BB_MIDDLE: 180.21
+OBV: 3,314,572,000.0
+ADX: 19.05
+DMP: 33.48
+DMN: 21.57","SMA_5: 181.53
 EMA_5: 182.45
 MACD: 2.95
 MACD_SIGNAL: 3.28
@@ -1396,6 +1684,18 @@ BB_MIDDLE: 167.26
 OBV: 2,939,084,000.0
 ADX: 34.13
 DMP: 17.49
+DMN: 31.75","SMA_5: 160.97
+EMA_5: 161.86
+MACD: -3.91
+MACD_SIGNAL: -3.39
+MACD_HIST: -0.52
+RSI: 52.44
+BB_UPPER: 179.93
+BB_LOWER: 154.6
+BB_MIDDLE: 167.26
+OBV: 2,939,084,000.0
+ADX: 34.13
+DMP: 17.49
 DMN: 31.75"
 AMZN,"2021-10-01
 $AMZN stock has seen a 5% decline in its price in September.
@@ -1425,6 +1725,18 @@ There was a rise in the dividend yield of the stock.
 Market weight rating for the stock was reiterated by Wells Fargo.
 Apple reported its first quarterly iPhone sales drop since 2007.
 Despite the decline, Apple focused on promoting apps and services.",Positive,2021-10-06,"SMA_5: 162.41
+EMA_5: 162.88
+MACD: -2.26
+MACD_SIGNAL: -1.27
+MACD_HIST: -1.0
+RSI: 41.55
+BB_UPPER: 177.81
+BB_LOWER: 159.55
+BB_MIDDLE: 168.68
+OBV: 2,893,626,000.0
+ADX: 29.76
+DMP: 10.13
+DMN: 31.39","SMA_5: 162.41
 EMA_5: 162.88
 MACD: -2.26
 MACD_SIGNAL: -1.27
@@ -1476,6 +1788,18 @@ Overall, there were discussions and analyses about Amazon's potential in the mar
 - Amazon was reported to have copied products and rigged search results to promote its own brands, as shown in documents.
 - Evercore ISI reiterated an Outperform rating on Amazon, calling it 'A One-in-a-Lifetime-Company' with a price target of $4700.
 - Senator Warren has urged for Amazon's breakup, and India retailers have requested a probe following a Reuters story.",Positive,2021-10-15,"SMA_5: 164.87
+EMA_5: 166.12
+MACD: -1.18
+MACD_SIGNAL: -1.68
+MACD_HIST: 0.5
+RSI: 79.29
+BB_UPPER: 172.25
+BB_LOWER: 159.07
+BB_MIDDLE: 165.66
+OBV: 3,091,742,000.0
+ADX: 28.33
+DMP: 27.34
+DMN: 24.84","SMA_5: 164.87
 EMA_5: 166.12
 MACD: -1.18
 MACD_SIGNAL: -1.68
@@ -1565,6 +1889,18 @@ BB_MIDDLE: 167.69
 OBV: 3,030,708,000.0
 ADX: 16.37
 DMP: 25.37
+DMN: 24.15","SMA_5: 168.34
+EMA_5: 168.02
+MACD: 0.15
+MACD_SIGNAL: 0.16
+MACD_HIST: -0.01
+RSI: 55.51
+BB_UPPER: 174.17
+BB_LOWER: 161.21
+BB_MIDDLE: 167.69
+OBV: 3,030,708,000.0
+ADX: 16.37
+DMP: 25.37
 DMN: 24.15"
 BABA,"2020-04-02
 - Lack of transparency in Chinese businesses makes it difficult to know the true performance of companies like $TCEHY, $BABA, $JD, and $YY.
@@ -1602,6 +1938,18 @@ BB_MIDDLE: 188.11
 OBV: -36,583,600.0
 ADX: 18.52
 DMP: 27.67
+DMN: 24.7","SMA_5: 191.6
+EMA_5: 193.54
+MACD: -2.59
+MACD_SIGNAL: -4.67
+MACD_HIST: 2.08
+RSI: 67.72
+BB_UPPER: 201.05
+BB_LOWER: 175.16
+BB_MIDDLE: 188.11
+OBV: -36,583,600.0
+ADX: 18.52
+DMP: 27.67
 DMN: 24.7"
 BABA,"2020-04-09
 - The article discusses three Chinese stocks to trade as the country makes a recovery, with $BABA being one of them.
@@ -1621,6 +1969,18 @@ Alibaba ($BABA) is mentioned as one of the stocks in the list, along with other 
 - Alibaba's target was raised based on the recovery in e-commerce.
 - There is a narrow value area set up for Alibaba, indicating a potential significant move.
 - The stock is being closely watched for a potential breakout or rally.",Positive,2020-04-14,"SMA_5: 198.91
+EMA_5: 199.26
+MACD: 0.03
+MACD_SIGNAL: -2.46
+MACD_HIST: 2.49
+RSI: 78.31
+BB_UPPER: 204.58
+BB_LOWER: 175.61
+BB_MIDDLE: 190.09
+OBV: 504,700.0
+ADX: 15.2
+DMP: 30.01
+DMN: 21.85","SMA_5: 198.91
 EMA_5: 199.26
 MACD: 0.03
 MACD_SIGNAL: -2.46
@@ -1676,6 +2036,18 @@ BB_MIDDLE: 194.33
 OBV: 14,068,100.0
 ADX: 15.2
 DMP: 30.25
+DMN: 20.61","SMA_5: 206.91
+EMA_5: 206.97
+MACD: 2.78
+MACD_SIGNAL: -0.22
+MACD_HIST: 3.01
+RSI: 71.54
+BB_UPPER: 212.71
+BB_LOWER: 175.95
+BB_MIDDLE: 194.33
+OBV: 14,068,100.0
+ADX: 15.2
+DMP: 30.25
 DMN: 20.61"
 BABA,"2020-04-15
 - Alibaba Group's ""Buy"" rating was reaffirmed by Robert W. Baird.
@@ -1718,6 +2090,18 @@ BB_MIDDLE: 195.87
 OBV: 33,363,500.0
 ADX: 15.6
 DMP: 29.38
+DMN: 19.29","SMA_5: 209.45
+EMA_5: 208.69
+MACD: 3.44
+MACD_SIGNAL: 0.51
+MACD_HIST: 2.93
+RSI: 75.91
+BB_UPPER: 214.78
+BB_LOWER: 176.95
+BB_MIDDLE: 195.87
+OBV: 33,363,500.0
+ADX: 15.6
+DMP: 29.38
 DMN: 19.29"
 BABA,"2020-05-09
 A Florida trader hacked Citigroup scanner for massive 24-hour windfalls. The trader made trades involving a variety of stocks including $BTC, $MSFT, $FB, $NVDA, $BYND, $TWLO, $BKNG, $AMZN, $GOOGL, $BIDU, $BABA, $DIS, $AAPL, $GS, $TSLA, $NFLX, $AMD, $BA, $CRM, $LULU, and $ROKU.
@@ -1730,6 +2114,18 @@ Alibaba stock (BABA) may still be affected by the coronavirus, according to rece
 There is discussion about whether it is time to reconsider Chinese tech stocks like JD, BABA, TCEHY, and IQ.
 Alibaba has a higher Return on Capital than Amazon.
 Various stock symbols are mentioned in relation to potential trading opportunities.",Positive,2020-05-14,"SMA_5: 201.53
+EMA_5: 200.49
+MACD: 0.05
+MACD_SIGNAL: 0.16
+MACD_HIST: -0.11
+RSI: 54.66
+BB_UPPER: 213.22
+BB_LOWER: 191.05
+BB_MIDDLE: 202.14
+OBV: -6,606,200.0
+ADX: 11.3
+DMP: 19.82
+DMN: 26.34","SMA_5: 201.53
 EMA_5: 200.49
 MACD: 0.05
 MACD_SIGNAL: 0.16
@@ -1781,6 +2177,18 @@ BB_MIDDLE: 212.4
 OBV: 211,900.0
 ADX: 12.48
 DMP: 27.13
+DMN: 24.42","SMA_5: 219.26
+EMA_5: 218.14
+MACD: 4.39
+MACD_SIGNAL: 3.8
+MACD_HIST: 0.59
+RSI: 52.84
+BB_UPPER: 227.59
+BB_LOWER: 197.2
+BB_MIDDLE: 212.4
+OBV: 211,900.0
+ADX: 12.48
+DMP: 27.13
 DMN: 24.42"
 BABA,"2020-06-11
 - Alibaba's stock price moved above its 50-day Moving Average on May 8, 2020.
@@ -1795,6 +2203,18 @@ BABA,"2020-06-11
 - There is speculation about a billion-dollar merger involving Cintel and its partners, including $CHL, $NOK, $BABA, and $BIDU.
 - Traders on Twitter are discussing buying opportunities for stocks like $spx, $spy, $qqq, $aapl, $tsla, $fb, $nflx, $btc, $amzn, $googl, $zm, $cgc, $vix, $slv, $xle, $xlf, $jpm, $AMZN, $AAPL, $AMD, $BA, $BABA, $FB, $CRM, $DDOG, $TGT, $GOOGL, $ROKU, $TSLA, $SPX, $SPY, $TDOC, $COST, $ZM, $GILD, $USO, $NVDA, $ROKU, $BYND, and $SNAP.
 - Futures for the Dow, S&P 500, and Nasdaq are all down, with potential impacts on stocks like $AMZN, $AAPL, $AMD, $BA, $BABA, $FB, $CRM, $DDOG, $TGT, $GOOGL, $ROKU, $TSLA, $SPX, $SPY, $TDOC, $COST, $ZM, $GILD, $USO, $NVDA, $ROKU, $BYND, and $SNAP.",Positive,2020-06-16,"SMA_5: 219.24
+EMA_5: 219.39
+MACD: 4.41
+MACD_SIGNAL: 3.98
+MACD_HIST: 0.43
+RSI: 66.64
+BB_UPPER: 228.76
+BB_LOWER: 198.11
+BB_MIDDLE: 213.43
+OBV: 4,400.0
+ADX: 12.15
+DMP: 31.32
+DMN: 22.2","SMA_5: 219.24
 EMA_5: 219.39
 MACD: 4.41
 MACD_SIGNAL: 3.98
@@ -1848,6 +2268,18 @@ BB_MIDDLE: 226.06
 OBV: 92,156,400.0
 ADX: 21.57
 DMP: 52.15
+DMN: 12.81","SMA_5: 243.87
+EMA_5: 246.53
+MACD: 8.82
+MACD_SIGNAL: 5.1
+MACD_HIST: 3.72
+RSI: 87.92
+BB_UPPER: 252.04
+BB_LOWER: 200.09
+BB_MIDDLE: 226.06
+OBV: 92,156,400.0
+ADX: 21.57
+DMP: 52.15
 DMN: 12.81"
 BABA,"2020-07-30
 - $BABA (Alibaba) stock was mentioned in a list of winners of the day alongside other companies like $GOOGL, $AMZN, $AAPL, and $FB.
@@ -1888,6 +2320,18 @@ BB_MIDDLE: 253.05
 OBV: 106,574,500.0
 ADX: 24.78
 DMP: 35.39
+DMN: 19.42","SMA_5: 255.27
+EMA_5: 256.46
+MACD: 6.82
+MACD_SIGNAL: 7.17
+MACD_HIST: -0.35
+RSI: 77.67
+BB_UPPER: 263.24
+BB_LOWER: 242.85
+BB_MIDDLE: 253.05
+OBV: 106,574,500.0
+ADX: 24.78
+DMP: 35.39
 DMN: 19.42"
 BABA,"2020-07-31
 BABA stock was mentioned in several tweets alongside other stocks like $AAPL and $AMZN.
@@ -1917,6 +2361,18 @@ The potential impact of a ban or sale of TikTok by Trump is being monitored.
 - Workhorse stock updates and information on Harley Quinn heading to HBO Max are also mentioned in some tweets.
 - Summary of recent stock movements for companies like Costco (COST), Las Vegas Sands (LVS), Facebook (FB), and Netflix (NFLX) are included.
 - Stock holdings in companies like Zendesk (ZEN), General Mills (GIS), and Alibaba (BABA) are mentioned in one tweet.",Positive,2020-08-05,"SMA_5: 257.76
+EMA_5: 259.28
+MACD: 7.27
+MACD_SIGNAL: 7.19
+MACD_HIST: 0.07
+RSI: 81.25
+BB_UPPER: 264.69
+BB_LOWER: 242.13
+BB_MIDDLE: 253.41
+OBV: 117,248,300.0
+ADX: 25.4
+DMP: 37.32
+DMN: 18.6","SMA_5: 257.76
 EMA_5: 259.28
 MACD: 7.27
 MACD_SIGNAL: 7.19
@@ -1985,6 +2441,18 @@ BB_MIDDLE: 257.2
 OBV: 176,120,000.0
 ADX: 19.22
 DMP: 38.24
+DMN: 17.33","SMA_5: 263.92
+EMA_5: 265.65
+MACD: 5.48
+MACD_SIGNAL: 4.64
+MACD_HIST: 0.84
+RSI: 84.93
+BB_UPPER: 271.06
+BB_LOWER: 243.35
+BB_MIDDLE: 257.2
+OBV: 176,120,000.0
+ADX: 19.22
+DMP: 38.24
 DMN: 17.33"
 BABA,"2020-08-20
 - Alibaba (BABA) reported a 34% increase in total revenue year-over-year for the June quarter.
@@ -2031,6 +2499,18 @@ Analysts reaffirmed a buy rating for Alibaba Group's stock, BABA.
 Alibaba saw a breakout into new all-time highs in pre-market trading.
 Chinese e-commerce giant, Alibaba, dominated almost 56% of e-commerce in China through its platforms, Tmall and Taobao.
 Barclays raised Alibaba's stock price target from $300 to $320.",Positive,2020-08-25,"SMA_5: 269.28
+EMA_5: 272.43
+MACD: 7.11
+MACD_SIGNAL: 5.13
+MACD_HIST: 1.98
+RSI: 89.96
+BB_UPPER: 277.24
+BB_LOWER: 240.86
+BB_MIDDLE: 259.05
+OBV: 203,655,500.0
+ADX: 21.38
+DMP: 44.91
+DMN: 15.21","SMA_5: 269.28
 EMA_5: 272.43
 MACD: 7.11
 MACD_SIGNAL: 5.13
@@ -2092,6 +2572,18 @@ BB_MIDDLE: 261.03
 OBV: 223,185,800.0
 ADX: 23.57
 DMP: 44.54
+DMN: 14.03","SMA_5: 275.55
+EMA_5: 278.94
+MACD: 8.77
+MACD_SIGNAL: 5.86
+MACD_HIST: 2.91
+RSI: 91.96
+BB_UPPER: 283.9
+BB_LOWER: 238.15
+BB_MIDDLE: 261.03
+OBV: 223,185,800.0
+ADX: 23.57
+DMP: 44.54
 DMN: 14.03"
 BABA,"2020-08-27
 Chinese e-commerce giant Alibaba (BABA) has put plans on hold to invest in Indian companies amid souring business relations between the two nations.
@@ -2128,6 +2620,18 @@ BB_MIDDLE: 267.74
 OBV: 218,604,800.0
 ADX: 30.18
 DMP: 40.72
+DMN: 11.75","SMA_5: 290.03
+EMA_5: 289.1
+MACD: 11.4
+MACD_SIGNAL: 8.59
+MACD_HIST: 2.8
+RSI: 79.45
+BB_UPPER: 299.03
+BB_LOWER: 236.45
+BB_MIDDLE: 267.74
+OBV: 218,604,800.0
+ADX: 30.18
+DMP: 40.72
 DMN: 11.75"
 BABA,"2020-09-10
 Alibaba's co-founder and former chairman, Jack Ma, celebrated his birthday. Under his leadership, Alibaba became China's largest e-commerce company with a market cap of $762.5 billion and 874 million monthly active users.
@@ -2153,6 +2657,18 @@ Ant Group, affiliated with Alibaba, was disappointed that it won't be listed in 
 Alibaba holds a 33% stake in Ant Group.
 There are stock options alerts and discussions involving Alibaba ($BABA) in various forums and chatrooms.
 There may be potential trading opportunities and strategies discussed regarding Alibaba stock options.",Positive,2020-09-15,"SMA_5: 272.87
+EMA_5: 275.18
+MACD: 4.26
+MACD_SIGNAL: 6.51
+MACD_HIST: -2.25
+RSI: 54.57
+BB_UPPER: 300.81
+BB_LOWER: 254.2
+BB_MIDDLE: 277.5
+OBV: 184,956,600.0
+ADX: 21.11
+DMP: 24.25
+DMN: 19.82","SMA_5: 272.87
 EMA_5: 275.18
 MACD: 4.26
 MACD_SIGNAL: 6.51
@@ -2201,6 +2717,18 @@ A trader mentions making profits from alerts, with various stock symbols like BA
 
 2020-10-11
 The tweets are mostly related to stock trading and updates on various companies, including $BABA (Alibaba). There are mentions of other companies like $AAPL (Apple), $AMZN (Amazon), $TSLA (Tesla), $QQQ, $GOOG (Google), and $MSFT (Microsoft), among others. There are also references to stock options, alerts, free chatrooms, and trading community groups. The tweets highlight trading opportunities, updates, and alerts for different stocks, with a focus on recent market activity and upcoming events like earnings releases.",Positive,2020-10-12,"SMA_5: 299.1
+EMA_5: 299.49
+MACD: 7.62
+MACD_SIGNAL: 5.44
+MACD_HIST: 2.18
+RSI: 86.64
+BB_UPPER: 306.06
+BB_LOWER: 261.54
+BB_MIDDLE: 283.8
+OBV: 270,346,400.0
+ADX: 22.87
+DMP: 36.28
+DMN: 13.43","SMA_5: 299.1
 EMA_5: 299.49
 MACD: 7.62
 MACD_SIGNAL: 5.44
@@ -2264,6 +2792,18 @@ BB_MIDDLE: 298.24
 OBV: 250,497,300.0
 ADX: 28.21
 DMP: 29.35
+DMN: 15.95","SMA_5: 307.85
+EMA_5: 307.63
+MACD: 8.1
+MACD_SIGNAL: 7.84
+MACD_HIST: 0.26
+RSI: 66.12
+BB_UPPER: 318.37
+BB_LOWER: 278.11
+BB_MIDDLE: 298.24
+OBV: 250,497,300.0
+ADX: 28.21
+DMP: 29.35
 DMN: 15.95"
 BABA,"2020-11-19
 Alibaba Group Holding Limited ($BABA) stock experienced a bullish trend, with expectations of reaching over $260.
@@ -2306,6 +2846,18 @@ Multiple stock analyses and watchlists included $BABA as a notable stock to watc
 Technical analysis showed a potential Dark Cloud Cover pattern for $BABA, indicating a possible downward trend.
 
 Overall, $BABA stock was actively discussed and traded among investors during the period.",Positive,2020-11-24,"SMA_5: 267.31
+EMA_5: 270.58
+MACD: -7.64
+MACD_SIGNAL: -7.57
+MACD_HIST: -0.07
+RSI: 71.48
+BB_UPPER: 318.77
+BB_LOWER: 241.68
+BB_MIDDLE: 280.23
+OBV: -10,375,700.0
+ADX: 24.52
+DMP: 25.03
+DMN: 25.83","SMA_5: 267.31
 EMA_5: 270.58
 MACD: -7.64
 MACD_SIGNAL: -7.57
@@ -2374,6 +2926,18 @@ BB_MIDDLE: 251.26
 OBV: 57,137,700.0
 ADX: 19.56
 DMP: 29.71
+DMN: 19.04","SMA_5: 260.68
+EMA_5: 262.37
+MACD: 4.01
+MACD_SIGNAL: 2.22
+MACD_HIST: 1.79
+RSI: 62.84
+BB_UPPER: 279.0
+BB_LOWER: 223.52
+BB_MIDDLE: 251.26
+OBV: 57,137,700.0
+ADX: 19.56
+DMP: 29.71
 DMN: 19.04"
 BABA,"2021-02-28
 - Zoom Video Communications (ZM) is set to report earnings on Monday after hours, with a 50 point move priced in for the week.
@@ -2420,6 +2984,18 @@ Overall, Alibaba's stock (BABA) showed some trading activity and faced challenge
 - Several other stocks were mentioned alongside $BABA, such as $AAPL, $AMZN, $SHOP, $TSLA, $NIO, $NFLX, $MSFT, and $ROKU in various investing strategies.
 - One user engaged in after-hours trading, selling large-cap stocks like $BABA and buying $NIO and $WISH, expecting potential gains.
 - Another user reported a $3k profit from trading $BABA, $AAPL, $NFLX, $MSFT, and $BYND, showcasing successful stock trading strategies.",Positive,2021-03-05,"SMA_5: 235.35
+EMA_5: 235.71
+MACD: -6.47
+MACD_SIGNAL: -3.18
+MACD_HIST: -3.3
+RSI: 31.47
+BB_UPPER: 282.36
+BB_LOWER: 225.71
+BB_MIDDLE: 254.04
+OBV: -5,926,500.0
+ADX: 26.69
+DMP: 13.87
+DMN: 36.36","SMA_5: 235.35
 EMA_5: 235.71
 MACD: -6.47
 MACD_SIGNAL: -3.18
@@ -2484,6 +3060,18 @@ One tweet mentioned that Chinese regulators summoned Alibaba, Tencent, and other
 Another tweet highlighted a SmartOptions® alert for unusual activity in Alibaba $180 Calls for March 19.
 The stock was also mentioned in pre-market movers list with a 2.22% increase.
 Overall, the tweets showed various perspectives on Alibaba's stock performance, trading opportunities, and market trends.",Positive,2021-03-19,"SMA_5: 233.35
+EMA_5: 235.56
+MACD: -5.21
+MACD_SIGNAL: -5.91
+MACD_HIST: 0.7
+RSI: 62.3
+BB_UPPER: 252.52
+BB_LOWER: 222.52
+BB_MIDDLE: 237.52
+OBV: -6,985,500.0
+ADX: 24.05
+DMP: 22.68
+DMN: 24.76","SMA_5: 233.35
 EMA_5: 235.56
 MACD: -5.21
 MACD_SIGNAL: -5.91
@@ -2561,6 +3149,18 @@ BB_MIDDLE: 226.98
 OBV: -190,947,400.0
 ADX: 18.81
 DMP: 17.07
+DMN: 43.27","SMA_5: 215.28
+EMA_5: 214.48
+MACD: -5.38
+MACD_SIGNAL: -3.15
+MACD_HIST: -2.23
+RSI: 22.88
+BB_UPPER: 242.97
+BB_LOWER: 210.98
+BB_MIDDLE: 226.98
+OBV: -190,947,400.0
+ADX: 18.81
+DMP: 17.07
 DMN: 43.27"
 BABA,"2021-05-12
 Alibaba (BABA) reported Q4 2021 earnings.
@@ -2626,6 +3226,18 @@ BB_MIDDLE: 225.79
 OBV: -170,417,600.0
 ADX: 20.13
 DMP: 18.91
+DMN: 41.39","SMA_5: 213.58
+EMA_5: 213.34
+MACD: -5.77
+MACD_SIGNAL: -3.68
+MACD_HIST: -2.09
+RSI: 29.29
+BB_UPPER: 242.78
+BB_LOWER: 208.8
+BB_MIDDLE: 225.79
+OBV: -170,417,600.0
+ADX: 20.13
+DMP: 18.91
 DMN: 41.39"
 BABA,"2021-07-21
 Alibaba stock ($BABA) had a significant increase in options activity, with a strike price of 170.0 and an expiration date of 2021-08-06 showing high volume over open interest.
@@ -2679,6 +3291,18 @@ A unicorn backed by Alibaba had a successful IPO, which might have positive impl
 - The ETF China (FXI) has had a negative performance so far this year, with BABA being a significant component in the ETF
 - There is speculation about whether BABA will break below the EMA200 weekly or break out of a bearish channel
 - The focus in China's 5-year plan is on hard tech rather than e-commerce or ride-sharing companies like BABA and DIDI.",Negative,2021-07-26,"SMA_5: 206.8
+EMA_5: 203.97
+MACD: -3.16
+MACD_SIGNAL: -1.97
+MACD_HIST: -1.19
+RSI: 17.62
+BB_UPPER: 230.41
+BB_LOWER: 194.2
+BB_MIDDLE: 212.3
+OBV: -196,841,300.0
+ADX: 15.7
+DMP: 21.92
+DMN: 45.44","SMA_5: 206.8
 EMA_5: 203.97
 MACD: -3.16
 MACD_SIGNAL: -1.97
@@ -2759,6 +3383,18 @@ BB_MIDDLE: 187.16
 OBV: -408,947,900.0
 ADX: 27.07
 DMP: 14.49
+DMN: 51.82","SMA_5: 165.13
+EMA_5: 165.96
+MACD: -11.32
+MACD_SIGNAL: -8.0
+MACD_HIST: -3.32
+RSI: 16.96
+BB_UPPER: 214.8
+BB_LOWER: 159.51
+BB_MIDDLE: 187.16
+OBV: -408,947,900.0
+ADX: 27.07
+DMP: 14.49
 DMN: 51.82"
 BABA,"2021-10-01
 $BABA (Alibaba) has faced significant drops in its stock price, with analysts seeing potential upside despite a target price cut by Raymond James.
@@ -2802,6 +3438,18 @@ There is ongoing discussion about whether to invest in Alibaba based on fundamen
 - $BABA has been one of the most mentioned tickers on social media platforms like Reddit and Twitter.
 - Option volumes for $BABA indicate active trading in the stock.
 - $BABA is currently below its 30-day moving average.",Positive,2021-10-06,"SMA_5: 143.82
+EMA_5: 144.25
+MACD: -7.71
+MACD_SIGNAL: -7.74
+MACD_HIST: 0.03
+RSI: 41.03
+BB_UPPER: 168.79
+BB_LOWER: 136.63
+BB_MIDDLE: 152.71
+OBV: -515,815,100.0
+ADX: 27.88
+DMP: 20.33
+DMN: 38.06","SMA_5: 143.82
 EMA_5: 144.25
 MACD: -7.71
 MACD_SIGNAL: -7.74
@@ -2866,6 +3514,18 @@ BB_MIDDLE: 153.29
 OBV: -396,645,000.0
 ADX: 23.68
 DMP: 36.81
+DMN: 22.84","SMA_5: 165.83
+EMA_5: 164.85
+MACD: 0.39
+MACD_SIGNAL: -3.01
+MACD_HIST: 3.41
+RSI: 79.89
+BB_UPPER: 170.58
+BB_LOWER: 136.0
+BB_MIDDLE: 153.29
+OBV: -396,645,000.0
+ADX: 23.68
+DMP: 36.81
 DMN: 22.84"
 BABA,"2021-10-29
 Alibaba is ramping up its presence in Europe and is ahead of Amazon in at least one region.
@@ -2912,6 +3572,18 @@ Overall, Alibaba's stock remains of interest to investors and traders, with some
 - A trading chatroom is being opened to the public for a limited time, focusing on stocks like Alibaba with potential price targets and stop-loss levels.
 
 Overall, the tweets highlight key technical analysis, options activity, price targets, and upcoming events related to Alibaba's stock.",Positive,2021-11-03,"SMA_5: 166.81
+EMA_5: 166.97
+MACD: 1.8
+MACD_SIGNAL: 2.55
+MACD_HIST: -0.75
+RSI: 44.23
+BB_UPPER: 180.36
+BB_LOWER: 156.86
+BB_MIDDLE: 168.61
+OBV: -346,193,800.0
+ADX: 22.19
+DMP: 26.27
+DMN: 23.25","SMA_5: 166.81
 EMA_5: 166.97
 MACD: 1.8
 MACD_SIGNAL: 2.55

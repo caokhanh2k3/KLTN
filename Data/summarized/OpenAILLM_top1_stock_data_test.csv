@@ -1,4 +1,4 @@
-ticker,summary,target,date
+ticker,summary,target,date,technical_indicator
 GOOG,"2022-06-07
 Analysts have a high price target for GOOG stock.
 Alphabet's Waymo and Uber Freight have entered into a deal for future self-driving trucks.
@@ -19,7 +19,19 @@ There is a discussion about the high concentration of a few tech stocks like App
 - Trending stocks on fintwit include $SPY, $QQQ, $TSLA, $ES_F, $GOOG, $IWM, $AAPL, $COST, $XOM, and $BTC.
 
 2022-06-09
-GOOG stock split 20-to-1 on July 15th, putting the stock price in the 100-200$ range area. The stock price is currently around $2352.63.",Negative,2022-06-10
+GOOG stock split 20-to-1 on July 15th, putting the stock price in the 100-200$ range area. The stock price is currently around $2352.63.",Negative,2022-06-10,"SMA_5: 115.56
+EMA_5: 114.37
+MACD: -1.1
+MACD_SIGNAL: -1.88
+MACD_HIST: 0.78
+RSI: 32.4
+BB_UPPER: 120.35
+BB_LOWER: 105.98
+BB_MIDDLE: 113.17
+OBV: 1,552,713,120.0
+ADX: 18.85
+DMP: 21.82
+DMN: 29.8"
 GOOG,"2022-06-12
 In 2022, the stock returns for $GOOG were -23%, along with $AAPL, $MSFT, and $TSLA.
 Top analyst price targets for Google were discussed in a tweet.
@@ -49,7 +61,19 @@ FANG+ companies, including $GOOG, $AAPL, $AMZN, $TSLA, $BABA, $META, $NFLX, $NVD
 Recent trends in internet software stocks showed fluctuations in companies like $TWTR, $GOOG, $MSTR, $SE, $BILI, and $YNDX.
 Google's search capabilities were highlighted for making information on the internet easily accessible and useful.
 Google is expected to stay in Russia, according to a Russian lawmaker.
-Palantir has become generally available on Google Cloud and the Google Cloud marketplace.",Positive,2022-06-17
+Palantir has become generally available on Google Cloud and the Google Cloud marketplace.",Positive,2022-06-17,"SMA_5: 107.79
+EMA_5: 108.69
+MACD: -2.34
+MACD_SIGNAL: -2.03
+MACD_HIST: -0.31
+RSI: 38.75
+BB_UPPER: 119.65
+BB_LOWER: 103.46
+BB_MIDDLE: 111.56
+OBV: 1,582,833,300.0
+ADX: 19.51
+DMP: 20.6
+DMN: 30.72"
 GOOG,"2022-06-22
 $GOOG stock saw a 13.5% increase, reaching $2240 per share. This resulted in a profit of $210,000.
 Some analysts forecast a positive outlook for $GOOG, with a potential return rate of 5%.
@@ -78,7 +102,19 @@ Rising return rates added to the woes of retailers, impacting companies like Wal
 
 2022-06-26
 - The Twitter user is promoting a discord group for traders interested in stocks like $GOOG (Google), $SNAP (Snapchat), $SNDL (Sundial Growers), $LCID (Lucid Motors), $PLTR (Palantir), $SQQQ (ProShares UltraPro Short QQQ), $BA (Boeing), $F (Ford), and $PLUG (Plug Power).
-- Another user mentions a combo pack for trading with high-tech stocks such as $AAPL (Apple), $GOOG (Google), and $MSFT (Microsoft).",Negative,2022-06-27
+- Another user mentions a combo pack for trading with high-tech stocks such as $AAPL (Apple), $GOOG (Google), and $MSFT (Microsoft).",Negative,2022-06-27,"SMA_5: 114.38
+EMA_5: 114.66
+MACD: -0.45
+MACD_SIGNAL: -1.44
+MACD_HIST: 0.99
+RSI: 66.0
+BB_UPPER: 120.53
+BB_LOWER: 105.67
+BB_MIDDLE: 113.1
+OBV: 1,676,758,480.0
+ADX: 16.4
+DMP: 30.88
+DMN: 21.42"
 GOOG,"2022-06-30
 - Alphabet (parent company of Google) stock was mentioned in relation to being the best FAANG to own next month, with related news available for investors.
 - JP Morgan reduced estimates and price targets for various tech companies, including Amazon and Alphabet.
@@ -112,7 +148,19 @@ The key facts regarding GOOG stock from the provided tweets are:
 - There is a discussion about finding the next market leaders, including mentions of GOOG and AAPL.
 - There are signals of potential buy opportunities for various stocks, including GOOG, on a 15-minute chart.
 - A reminder that investors do not have to hold onto investments that are going in the wrong direction is given, with a related video.
-- There are discussions about potential profits and win rates in trades involving various stocks, including GOOG.",Positive,2022-07-05
+- There are discussions about potential profits and win rates in trades involving various stocks, including GOOG.",Positive,2022-07-05,"SMA_5: 111.43
+EMA_5: 112.0
+MACD: -0.69
+MACD_SIGNAL: -0.94
+MACD_HIST: 0.24
+RSI: 58.67
+BB_UPPER: 119.62
+BB_LOWER: 104.96
+BB_MIDDLE: 112.29
+OBV: 1,597,138,360.0
+ADX: 13.41
+DMP: 27.41
+DMN: 26.33"
 GOOG,"2022-07-08
 - $GOOG stock was slightly up by 0.5396, while $GOOGL remained unchanged.
 - Google offered concessions to avoid a U.S. antitrust lawsuit.
@@ -135,7 +183,19 @@ Internet software companies like GOOG and GOOGL were trending.
 Analysts released price targets for GOOG.
 Overall market conditions, including potential breakouts for SPY, were discussed in relation to GOOG.
 Additionally, the stock market report email provided insights on various companies, including GOOG.
-Cash on hand for Alphabet (GOOG) was reported to be around $135 billion.",Negative,2022-07-12
+Cash on hand for Alphabet (GOOG) was reported to be around $135 billion.",Negative,2022-07-12,"SMA_5: 117.21
+EMA_5: 116.1
+MACD: 0.71
+MACD_SIGNAL: 0.03
+MACD_HIST: 0.68
+RSI: 47.21
+BB_UPPER: 120.84
+BB_LOWER: 104.57
+BB_MIDDLE: 112.7
+OBV: 1,635,568,360.0
+ADX: 13.75
+DMP: 28.44
+DMN: 23.76"
 GOOG,"2022-07-14
 Alphabet, Google's parent company, is undergoing a 20-1 stock split on Friday.
 There are bearish signals for Google's stock, indicating a potential downward trend.
@@ -168,7 +228,19 @@ There was also a mention of Google being down 95% in the premarket.
 Some unusual options activities were observed in Google's stock.
 Google was fined $387 million by a Russian court for not removing content.
 There was an increase in the number of funds holding Google (106 funds).
-Overall, there were mixed sentiments and activities related to Google stock in the tweets provided.",Positive,2022-07-19
+Overall, there were mixed sentiments and activities related to Google stock in the tweets provided.",Positive,2022-07-19,"SMA_5: 112.18
+EMA_5: 113.02
+MACD: -0.14
+MACD_SIGNAL: -0.0
+MACD_HIST: -0.14
+RSI: 55.97
+BB_UPPER: 119.97
+BB_LOWER: 107.64
+BB_MIDDLE: 113.8
+OBV: 1,596,212,660.0
+ADX: 11.58
+DMP: 22.92
+DMN: 28.02"
 GOOG,"2022-07-21
 
 The stock symbol for Google is $GOOG.
@@ -208,7 +280,19 @@ There was speculation about Elon Musk's involvement with the wife of Sergey Brin
 The upcoming week was noted as a crucial earnings period, particularly with tech companies like $GOOG and $MSFT reporting their results.
 
 2022-07-25
-Google stock ($GOOG) is among the tech giants reporting earnings that will have a significant impact on the market. The company's stock is anticipated to experience volatility based on its earnings report. Market movement could be influenced by other factors such as FOMC decisions, GDP numbers, and housing data. Plans to increase purchases of stocks in recurring revenue software businesses were also mentioned in the tweets.",Negative,2022-07-26
+Google stock ($GOOG) is among the tech giants reporting earnings that will have a significant impact on the market. The company's stock is anticipated to experience volatility based on its earnings report. Market movement could be influenced by other factors such as FOMC decisions, GDP numbers, and housing data. Plans to increase purchases of stocks in recurring revenue software businesses were also mentioned in the tweets.",Negative,2022-07-26,"SMA_5: 110.35
+EMA_5: 109.04
+MACD: -1.21
+MACD_SIGNAL: -0.4
+MACD_HIST: -0.81
+RSI: 22.51
+BB_UPPER: 120.08
+BB_LOWER: 105.51
+BB_MIDDLE: 112.8
+OBV: 1,540,888,760.0
+ADX: 13.75
+DMP: 17.6
+DMN: 32.46"
 GOOG,"2022-07-28
 - Google's parent company, Alphabet (GOOG), saw its stock price increase by 0.97%.
 - There were decreases in the revenue of advertising companies such as Google, Meta, Snapchat, and Roku, while some companies like Amazon Web Services (AWS) showed positive growth.
@@ -253,7 +337,19 @@ A tweet discusses how Google ($GOOG) and Google LLC ($GOOGL) make money.
 - Google's top analyst price target for next week is anticipated.
 - Google's stock is being hoarded by investors, indicating confidence in the company.
 - Google is generating revenue through various means, as seen in a chart comparing earnings to other companies.
-- Google's stock is being analyzed in comparison to other mega-cap companies like Apple, Amazon, Microsoft, and Tesla.",Positive,2022-08-02
+- Google's stock is being analyzed in comparison to other mega-cap companies like Apple, Amazon, Microsoft, and Tesla.",Positive,2022-08-02,"SMA_5: 115.24
+EMA_5: 114.73
+MACD: 0.24
+MACD_SIGNAL: -0.24
+MACD_HIST: 0.48
+RSI: 62.29
+BB_UPPER: 120.89
+BB_LOWER: 106.6
+BB_MIDDLE: 113.75
+OBV: 1,632,058,160.0
+ADX: 10.76
+DMP: 25.18
+DMN: 23.33"
 GOOG,"2022-08-04
 - Google parent company Alphabet's stock $GOOG experienced fluctuations in trading, with mentions in various trading and market analysis tweets.
 - Talks about Google's cloud infrastructure market share, mention of Google in an earnings event, and discussions about buying the dip in Google stock.
@@ -280,7 +376,19 @@ The key facts regarding GOOG stock are:
 - GOOG is part of the trending sector of Internet Software.
 - Unusual volume was detected in options trading for GOOG on a specific date.
 - The individual's portfolio includes investments in GOOG.
-- Instances of company moats were provided, with GOOG being listed under network effects.",Negative,2022-08-09
+- Instances of company moats were provided, with GOOG being listed under network effects.",Negative,2022-08-09,"SMA_5: 118.3
+EMA_5: 117.6
+MACD: 1.28
+MACD_SIGNAL: 0.67
+MACD_HIST: 0.61
+RSI: 58.18
+BB_UPPER: 121.45
+BB_LOWER: 106.59
+BB_MIDDLE: 114.02
+OBV: 1,625,017,560.0
+ADX: 10.88
+DMP: 27.31
+DMN: 22.75"
 GOOG,"2022-08-11
 - Google's parent company, Alphabet Inc. (GOOG), experienced a slight decline in its stock price of -0.38%.
 - The stock was part of the Nasdaq 100 index, along with other tech giants like Apple (AAPL) and Microsoft (MSFT).
@@ -314,7 +422,19 @@ Overall, the tweets suggest positive sentiment and potential growth opportunitie
 - Google's parent company, Alphabet Inc. (GOOG), has been trending on the stock market.
 - Google's parent company, Alphabet Inc. (GOOG), was highlighted in a newsletter for analysis and breakdown.
 - Google's parent company, Alphabet Inc. (GOOG), has a trading chatroom that is open to the public for a limited time.
-- Google (GOOG) was mentioned in a tweet about dollar-cost averaging (DCA) for trading.",Negative,2022-08-16
+- Google (GOOG) was mentioned in a tweet about dollar-cost averaging (DCA) for trading.",Negative,2022-08-16,"SMA_5: 121.7
+EMA_5: 121.58
+MACD: 2.32
+MACD_SIGNAL: 1.58
+MACD_HIST: 0.74
+RSI: 73.47
+BB_UPPER: 125.74
+BB_LOWER: 107.06
+BB_MIDDLE: 116.4
+OBV: 1,644,862,860.0
+ADX: 15.06
+DMP: 29.32
+DMN: 17.22"
 GOOG,"2022-08-19
 - $GOOG stock price is being affected by the current market trend of buying the dip and hoarding shares.
 - There is a top analyst price target for $GOOG in the upcoming week.
@@ -341,13 +461,37 @@ There is a mention of changes in pricing for Google Workspace, with charges star
 - There were discussions about investing in GOOG during the current bear market.
 - A trend of buying the dip and hoarding shares of GOOG was mentioned.
 - Analyst price targets and ratings for GOOG were highlighted.
-- YouTube launched a dedicated homepage for podcasts in the US, which could be relevant to GOOG.",Negative,2022-08-23
+- YouTube launched a dedicated homepage for podcasts in the US, which could be relevant to GOOG.",Negative,2022-08-23,"SMA_5: 117.83
+EMA_5: 117.2
+MACD: 0.95
+MACD_SIGNAL: 1.57
+MACD_HIST: -0.62
+RSI: 22.46
+BB_UPPER: 123.79
+BB_LOWER: 112.74
+BB_MIDDLE: 118.27
+OBV: 1,589,031,960.0
+ADX: 13.94
+DMP: 21.66
+DMN: 27.64"
 GOOG,"2022-08-26
 The tweets reference various companies, including GOOG (Google parent company Alphabet Inc.), with mentions of top analyst ratings and price targets. Additionally, there is discussion about the market cap of Apple, which is currently at $2.7 trillion, and the growth of Internet of Things mobile connections. The trading chat-room for $GOOG is temporarily open to the public, and there is trending information about Internet software stocks, showing fluctuations in stock prices for companies like Google (GOOGL) and Google (GOOG).
 
 2022-08-28
 There is a top analyst price target for GOOG for the upcoming week.
-There are mentions of various other stocks such as TSLA, AAPL, AMZN, and more in the tweets.",Negative,2022-08-30
+There are mentions of various other stocks such as TSLA, AAPL, AMZN, and more in the tweets.",Negative,2022-08-30,"SMA_5: 112.79
+EMA_5: 112.26
+MACD: -0.93
+MACD_SIGNAL: 0.36
+MACD_HIST: -1.28
+RSI: 22.41
+BB_UPPER: 125.25
+BB_LOWER: 110.07
+BB_MIDDLE: 117.66
+OBV: 1,515,222,460.0
+ADX: 15.32
+DMP: 18.43
+DMN: 32.55"
 GOOG,"2022-09-02
 - Google plans to accept third-party payment services on its smartphone app in most major markets outside the US, including Japan and India.
 - Google's stock price fluctuated but did not have an inside day, with both morning and afternoon session VWAP finishing equal.
@@ -383,7 +527,19 @@ GOOG,"2022-09-02
 - A stock alert service highlighted the potential for a run-up in GOOG.
 - A list of top stock traders included GOOG among other stocks like TSLA, SPY, BA, GME, WMT, BBY, and AAPL.
 - A game plan for Monday, May 9, 2022, included monitoring major psychological levels for ES_F and NQ_F, focusing on potential mean reversion setups with stocks like AAPL, TSLA, AMZN, and GOOG.
-- Superinvestors were reported to have significant holdings in Alphabet (GOOGL) and Meta Platforms (META).",Positive,2022-09-07
+- Superinvestors were reported to have significant holdings in Alphabet (GOOGL) and Meta Platforms (META).",Positive,2022-09-07,"SMA_5: 109.27
+EMA_5: 109.7
+MACD: -2.0
+MACD_SIGNAL: -1.09
+MACD_HIST: -0.91
+RSI: 47.61
+BB_UPPER: 125.8
+BB_LOWER: 104.99
+BB_MIDDLE: 115.4
+OBV: 1,493,912,860.0
+ADX: 18.48
+DMP: 19.28
+DMN: 27.65"
 GOOG,"2022-09-09
 Key facts regarding GOOG stock:
 - Top analyst price targets and ratings for the upcoming week are positive, indicating potential for a run-up.
@@ -431,7 +587,19 @@ The top analyst price target for GOOG in the upcoming week is mentioned.
 There is expected seasonality, increasing interest rates, and a possible upcoming recession that may impact the market and stocks like GOOG.
 Some traders are hoarding shares of GOOG, indicating a potential buying trend.
 Google Cloud provides data center locations across various regions and availability zones.
-There were successful trading experiences and trades with GOOG options, resulting in significant profits.",Positive,2022-09-14
+There were successful trading experiences and trades with GOOG options, resulting in significant profits.",Positive,2022-09-14,"SMA_5: 108.85
+EMA_5: 107.96
+MACD: -2.26
+MACD_SIGNAL: -1.71
+MACD_HIST: -0.55
+RSI: 31.02
+BB_UPPER: 120.93
+BB_LOWER: 103.44
+BB_MIDDLE: 112.18
+OBV: 1,502,818,760.0
+ADX: 18.75
+DMP: 17.21
+DMN: 33.0"
 GOOG,"2022-09-16
 Google (GOOG) stock was mentioned alongside other tech giants like Apple (AAPL) and Microsoft (MSFT) in terms of market expectations for strong earnings.
 There were reports of sizeable trades involving GOOG stock, with one trade worth over $500 million.
@@ -481,7 +649,19 @@ Google Cloud CEO mentioned that on average, a company uses 13 different products
 
 YouTube will start sharing ad revenue with Shorts creators to compete with TikTok.
 
-Overall, Google stock is facing volatility and potential opportunities in the market.",Negative,2022-09-21
+Overall, Google stock is facing volatility and potential opportunities in the market.",Negative,2022-09-21,"SMA_5: 102.64
+EMA_5: 102.64
+MACD: -3.45
+MACD_SIGNAL: -2.62
+MACD_HIST: -0.82
+RSI: 15.2
+BB_UPPER: 116.98
+BB_LOWER: 99.8
+BB_MIDDLE: 108.39
+OBV: 1,380,923,860.0
+ADX: 25.78
+DMP: 12.45
+DMN: 34.44"
 GOOG,"2022-09-23
 Google's stock price fluctuated, with GOOGL down 1.38%, GOOG down 1.35%.
 Google's CEO Sundar Pichai had a heated all-hands meeting with employees, advising them not to equate fun with money.
@@ -514,7 +694,19 @@ The key facts regarding GOOG stock from the provided tweets are as follows:
 - GOOGLE (GOOG) was trending down 0.71%.
 - The top price target for GOOG for the next week was discussed.
 - There was unusual volume in GOOG with a call option for January 19, 2024, at $177.5.
-- Market Rebels discussed the potential for the stock market to break beneath the June low, specifically mentioning GOOG.",Positive,2022-09-28
+- Market Rebels discussed the potential for the stock market to break beneath the June low, specifically mentioning GOOG.",Positive,2022-09-28,"SMA_5: 99.48
+EMA_5: 99.95
+MACD: -3.85
+MACD_SIGNAL: -3.45
+MACD_HIST: -0.4
+RSI: 46.7
+BB_UPPER: 114.1
+BB_LOWER: 96.02
+BB_MIDDLE: 105.06
+OBV: 1,354,493,660.0
+ADX: 33.07
+DMP: 11.78
+DMN: 30.43"
 GOOG,"2022-09-30
 Google announced the shutdown of its gaming service, Stadia.
 Google's stock price fell by 1.24%.
@@ -553,7 +745,19 @@ The tweets mention that people are buying the dip in GOOG stock, potentially hoa
 - The Supreme Court is set to hear a case on Section 230 protections for internet platforms, including Google.
 - Google's stock is part of the trending internet software sector along with other companies like Twitter, Spotify, and Snapchat.
 - A mention of potential ecosystems that suit specific needs, involving companies like Amazon, Microsoft, Apple, Facebook, Google, and more.
-- A discord group with over 180k members that offers stock market advice and has its own app.",Negative,2022-10-05
+- A discord group with over 180k members that offers stock market advice and has its own app.",Negative,2022-10-05,"SMA_5: 99.63
+EMA_5: 100.66
+MACD: -3.03
+MACD_SIGNAL: -3.5
+MACD_HIST: 0.47
+RSI: 61.48
+BB_UPPER: 111.29
+BB_LOWER: 94.01
+BB_MIDDLE: 102.65
+OBV: 1,335,239,760.0
+ADX: 34.53
+DMP: 14.44
+DMN: 25.72"
 GOOG,"2022-10-07
 Google (GOOG) is investing $690 million in Japan, according to CEO Pichai.
 Google joins the smartwatch market with the Pixel Watch and announces new Pixel 7 phones.
@@ -581,7 +785,19 @@ The key facts regarding GOOG stock from the provided tweets are:
 - Various other stock symbols and companies are mentioned alongside GOOG in trading discussions.
 - A comparison of income statements for big tech companies including MSFT, GOOG, AAPL, and AMZN.
 - A trading community and group focusing on GOOG and other stocks is promoted for traders.
-- The most active trading group features alerts, analysis, and trading opportunities for various stocks, including GOOG.",Positive,2022-10-12
+- The most active trading group features alerts, analysis, and trading opportunities for various stocks, including GOOG.",Positive,2022-10-12,"SMA_5: 99.37
+EMA_5: 99.0
+MACD: -2.58
+MACD_SIGNAL: -2.91
+MACD_HIST: 0.33
+RSI: 36.75
+BB_UPPER: 104.64
+BB_LOWER: 95.93
+BB_MIDDLE: 100.28
+OBV: 1,307,341,860.0
+ADX: 34.13
+DMP: 12.49
+DMN: 27.83"
 GOOG,"2022-10-14
 The key facts regarding GOOG stock from the list of tweets are as follows:
 - Google (GOOG) is facing EU antitrust charges over its adtech business.
@@ -605,7 +821,19 @@ Google Cloud's global channel leader discussed the state of Google Cloud's growt
 Scores of Google rivals are requesting the EU tech law be used in an antitrust case involving Google.
 
 2022-10-18
-Nancy Pelosi exercised 200 $GOOG call options, sold 100 $MU call options for a loss, sold 50 $NVDA call options for a loss, and let 50 $DIS call options expire for a loss.",Negative,2022-10-19
+Nancy Pelosi exercised 200 $GOOG call options, sold 100 $MU call options for a loss, sold 50 $NVDA call options for a loss, and let 50 $DIS call options expire for a loss.",Negative,2022-10-19,"SMA_5: 99.87
+EMA_5: 100.09
+MACD: -1.69
+MACD_SIGNAL: -2.31
+MACD_HIST: 0.62
+RSI: 53.16
+BB_UPPER: 102.97
+BB_LOWER: 96.21
+BB_MIDDLE: 99.59
+OBV: 1,340,877,660.0
+ADX: 33.21
+DMP: 15.24
+DMN: 23.73"
 GOOG,"2022-10-21
 Google (GOOG) has $125 billion in cash and equivalents.
 Google's stock is set for a potential run-up.
@@ -654,7 +882,19 @@ Alphabet, the parent company of Google, reported a disappointing Q3 2022 earning
 - Alphabet plans to focus on moderating operating expense growth and significantly reduce Q4 headcount additions
 - A strong dollar impacted revenue growth, with constant currency revenue up 11%
 
-The stock price of GOOG experienced a decline, but the long-term implications of the earnings report are uncertain.",Negative,2022-10-26
+The stock price of GOOG experienced a decline, but the long-term implications of the earnings report are uncertain.",Negative,2022-10-26,"SMA_5: 100.95
+EMA_5: 100.0
+MACD: -1.05
+MACD_SIGNAL: -1.44
+MACD_HIST: 0.39
+RSI: 28.22
+BB_UPPER: 104.78
+BB_LOWER: 95.13
+BB_MIDDLE: 99.96
+OBV: 1,378,078,160.0
+ADX: 27.8
+DMP: 17.47
+DMN: 33.96"
 GOOG,"2022-10-28
 - Google (GOOG) has spent $163 billion in stock buybacks since Q4 2015 without reducing the share count.
 - Google Cloud's YOY growth rate in Q3 2022 was 38%.
@@ -683,7 +923,19 @@ GOOG was one of the most mentioned tickers on a trading forum.
 Most winning trading chat room mentioned GOOG.
 The most active trading group included GOOG in its alerts and analysis.
 Alphabet faced a decline in market cap, along with other mega-cap stocks.
-Elon Musk faced phishing attempts related to Google.",Negative,2022-11-02
+Elon Musk faced phishing attempts related to Google.",Negative,2022-11-02,"SMA_5: 92.28
+EMA_5: 91.96
+MACD: -2.97
+MACD_SIGNAL: -1.99
+MACD_HIST: -0.98
+RSI: 21.7
+BB_UPPER: 106.7
+BB_LOWER: 89.54
+BB_MIDDLE: 98.12
+OBV: 1,243,095,660.0
+ADX: 30.89
+DMP: 14.19
+DMN: 39.88"
 GOOG,"2022-11-04
 Based on the provided tweets, here are some key facts regarding GOOG stock:
 
@@ -728,7 +980,19 @@ There were no specific financial facts or figures related to GOOG stock provided
 - The Nasdaq 100 index showed changes in stock prices for tech companies like $GOOG, $GOOGL, $AAPL, $MSFT, $TSLA, and more.
 - There was significant options trading activity for $GOOG, along with other stocks like $AAPL, $MSFT, and $TSLA.
 - Apple was mentioned in comparison to the FAANG stocks.
-- McKinsey highlighted competitive advantages for Google in various sectors.",Negative,2022-11-09
+- McKinsey highlighted competitive advantages for Google in various sectors.",Negative,2022-11-09,"SMA_5: 87.03
+EMA_5: 88.2
+MACD: -3.97
+MACD_SIGNAL: -3.3
+MACD_HIST: -0.67
+RSI: 37.4
+BB_UPPER: 107.62
+BB_LOWER: 82.45
+BB_MIDDLE: 95.03
+OBV: 1,265,086,560.0
+ADX: 34.35
+DMP: 17.77
+DMN: 36.12"
 GOOG,"2022-11-11
 The key facts regarding GOOG stock in the given tweets are:
 
@@ -762,7 +1026,19 @@ Traders were discussing the dollar-cost averaging strategy and its impact on sto
 - Google's YouTube is introducing shopping features to Shorts in 2023.
 - There was a significant options analytics activity for Google.
 - FBI Director expressed concerns about Chinese-owned TikTok.
-- Google Pixel Watch now supports Fitbit Premium Sleep Profiles.",Positive,2022-11-16
+- Google Pixel Watch now supports Fitbit Premium Sleep Profiles.",Positive,2022-11-16,"SMA_5: 96.93
+EMA_5: 96.53
+MACD: -1.04
+MACD_SIGNAL: -2.38
+MACD_HIST: 1.34
+RSI: 73.99
+BB_UPPER: 106.02
+BB_LOWER: 82.57
+BB_MIDDLE: 94.3
+OBV: 1,370,347,960.0
+ADX: 25.82
+DMP: 30.52
+DMN: 24.53"
 GOOG,"2022-11-18
 The key fact regarding GOOG stock is that it experienced a decrease of 0.82% in the trending Nasdaq 100 stocks.
 
@@ -778,7 +1054,19 @@ The key fact regarding GOOG stock is that it experienced a decrease of 0.82% in 
 - Trending stocks in internet software include DKNG, FUTU, BIDU, BILI, GOOGL, GOOG, SPOT, IQ, MSTR, and SOFO.
 - Alerts and updates with free trials are available for various stocks like TSLA, SPY, BA, GME, WMT, BBY, and more.
 - Internet software stocks like DKNG, FUTU, BIDU, BILI, GOOGL, and GOOG are showing fluctuations in their percentages.
-- Traders are encouraged to zoom out on charts to get a better perspective on what is happening with stocks like LCID, AMZN, MSFT, HCMC, AAPL, SPY, TSLA, FB, GOOG, BABA, and more.",Positive,2022-11-23
+- Traders are encouraged to zoom out on charts to get a better perspective on what is happening with stocks like LCID, AMZN, MSFT, HCMC, AAPL, SPY, TSLA, FB, GOOG, BABA, and more.",Positive,2022-11-23,"SMA_5: 97.66
+EMA_5: 97.62
+MACD: 0.08
+MACD_SIGNAL: -0.93
+MACD_HIST: 1.01
+RSI: 65.91
+BB_UPPER: 103.03
+BB_LOWER: 83.92
+BB_MIDDLE: 93.47
+OBV: 1,341,300,260.0
+ADX: 19.09
+DMP: 26.42
+DMN: 25.16"
 GOOG,"2022-11-27
 Google's parent company, Alphabet, had impressive potential despite its market price.
 A top analyst provided a price target for GOOG for the upcoming week.
@@ -801,7 +1089,19 @@ Alphabet's DeepMind froze hiring for new interns, canceling one applicant's inte
 Google (GOOG) was hit with a multi-billion dollar class-action lawsuit in the U.K. over online ad dominance.
 There are price targets and analyst predictions for GOOG stock to watch out for.
 A trading group is promoting GOOG as a potential opportunity for profit.
-It was mentioned in a tweet that many traders and investors are focusing on GOOG due to news related to Google.",Negative,2022-12-01
+It was mentioned in a tweet that many traders and investors are focusing on GOOG due to news related to Google.",Negative,2022-12-01,"SMA_5: 98.4
+EMA_5: 99.23
+MACD: 0.76
+MACD_SIGNAL: -0.04
+MACD_HIST: 0.8
+RSI: 70.21
+BB_UPPER: 105.02
+BB_LOWER: 84.99
+BB_MIDDLE: 95.0
+OBV: 1,310,654,560.0
+ADX: 16.12
+DMP: 32.24
+DMN: 23.89"
 GOOG,"2022-12-05
 - Google (owned by Alphabet Inc.) is now displaying email or email display names on all YouTube comments.
 - There are top analyst price targets for Google stock for the upcoming week.
@@ -828,7 +1128,19 @@ Overall, there is a mix of discussions, news, and predictions regarding Google's
 - There are discussions regarding the valuation premiums of companies like Amazon (AMZN) compared to Google (GOOG) and Microsoft (MSFT).
 
 2022-12-07
-Google (GOOG) stock was mentioned in several tweets, including discussions about price targets, Pentagon cloud deals, and trading chatrooms. There were also mentions of other stocks like AAPL, AMZN, MSFT, and TSLA in relation to GOOG. Additionally, there were tweets highlighting trends and performance of various stocks in the market. Joining trading communities and staying informed about market trends were also emphasized in some tweets.",Negative,2022-12-08
+Google (GOOG) stock was mentioned in several tweets, including discussions about price targets, Pentagon cloud deals, and trading chatrooms. There were also mentions of other stocks like AAPL, AMZN, MSFT, and TSLA in relation to GOOG. Additionally, there were tweets highlighting trends and performance of various stocks in the market. Joining trading communities and staying informed about market trends were also emphasized in some tweets.",Negative,2022-12-08,"SMA_5: 97.42
+EMA_5: 96.45
+MACD: 0.18
+MACD_SIGNAL: 0.4
+MACD_HIST: -0.21
+RSI: 25.83
+BB_UPPER: 101.93
+BB_LOWER: 93.28
+BB_MIDDLE: 97.6
+OBV: 1,198,758,860.0
+ADX: 13.8
+DMP: 24.97
+DMN: 32.86"
 GOOG,"2022-12-10
 The key facts regarding GOOG stock from the provided tweets are:
 
@@ -860,7 +1172,19 @@ Overall, the tweets suggest ongoing interest and positive outlook for Google par
 - There was a mention of a top analyst price target for GOOG stock in the coming week.
 - The chatroom claimed to have turned a small investment into a significant profit, hinting at successful trading strategies with stocks like GOOG.
 
-Overall, the tweets focused on trading advice, potential price movements, and profitability related to GOOG and other tech stocks.",Negative,2022-12-15
+Overall, the tweets focused on trading advice, potential price movements, and profitability related to GOOG and other tech stocks.",Negative,2022-12-15,"SMA_5: 93.8
+EMA_5: 93.85
+MACD: -0.76
+MACD_SIGNAL: -0.19
+MACD_HIST: -0.57
+RSI: 25.9
+BB_UPPER: 102.29
+BB_LOWER: 91.35
+BB_MIDDLE: 96.82
+OBV: 1,184,291,260.0
+ADX: 12.89
+DMP: 27.51
+DMN: 35.3"
 GOOG,"2022-12-20
 - Top analyst price target for next week for GOOG stock
 - Mention of GOOG stock rebounding after a split
@@ -880,7 +1204,19 @@ Based on the provided tweets, here are the key facts regarding GOOG stock:
 7. $GOOG is part of a list of top analyst price targets for the week, along with other stocks like $AAPL and $TSLA.
 8. There is a mention of $GOOG options trading activity, with specific strike prices and expiration dates being highlighted.
 9. Google's Play Store gift cards are being advised against during the holiday season, with concerns about privacy and consumer protection highlighted.
-10. A trading group is offering alerts, analysis, and support for trading various stocks, including $GOOG, $AAPL, $AMZN, and others.",Negative,2022-12-22
+10. A trading group is offering alerts, analysis, and support for trading various stocks, including $GOOG, $AAPL, $AMZN, and others.",Negative,2022-12-22,"SMA_5: 89.63
+EMA_5: 89.9
+MACD: -1.96
+MACD_SIGNAL: -1.17
+MACD_HIST: -0.79
+RSI: 23.24
+BB_UPPER: 102.84
+BB_LOWER: 86.79
+BB_MIDDLE: 94.81
+OBV: 1,131,442,360.0
+ADX: 14.43
+DMP: 23.43
+DMN: 36.44"
 NEE,"2022-06-06
 NextEra Energy, Inc. (NEE) had a significant stock purchase of size 130,000 shares at a price of $81.04, totaling $10,535,200.00.
 The company's President and CEO, John Ketchum, made a statement regarding the Biden administration's steps to ease solar tariffs.
@@ -891,7 +1227,19 @@ The company's President and CEO, John Ketchum, made a statement regarding the Bi
 
 2022-06-09
 NextEra Energy (NEE) had a top analyst price target today.
-NEE had notable buy and sell flow in the utilities sector, alongside other companies like PCG, XEL, PPL, SRE, ETR, CMS, CNP, NU, PNW, ED, NRG, SO, AEE, D, PEG, NI, DUK, WEC, and AES.",Negative,2022-06-10
+NEE had notable buy and sell flow in the utilities sector, alongside other companies like PCG, XEL, PPL, SRE, ETR, CMS, CNP, NU, PNW, ED, NRG, SO, AEE, D, PEG, NI, DUK, WEC, and AES.",Negative,2022-06-10,"SMA_5: 78.34
+EMA_5: 77.45
+MACD: 0.98
+MACD_SIGNAL: 0.57
+MACD_HIST: 0.4
+RSI: 35.51
+BB_UPPER: 81.61
+BB_LOWER: 68.38
+BB_MIDDLE: 74.99
+OBV: -50,089,400.0
+ADX: 26.63
+DMP: 27.73
+DMN: 26.13"
 NEE,"2022-06-13
 
 The top analyst price target for NEE stock was mentioned in a tweet.
@@ -909,7 +1257,19 @@ There was no specific information provided regarding analyst price targets or th
 2022-06-16
 NextEra Energy (NEE) was featured on an energy stock watchlist.
 Investor sentiment towards NEE was bullish.
-NEE is considered a recession-resistant dividend stock.",Negative,2022-06-17
+NEE is considered a recession-resistant dividend stock.",Negative,2022-06-17,"SMA_5: 71.95
+EMA_5: 72.37
+MACD: -0.61
+MACD_SIGNAL: 0.07
+MACD_HIST: -0.68
+RSI: 29.18
+BB_UPPER: 81.23
+BB_LOWER: 69.4
+BB_MIDDLE: 75.31
+OBV: -89,947,100.0
+ADX: 24.53
+DMP: 21.81
+DMN: 33.11"
 NEE,"2022-06-22
 NextEra Energy (NEE) had a positive performance with a large block trade of 137,452 shares at a price of $72.20, totaling $9,924,034.40. The trade occurred at 9:30 AM. Joining a platform like https://t.co/JWvlYbdLod would provide real-time prints of such trades. Additionally, the tweet mentioned potential opportunities to capitalize on market movements, such as with runners, losers, and gappers.
 
@@ -920,7 +1280,19 @@ NextEra Energy (NEE) had a positive performance with a large block trade of 137,
 
 2022-06-24
 NextEra Energy (NEE) stock is being mentioned in tweets regarding analysts' price targets and potential upcoming moves in a few hours.
-NextEra Energy (NEE) is listed as one of the top dividend growth stocks among others like Visa (V), Home Depot (HD), Johnson & Johnson (JNJ), and Microsoft (MSFT).",Negative,2022-06-27
+NextEra Energy (NEE) is listed as one of the top dividend growth stocks among others like Visa (V), Home Depot (HD), Johnson & Johnson (JNJ), and Microsoft (MSFT).",Negative,2022-06-27,"SMA_5: 76.11
+EMA_5: 76.43
+MACD: 0.28
+MACD_SIGNAL: -0.05
+MACD_HIST: 0.34
+RSI: 70.25
+BB_UPPER: 81.7
+BB_LOWER: 70.15
+BB_MIDDLE: 75.93
+OBV: -53,527,900.0
+ADX: 19.95
+DMP: 29.44
+DMN: 23.41"
 NEE,"2022-07-01
 NextEra Energy (stock: $NEE) was mentioned in the context of being a potential buy before rebounding.
 A top analyst provided a price target for NextEra Energy.
@@ -929,7 +1301,19 @@ A top analyst provided a price target for NextEra Energy.
 - NextEra Energy (NEE) is one of the best stocks to buy now, particularly in the renewable energy sector.
 - The stock is currently recommended as a buy, with a real-time trend indicating a positive outlook.
 - Top analysts have set a price target for NEE.
-- The stock ticker for NextEra Energy is $NEE.",Negative,2022-07-05
+- The stock ticker for NextEra Energy is $NEE.",Negative,2022-07-05,"SMA_5: 77.91
+EMA_5: 78.35
+MACD: 0.94
+MACD_SIGNAL: 0.42
+MACD_HIST: 0.52
+RSI: 62.97
+BB_UPPER: 82.14
+BB_LOWER: 70.01
+BB_MIDDLE: 76.08
+OBV: -61,437,600.0
+ADX: 17.1
+DMP: 30.61
+DMN: 21.98"
 NEE,"2022-07-07
 NextEra Energy (NEE) is a renewable energy company.
 InvestorPlace listed NEE as one of the 7 best renewable energy stocks to buy in July 2022.
@@ -940,7 +1324,19 @@ NextEra Energy Partners, LP (NEP) announced the release date for their second-qu
 
 2022-07-11
 NextEra Energy Inc. (NEE) had a significant price increase, with a size of 110,000 and a price of $80.575, totaling $8,863,250.00. 
-There were positive swings in trades involving NEE stock, with a 153% increase mentioned among other successful trades.",Negative,2022-07-12
+There were positive swings in trades involving NEE stock, with a 153% increase mentioned among other successful trades.",Negative,2022-07-12,"SMA_5: 80.17
+EMA_5: 79.96
+MACD: 1.42
+MACD_SIGNAL: 1.03
+MACD_HIST: 0.39
+RSI: 59.27
+BB_UPPER: 83.26
+BB_LOWER: 69.81
+BB_MIDDLE: 76.53
+OBV: -55,183,000.0
+ADX: 17.1
+DMP: 27.65
+DMN: 19.71"
 NEE,"2022-07-14
 The tweets mention NextEra Energy (NEE) as one of the most mentioned stocks and options. The top analyst price target for NEE is also highlighted. Additionally, the market breadth for the utilities sector, including NEE and other companies like Duke Energy (DUK) and Southern Company (SO), is discussed.
 
@@ -953,7 +1349,19 @@ NextEra Energy (NEE) is scheduled to report earnings on Friday, July 22nd.
 
 2022-07-18
 - NextEra Energy (NEE) had a nice print with a size of 107,200, a price of $78.06, and a total amount of $8,368,032.00.
-- NextEra Energy (NEE) is included in the list of companies reporting earnings during the week, along with others like Bank of America (BAC), IBM, Goldman Sachs (GS), Netflix (NFLX), Tesla (TSLA), and more.",Positive,2022-07-19
+- NextEra Energy (NEE) is included in the list of companies reporting earnings during the week, along with others like Bank of America (BAC), IBM, Goldman Sachs (GS), Netflix (NFLX), Tesla (TSLA), and more.",Positive,2022-07-19,"SMA_5: 79.11
+EMA_5: 78.92
+MACD: 0.97
+MACD_SIGNAL: 1.13
+MACD_HIST: -0.15
+RSI: 48.75
+BB_UPPER: 82.5
+BB_LOWER: 74.15
+BB_MIDDLE: 78.32
+OBV: -62,742,600.0
+ADX: 14.34
+DMP: 21.06
+DMN: 22.54"
 NEE,"2022-07-21
 NextEra Energy (NEE) is one of the stocks mentioned.
 There is an earnings preview for NextEra Energy.
@@ -970,7 +1378,19 @@ The tweet mentions a top analyst price target for NEE stock, but no specific det
 
 2022-07-25
 NextEra Energy (NEE) had a top analyst price target today.
-NextEra Energy Capital Holdings announced dates for the remarketing of its Series J Debentures due September 1, 2024.",Negative,2022-07-26
+NextEra Energy Capital Holdings announced dates for the remarketing of its Series J Debentures due September 1, 2024.",Negative,2022-07-26,"SMA_5: 79.67
+EMA_5: 79.86
+MACD: 0.92
+MACD_SIGNAL: 0.96
+MACD_HIST: -0.04
+RSI: 54.15
+BB_UPPER: 82.0
+BB_LOWER: 76.42
+BB_MIDDLE: 79.21
+OBV: -51,406,900.0
+ADX: 13.89
+DMP: 24.33
+DMN: 17.44"
 NEE,"2022-07-28
 NextEra Energy, Inc. (NYSE:NEE) is forecasted to post FY2022 earnings of $2.86 per share.
 There were large options trades in NEE, with the $80.0 strike receiving the highest open interest and a call-put ratio of 1.25.
@@ -984,7 +1404,19 @@ Investors are advised to build a portfolio with recession-resistant dividend sto
 - NextEra Energy's board declared a quarterly dividend.
 
 2022-08-01
-The stock ticker NEE is mentioned alongside other stocks like $HWM, $ALIT, $IRNT, $DIS, $PPC, $BBIG, and $LCID in the context of most mentioned stocks and options. There is also mention of NEE in the utilities sector alongside other companies like $XEL, $PCG, $AEP, $WEC, $PPL, $EIX, and more. The flow in the utilities sector for NEE is highlighted, indicating potential buying and selling activities surrounding the stock.",Positive,2022-08-02
+The stock ticker NEE is mentioned alongside other stocks like $HWM, $ALIT, $IRNT, $DIS, $PPC, $BBIG, and $LCID in the context of most mentioned stocks and options. There is also mention of NEE in the utilities sector alongside other companies like $XEL, $PCG, $AEP, $WEC, $PPL, $EIX, and more. The flow in the utilities sector for NEE is highlighted, indicating potential buying and selling activities surrounding the stock.",Positive,2022-08-02,"SMA_5: 84.08
+EMA_5: 84.19
+MACD: 1.92
+MACD_SIGNAL: 1.37
+MACD_HIST: 0.55
+RSI: 85.01
+BB_UPPER: 85.34
+BB_LOWER: 76.17
+BB_MIDDLE: 80.75
+OBV: -28,595,300.0
+ADX: 21.84
+DMP: 36.28
+DMN: 13.9"
 NEE,"2022-08-04
 NextEra Energy (NEE) had a nice print with a size of 750,228 and a price of 87.98, totaling $66,005,059.44.
 There were bear forecasts for various tickers, including NEE, which had an intraday log change of 0.75.
@@ -998,7 +1430,19 @@ There were bear forecasts for various tickers, including NEE, which had an intra
 2022-08-08
 - NEE stock had a nice print with a size of 108719, price of 88.46, and amount of $9,617,282.74 at 9:30.
 - There were top money flows in stocks such as $GBT, $VGIT, $NEE, $VCIT, $QQQ, $IEF, $IWM, $AMD, $AMZN, $BND, $PRFZ, $TILL, $BNDX, $META, $MBB, $AMC, $LQD, $GOVT, $MUB, and $KXI.
-- Real-time stock prints and information can be found on various platforms mentioned in the tweets.",Positive,2022-08-09
+- Real-time stock prints and information can be found on various platforms mentioned in the tweets.",Positive,2022-08-09,"SMA_5: 87.77
+EMA_5: 87.59
+MACD: 2.73
+MACD_SIGNAL: 2.15
+MACD_HIST: 0.58
+RSI: 86.4
+BB_UPPER: 90.13
+BB_LOWER: 75.18
+BB_MIDDLE: 82.66
+OBV: -14,364,900.0
+ADX: 28.57
+DMP: 32.63
+DMN: 11.92"
 NEE,"2022-08-11
 NextEra Energy (NEE) had a significant stock trade with a size of 168,100 and a price of $89.71, totaling $15,080,251.
 The market breadth for the sector including NEE (XLU) showed an advance of 25 and a decline of 4 out of 625 total.
@@ -1016,7 +1460,19 @@ NextEra Energy (NEE) stock is being analyzed for options trading with an expiry 
 - NEE stock is one of the most mentioned stocks and options on social media.
 - Other mentioned stocks and options include HWM, ALIT, IRNT, DIS, PPC, BBIG, and LCID.
 - Building a diversified portfolio of dividend stocks and funds is recommended, including companies like Visa (V), Home Depot (HD), Abbott (ABT), Lockheed Martin (LMT), AbbVie (ABBV), and Starbucks (SBUX).
-- The importance of including dividend growth and recession-proof stocks in the portfolio is emphasized.",Negative,2022-08-16
+- The importance of including dividend growth and recession-proof stocks in the portfolio is emphasized.",Negative,2022-08-16,"SMA_5: 90.24
+EMA_5: 90.08
+MACD: 3.08
+MACD_SIGNAL: 2.74
+MACD_HIST: 0.34
+RSI: 76.15
+BB_UPPER: 93.76
+BB_LOWER: 77.12
+BB_MIDDLE: 85.44
+OBV: -11,152,800.0
+ADX: 36.66
+DMP: 34.07
+DMN: 9.34"
 NEE,"2022-08-18
 NextEra Energy (NEE) stock is mentioned in a tweet about a recent breakout buy with a profit/loss of 10.55%. The tweet also includes a link for more information on NextEra Energy. The tweet mentions NextEra Energy (NEE) in a list of dividend stocks with a 15%+ 10-year average annual return, alongside companies like Apple (AAPL), Costco (COST), Mastercard (MA), and Microsoft (MSFT).
 
@@ -1026,7 +1482,19 @@ A large order for NextEra Energy (NEE) was executed, with a size of 330926 share
 Real-time stock prints and updates can be accessed through various platforms like https://t.co/P3QkOtxvS5, providing information on runners, losers, and gappers in the market.
 
 2022-08-22
-An unusually large dark pool print of approximately 4.39 million shares of $XLU at $76.63 was reported in 2022. The top holdings in XLU include $NEE, $DUK, $SO, $D, $AEP, $SRE, $EXC, $XEL, and $ED.",Negative,2022-08-23
+An unusually large dark pool print of approximately 4.39 million shares of $XLU at $76.63 was reported in 2022. The top holdings in XLU include $NEE, $DUK, $SO, $D, $AEP, $SRE, $EXC, $XEL, and $ED.",Negative,2022-08-23,"SMA_5: 89.33
+EMA_5: 89.01
+MACD: 2.28
+MACD_SIGNAL: 2.66
+MACD_HIST: -0.38
+RSI: 28.77
+BB_UPPER: 93.11
+BB_LOWER: 82.61
+BB_MIDDLE: 87.86
+OBV: -25,039,900.0
+ADX: 36.06
+DMP: 26.76
+DMN: 18.77"
 NEE,"2022-08-25
 - Marjorie Taylor Greene purchased American oil stocks (like $CVX), war stocks (like $LMT), and renewable energy stocks.
 - A member reached their goal with the help of a server, as mentioned in an updated review.
@@ -1043,11 +1511,35 @@ NextEra Energy (NEE) stock is being monitored for a potential buy signal, with a
 
 2022-08-29
 NextEra Energy (NEE) stock was mentioned in tweets related to the utilities sector.
-Unusual options activity was observed on NEE with a significant amount of calls expiring on 01-20-2023.",Negative,2022-08-30
+Unusual options activity was observed on NEE with a significant amount of calls expiring on 01-20-2023.",Negative,2022-08-30,"SMA_5: 87.78
+EMA_5: 87.34
+MACD: 1.2
+MACD_SIGNAL: 1.96
+MACD_HIST: -0.77
+RSI: 20.17
+BB_UPPER: 91.6
+BB_LOWER: 85.96
+BB_MIDDLE: 88.78
+OBV: -34,987,500.0
+ADX: 30.63
+DMP: 24.59
+DMN: 22.96"
 NEE,"2022-09-06
 NextEra Energy (NEE) and NextEra Energy Partners to present at the 2022 Barclays CEO Energy-Power Conference.
 Top analyst price target for NextEra Energy (NEE) for the following week.
-Recession-proof dividend stocks include NextEra Energy (NEE) among others like PepsiCo and Xcel Energy.",Positive,2022-09-07
+Recession-proof dividend stocks include NextEra Energy (NEE) among others like PepsiCo and Xcel Energy.",Positive,2022-09-07,"SMA_5: 86.81
+EMA_5: 87.73
+MACD: 0.68
+MACD_SIGNAL: 1.06
+MACD_HIST: -0.38
+RSI: 71.58
+BB_UPPER: 92.23
+BB_LOWER: 84.85
+BB_MIDDLE: 88.54
+OBV: -19,264,100.0
+ADX: 25.34
+DMP: 29.58
+DMN: 14.94"
 NEE,"2022-09-09
 The stock symbol $NEE is mentioned in the tweets.
 There was a large print for NEE stock, with a size of 176779 shares, a price of 90.2, and a total amount of $15,945,465.80.
@@ -1058,7 +1550,19 @@ The stock ticker mentioned in the tweets is NEE, which likely refers to NextEra 
 There was a significant trade with a size of 864,396 shares of NEE at a price of $88.86, totaling $76,810,228.56.
 The tweets also mention real-time prints, runners, losers, and gappers for traders to keep track of.
 There is a focus on the utilities sector, with mentions of various companies like EIX, PCG, FE, DTE, DUK, NU, CMS, PPL, SRE, and more in terms of buy and sell flow.
-Overall, the tweets provide information and resources for traders interested in the stock market, particularly in the utilities sector.",Positive,2022-09-14
+Overall, the tweets provide information and resources for traders interested in the stock market, particularly in the utilities sector.",Positive,2022-09-14,"SMA_5: 89.74
+EMA_5: 89.2
+MACD: 0.95
+MACD_SIGNAL: 1.0
+MACD_HIST: -0.05
+RSI: 49.72
+BB_UPPER: 91.93
+BB_LOWER: 84.9
+BB_MIDDLE: 88.42
+OBV: -8,881,500.0
+ADX: 26.03
+DMP: 23.84
+DMN: 17.81"
 NEE,"2022-09-16
 - JPMorgan CEO warned about the US heading towards something worse than a recession.
 - Amazon is closing warehouses across the world.
@@ -1076,7 +1580,19 @@ Some Twitter users are discussing their strategies for building a portfolio of d
 There is an example of how to distribute $1000 in the American stock market, with $NEE included in the allocation.
 
 2022-09-20
-NextEra Energy ($NEE) is a dividend stock with 26 years of increasing dividends and a dividend growth rate of 10.95%. The stock is set and ready for a run-up according to one tweet. There are also alerts for offerings and senior notes redemption for Schlumberger ($SLB), and news about Amazon ($AMZN) closing warehouses and an imminent ETF flash crash.",Negative,2022-09-21
+NextEra Energy ($NEE) is a dividend stock with 26 years of increasing dividends and a dividend growth rate of 10.95%. The stock is set and ready for a run-up according to one tweet. There are also alerts for offerings and senior notes redemption for Schlumberger ($SLB), and news about Amazon ($AMZN) closing warehouses and an imminent ETF flash crash.",Negative,2022-09-21,"SMA_5: 85.46
+EMA_5: 85.68
+MACD: -0.21
+MACD_SIGNAL: 0.41
+MACD_HIST: -0.62
+RSI: 28.71
+BB_UPPER: 91.53
+BB_LOWER: 83.36
+BB_MIDDLE: 87.45
+OBV: -50,880,500.0
+ADX: 21.86
+DMP: 17.6
+DMN: 24.24"
 NEE,"2022-09-23
 NextEra Energy (NEE) subsidiary Florida Power & Light (FPL) proposed a plan to refund customers nearly $400 million in federal corporate tax savings.
 There were energy margin call alerts for Schlumberger (SLB) and other related stocks.
@@ -1098,7 +1614,19 @@ There is a positive sentiment surrounding NEE in trading and investing circles.
 - The tweet mentions other companies in the utilities sector such as DUK, SO, WM, D, SRE, AEP, EXC, XEL, ED, PEG, WEC, RSG, CEG, AWK, EIX, DTE, AEE, ETR, FE, PPL, PCG, CNP, CMS, AES, ATO, LNT, EVRG, NI, WTRG, VST, NRG.
 - The hashtag #WeAimHigher is included in the tweet.
 - A chatroom for traders is mentioned with various stock symbols including HWM, ALIT, IRNT, NEE, DIS, PPC, BBIG, LCID.
-- The tweet encourages learning and banking in trading activities.",Positive,2022-09-28
+- The tweet encourages learning and banking in trading activities.",Positive,2022-09-28,"SMA_5: 82.13
+EMA_5: 82.43
+MACD: -1.34
+MACD_SIGNAL: -0.58
+MACD_HIST: -0.76
+RSI: 37.17
+BB_UPPER: 92.04
+BB_LOWER: 80.03
+BB_MIDDLE: 86.04
+OBV: -72,585,400.0
+ADX: 25.63
+DMP: 13.4
+DMN: 27.53"
 NEE,"2022-09-30
 - $XLU is the Utilities Select Sector SPDR Fund that tracks the performance of utility companies in the S&P 500 index.
 - The market breadth for $XLU at 9:33 AM showed 22 advances and 5 declines, with a current value of 66.88 and a gap of 0.32.
@@ -1112,7 +1640,19 @@ NextEra Energy (NEE) is a top flow stock in the utilities sector.
 Other companies in the sector include AEP, PPL, EIX, SO, PCG, ETR, EXC, PEG, NI, SRE, NU, WEC, DUK, CNP, FE, D, XEL, PNW, and AEE.
 There is positive sentiment towards NextEra Energy in terms of buying flow.
 One member had a positive experience with a server related to NextEra Energy.
-NextEra Energy is part of the utilities sector and is included in stock market investments.",Negative,2022-10-05
+NextEra Energy is part of the utilities sector and is included in stock market investments.",Negative,2022-10-05,"SMA_5: 80.83
+EMA_5: 81.55
+MACD: -1.61
+MACD_SIGNAL: -1.34
+MACD_HIST: -0.27
+RSI: 48.71
+BB_UPPER: 91.77
+BB_LOWER: 77.32
+BB_MIDDLE: 84.54
+OBV: -82,890,800.0
+ADX: 28.86
+DMP: 15.49
+DMN: 28.76"
 NEE,"2022-10-09
 - NextEra Energy (NEE) is a top analyst price target for the next week.
 - There is a mention of NEE stock in the context of GameFi and Play to Earn.
@@ -1124,7 +1664,19 @@ NEE,"2022-10-09
 - A top analyst has set a price target for NEE for the next week.
 - NEE is among the most mentioned stocks and options in trading discussions.
 - NEE is part of a chatroom for real traders, along with other stocks like Disney (DIS) and Blink Charging (BBIG).
-- Traders are encouraged to keep learning and potentially profit from trading NEE and other mentioned stocks.",Negative,2022-10-12
+- Traders are encouraged to keep learning and potentially profit from trading NEE and other mentioned stocks.",Negative,2022-10-12,"SMA_5: 76.23
+EMA_5: 76.03
+MACD: -2.8
+MACD_SIGNAL: -2.03
+MACD_HIST: -0.77
+RSI: 14.21
+BB_UPPER: 88.37
+BB_LOWER: 73.96
+BB_MIDDLE: 81.16
+OBV: -111,703,000.0
+ADX: 35.58
+DMP: 10.19
+DMN: 41.34"
 NEE,"2022-10-14
 NextEra Energy (NEE) stock had a nice print with a size of 103,900 shares at a price of $73.83, totaling $7,670,937.00.
 There were mentions of NEE in discussions about oversold stocks on an hourly basis.
@@ -1141,7 +1693,19 @@ Someone made a significant investment in NEE stock, with a size of $18,463,750.
 There was a mention of a chatroom discussing NEE stock along with other ticker symbols like $HWM, $ALIT, $IRNT, $DIS, $PPC, $BBIG, and $LCID.
 The GameFi and NFT markets were mentioned in relation to NEE stock.
 Several other ticker symbols were mentioned in connection with NEE stock, including $CMCSA, $PEP, $SAP, $XOM, $ABBV, $ABT, $TM, $CRM, $ORCL, $CVX, $ASML, $LLY, $TMO, $AMGN, $AZN, $NKECHL, $COST, $MCD, $ACN, $BMY, $DHR, $SNY, $CHTR, $MDT, and $TMUS.
-Various stocks, including $RBLX, $NEE, $MA, $BAC, and $FUBO, were trending with significant reach percentages.",Negative,2022-10-19
+Various stocks, including $RBLX, $NEE, $MA, $BAC, and $FUBO, were trending with significant reach percentages.",Negative,2022-10-19,"SMA_5: 73.44
+EMA_5: 74.05
+MACD: -3.14
+MACD_SIGNAL: -2.81
+MACD_HIST: -0.33
+RSI: 38.82
+BB_UPPER: 85.72
+BB_LOWER: 70.6
+BB_MIDDLE: 78.16
+OBV: -100,811,900.0
+ADX: 40.21
+DMP: 13.75
+DMN: 36.23"
 NEE,"2022-10-22
 NextEra Energy (NEE) is a top-rated stock by analysts with favorable price targets.
 Earnings for NextEra Energy are expected next week.
@@ -1156,7 +1720,19 @@ For more details on the financial performance and outlook of NEE, refer to the e
 2022-10-24
 NextEra Energy (NEE) stock was mentioned in a list of symbols for various dividend-paying businesses.
 The stock was included in a sector comparison chart alongside other energy companies like Duke Energy (DUK) and Dominion Energy (D).
-There was a mention of an alert and market information related to NEE stock on a trading platform.",Negative,2022-10-26
+There was a mention of an alert and market information related to NEE stock on a trading platform.",Negative,2022-10-26,"SMA_5: 73.41
+EMA_5: 74.39
+MACD: -2.53
+MACD_SIGNAL: -2.9
+MACD_HIST: 0.37
+RSI: 60.57
+BB_UPPER: 82.93
+BB_LOWER: 69.02
+BB_MIDDLE: 75.98
+OBV: -89,715,000.0
+ADX: 39.96
+DMP: 19.07
+DMN: 30.84"
 NEE,"2022-10-28
 NextEra Energy (NEE) reported their third-quarter 2022 earnings, with an adjusted EPS of $0.85, beating expectations of $0.80. Revenue for the quarter was $6.72 billion, exceeding the estimated $5.99 billion. The company still sees their full-year adjusted EPS meeting expectations. NextEra Energy is a renewable energy company in the utility sector. The stock price experienced a 1.50% increase in after-hours trading. Analysts have set a positive price target for NextEra Energy for the upcoming week.
 
@@ -1180,7 +1756,19 @@ NextEra Energy (NEE) is mentioned in the tweet along with other companies like D
 There is a mention of a GameFi project involving NEE and the hashtag #AQUANEE.
 A member expresses satisfaction with a service, mentioning companies like Comcast (CMCSA) and Pepsi (PEP).
 Solar power companies like SunPower (SPWR) and Enphase Energy (ENPH) are also mentioned in a tweet.
-There is a group of companies mentioned that the user buys when their stock prices fall, including Linde (LIN), Microsoft (MSFT), and Johnson & Johnson (JNJ).",Negative,2022-11-02
+There is a group of companies mentioned that the user buys when their stock prices fall, including Linde (LIN), Microsoft (MSFT), and Johnson & Johnson (JNJ).",Negative,2022-11-02,"SMA_5: 77.4
+EMA_5: 77.08
+MACD: -1.03
+MACD_SIGNAL: -1.91
+MACD_HIST: 0.88
+RSI: 58.87
+BB_UPPER: 79.9
+BB_LOWER: 70.34
+BB_MIDDLE: 75.12
+OBV: -97,737,400.0
+ADX: 29.92
+DMP: 24.77
+DMN: 21.57"
 NEE,"2022-11-04
 NextEra Energy (NEE) is mentioned as one of the most mentioned stocks and options.
 Various analysts have different price targets for NEE for the upcoming week.
@@ -1201,7 +1789,19 @@ Various other stocks are mentioned alongside NEE, including CMCSA, PEP, SAP, XOM
 
 2022-11-08
 - NextEra Energy (NEE) stock had a large trade with a size of 1042615 shares at a price of $78.27, totaling $81,605,476.05.
-- House Republican Marjorie Taylor Greene purchased NextEra Energy ($NEE) stock on February 22, 2022, along with shares of Lockheed Martin ($LMT) and Chevron ($CVX).",Negative,2022-11-09
+- House Republican Marjorie Taylor Greene purchased NextEra Energy ($NEE) stock on February 22, 2022, along with shares of Lockheed Martin ($LMT) and Chevron ($CVX).",Negative,2022-11-09,"SMA_5: 78.15
+EMA_5: 77.99
+MACD: -0.24
+MACD_SIGNAL: -0.92
+MACD_HIST: 0.67
+RSI: 58.74
+BB_UPPER: 80.71
+BB_LOWER: 70.48
+BB_MIDDLE: 75.6
+OBV: -89,488,300.0
+ADX: 22.07
+DMP: 17.95
+DMN: 20.15"
 NEE,"2022-11-11
 NextEra Energy (NEE) stock was mentioned in a tweet regarding a top analyst price target for the next week.
 There was also a tweet mentioning NEE in a list of companies, along with stocks like Comcast (CMCSA), Exxon Mobil (XOM), and PepsiCo (PEP).
@@ -1224,7 +1824,19 @@ The third tweet lists various company stocks including NEE (NextEra Energy) alon
 
 2022-11-15
 NextEra Energy (NEE) stock options analytics indicate that the $82.5 strike price has the highest open interest with a call-put ratio of 1.85.
-$NEE is among the most mentioned stocks and options in trading discussions, alongside companies like $HWM, $ALIT, $IRNT, $DIS, and others.",Positive,2022-11-16
+$NEE is among the most mentioned stocks and options in trading discussions, alongside companies like $HWM, $ALIT, $IRNT, $DIS, and others.",Positive,2022-11-16,"SMA_5: 83.08
+EMA_5: 82.61
+MACD: 1.29
+MACD_SIGNAL: 0.31
+MACD_HIST: 0.98
+RSI: 76.42
+BB_UPPER: 85.35
+BB_LOWER: 70.67
+BB_MIDDLE: 78.01
+OBV: -68,305,700.0
+ADX: 22.86
+DMP: 25.29
+DMN: 14.27"
 NEE,"2022-11-18
 NextEra Energy (NEE) stock had a nice print with a size of 217,590 and a price of $83.02, totaling $18,064,321.80.
 There is a focus on real-time prints and stock movements in the mentioned server.
@@ -1242,7 +1854,19 @@ NextEra Energy (NEE) is mentioned in several tweets alongside other stocks such 
 
 2022-11-22
 The stock symbol NEE was mentioned among other stocks like HWM, ALIT, IRNT, DIS, PPC, BBIG, LCID in a tweet about frequently mentioned stocks and options.
-A member mentioned reaching a goal and updated their review of a server, listing companies like CMCSA, PEP, SAP, XOM, and NEE among others in the tweet.",Positive,2022-11-23
+A member mentioned reaching a goal and updated their review of a server, listing companies like CMCSA, PEP, SAP, XOM, and NEE among others in the tweet.",Positive,2022-11-23,"SMA_5: 83.64
+EMA_5: 83.9
+MACD: 1.7
+MACD_SIGNAL: 1.14
+MACD_HIST: 0.56
+RSI: 73.1
+BB_UPPER: 86.45
+BB_LOWER: 74.68
+BB_MIDDLE: 80.57
+OBV: -55,016,200.0
+ADX: 22.47
+DMP: 24.38
+DMN: 14.96"
 NEE,"2022-11-26
 NextEra Energy (NEE) stock was mentioned in a list of other company stocks.
 An analyst shared a price target for NextEra Energy for the upcoming week.
@@ -1262,7 +1886,19 @@ A user is promoting a Play-to-Earn (P2E) game related to NEE and Aqua (AQDC) tok
 Overall, there is general discussion and promotion of NEE stock on Twitter.
 
 2022-11-29
-The key fact regarding NEE stock is that it was mentioned in a list of stocks alongside other companies like CMCSA, PEP, SAP, XOM, ABBV, ABT, TM, CRM, ORCL, CVX, and more.",Positive,2022-12-01
+The key fact regarding NEE stock is that it was mentioned in a list of stocks alongside other companies like CMCSA, PEP, SAP, XOM, ABBV, ABT, TM, CRM, ORCL, CVX, and more.",Positive,2022-12-01,"SMA_5: 84.22
+EMA_5: 84.26
+MACD: 1.61
+MACD_SIGNAL: 1.48
+MACD_HIST: 0.13
+RSI: 61.36
+BB_UPPER: 87.37
+BB_LOWER: 77.17
+BB_MIDDLE: 82.27
+OBV: -47,686,500.0
+ADX: 19.88
+DMP: 28.75
+DMN: 19.62"
 NEE,"2022-12-03
 NextEra Energy (NEE) is highlighted as a top analyst price target for the next week.
 The stock is mentioned in a list of recession-safe dividend stocks alongside companies like Waste Management (WM) and Johnson & Johnson (JNJ).
@@ -1279,7 +1915,19 @@ NextEra Energy (NEE) stock is being discussed among investors and analysts.
 There are top analysts providing price targets for NEE stock for the upcoming week.
 There is a trading chat-room related to NEE stock that is being opened to the public for a limited time.
 Some investors are discussing dividend stocks with high annualized average returns, including NEE.
-Overall, the sentiment towards NEE stock seems positive among investors and analysts.",Positive,2022-12-08
+Overall, the sentiment towards NEE stock seems positive among investors and analysts.",Positive,2022-12-08,"SMA_5: 85.32
+EMA_5: 85.27
+MACD: 1.57
+MACD_SIGNAL: 1.55
+MACD_HIST: 0.02
+RSI: 71.99
+BB_UPPER: 86.36
+BB_LOWER: 81.76
+BB_MIDDLE: 84.06
+OBV: -32,463,100.0
+ADX: 18.49
+DMP: 27.9
+DMN: 19.69"
 NEE,"2022-12-10
 The tweets mention various stock symbols, including $NEE, as part of a dividend portfolio recommendation for a recession-resistant strategy.
 
@@ -1298,7 +1946,19 @@ NextEra Energy (NEE) stock was mentioned in a list of various other company stoc
 There is a top analyst price target for NEE for the next week, but the specific target was not mentioned in the tweet.
 
 2022-12-14
-The stock symbol NEE is mentioned among other stocks like HWM, ALIT, IRNT, DIS, and others in a list of most mentioned stocks and options.",Negative,2022-12-15
+The stock symbol NEE is mentioned among other stocks like HWM, ALIT, IRNT, DIS, and others in a list of most mentioned stocks and options.",Negative,2022-12-15,"SMA_5: 86.21
+EMA_5: 86.2
+MACD: 1.52
+MACD_SIGNAL: 1.55
+MACD_HIST: -0.03
+RSI: 49.47
+BB_UPPER: 87.44
+BB_LOWER: 82.25
+BB_MIDDLE: 84.85
+OBV: -36,975,700.0
+ADX: 19.61
+DMP: 27.31
+DMN: 17.95"
 NEE,"2022-12-17
 The stock for NEE (NextEra Energy) was mentioned as one of the most talked-about stocks among others like HWM, ALIT, IRNT, DIS, and more.
 A member reached their goal with the help of a server, with updated reviews mentioning companies like CMCSA, PEP, SAP, XOM, and more.
@@ -1314,7 +1974,19 @@ NEE was among the most mentioned stocks and options in a list that included vari
 An analyst price target for NEE was highlighted for the week.
 
 2022-12-21
-The key fact regarding NEE stock is that it was mentioned in a list of dividend stocks on someone's watchlist, alongside other companies like Kellogg, Eaton, Honeywell, and Kraft Foods.",Negative,2022-12-22
+The key fact regarding NEE stock is that it was mentioned in a list of dividend stocks on someone's watchlist, alongside other companies like Kellogg, Eaton, Honeywell, and Kraft Foods.",Negative,2022-12-22,"SMA_5: 83.83
+EMA_5: 84.1
+MACD: 0.61
+MACD_SIGNAL: 1.08
+MACD_HIST: -0.47
+RSI: 34.39
+BB_UPPER: 87.3
+BB_LOWER: 82.5
+BB_MIDDLE: 84.9
+OBV: -58,740,900.0
+ADX: 14.7
+DMP: 22.39
+DMN: 26.04"
 UNH,"2022-06-06
 - The stock symbols mentioned in the tweets are $AAPL, $MSFT, $GOOGL, $AMZN, $FB, $PEP, $KO, $MCD, $HD, $COST, $PG, $DIS, $UNH, #cingf, #lcid.
 - The mentioned companies include tech giants like Apple ($AAPL), Microsoft ($MSFT), Google ($GOOGL), Amazon ($AMZN), Facebook ($FB), consumer companies like PepsiCo ($PEP), Coca-Cola ($KO), McDonald's ($MCD), Home Depot ($HD), Costco ($COST), Procter & Gamble ($PG), and healthcare company UnitedHealth Group ($UNH).
@@ -1335,7 +2007,19 @@ UnitedHealth Group provided updates on its annual shareholder meeting and board 
 
 2022-06-09
 - Realtime trend analysis suggests that the stock UNH is currently trending as a ""BUY"" with a percentage of 68.99%, while the ""SELL"" percentage is at 31.01%.
-- The stock performance of UNH is not directly compared to the other mentioned stocks such as Apple, Microsoft, Google, Amazon, or Tesla in the tweets.",Negative,2022-06-10
+- The stock performance of UNH is not directly compared to the other mentioned stocks such as Apple, Microsoft, Google, Amazon, or Tesla in the tweets.",Negative,2022-06-10,"SMA_5: 490.97
+EMA_5: 489.58
+MACD: -3.16
+MACD_SIGNAL: -3.37
+MACD_HIST: 0.21
+RSI: 33.63
+BB_UPPER: 506.83
+BB_LOWER: 475.36
+BB_MIDDLE: 491.1
+OBV: 154,317,100.0
+ADX: 24.59
+DMP: 13.72
+DMN: 24.32"
 UNH,"2022-06-12
 UnitedHealth Group (UNH) was mentioned in a tweet regarding a top analyst price target for the week.
 UnitedHealth Group (UNH) is one of the high-performing stocks that both Ron Baron and Daniel Loeb own, as per GuruFocus.
@@ -1359,7 +2043,19 @@ Stay updated for potential moves in UNH stock in the coming hours.
 
 2022-06-16
 - UNH stock was mentioned as a part of a list of large stocks and their performance for the day, along with Apple, Microsoft, Google, Amazon, and Tesla.
-- There is anticipation of a potential move in the UNH stock in the coming hours.",Negative,2022-06-17
+- There is anticipation of a potential move in the UNH stock in the coming hours.",Negative,2022-06-17,"SMA_5: 460.79
+EMA_5: 461.83
+MACD: -10.32
+MACD_SIGNAL: -6.61
+MACD_HIST: -3.71
+RSI: 14.23
+BB_UPPER: 516.42
+BB_LOWER: 454.46
+BB_MIDDLE: 485.44
+OBV: 140,876,000.0
+ADX: 31.88
+DMP: 11.22
+DMN: 30.21"
 UNH,"2022-06-22
 UnitedHealth Group (UNH) stock saw a significant increase in value, with a log change intraday of 4.06% and 1.5854% in recent trending DJIA stocks.
 Optum, a subsidiary of UnitedHealth Group, launched a laboratory benefit management solution to enhance care quality and reduce unnecessary testing.
@@ -1372,7 +2068,19 @@ THIRD POINT LLC sold 185,000 shares (a 23.42% decrease) of UNH stock in Q1 2022.
 2022-06-25
 - UnitedHealth's stock (UNH) had a weekly performance increase of 8.7%.
 - The IBD50 list for June 25, 2022, included UnitedHealth (UNH) as a top stock.
-- There was anticipation of a potential significant move in UnitedHealth's stock price in the coming hours.",Positive,2022-06-27
+- There was anticipation of a potential significant move in UnitedHealth's stock price in the coming hours.",Positive,2022-06-27,"SMA_5: 494.22
+EMA_5: 493.55
+MACD: -1.11
+MACD_SIGNAL: -4.97
+MACD_HIST: 3.86
+RSI: 74.26
+BB_UPPER: 516.61
+BB_LOWER: 453.82
+BB_MIDDLE: 485.21
+OBV: 144,397,500.0
+ADX: 25.11
+DMP: 28.56
+DMN: 20.04"
 UNH,"2022-06-30
 UnitedHealth Group (UNH) stock was mentioned in a tweet alongside other large companies like Visa, Apple, NVIDIA, Microsoft, Exxon Mobil, and others.
 The tweet did not specifically mention any recent news or developments related to UnitedHealth Group stock.
@@ -1388,7 +2096,19 @@ The stock performance of other major companies like Apple, Microsoft, Google, Am
 UnitedHealth's strong performance helped it stand out among the other companies listed.
 
 2022-07-04
-UnitedHealth Group Inc. (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months. The stock mostly fluctuated between -1.38% and 1.51%. Currently, UNH was trending with a positive movement of 0.0966%.",Negative,2022-07-05
+UnitedHealth Group Inc. (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months. The stock mostly fluctuated between -1.38% and 1.51%. Currently, UNH was trending with a positive movement of 0.0966%.",Negative,2022-07-05,"SMA_5: 512.08
+EMA_5: 508.89
+MACD: 5.52
+MACD_SIGNAL: 1.23
+MACD_HIST: 4.29
+RSI: 52.37
+BB_UPPER: 528.39
+BB_LOWER: 450.64
+BB_MIDDLE: 489.52
+OBV: 149,027,200.0
+ADX: 22.17
+DMP: 21.99
+DMN: 21.92"
 UNH,"2022-07-07
 UnitedHealth (UNH) stock experienced a slight decline of 0.1% during the day. The stock was mentioned in a technical analysis tweet indicating a positive setup based on various indicators. Other major stocks like Apple, Google, and Tesla saw gains on the day.
 
@@ -1418,7 +2138,19 @@ The earnings season is set to begin on Friday, with UNH being one of the compani
 - Earnings season was beginning, with companies like UNH, JPM, PEP, MS, TSM, WFC, and others scheduled to report their earnings.
 - UnitedHealth Group was part of the S&P 500 trending list with a minor decrease in stock value.
 - UNH was being monitored closely for its earnings performance along with other companies like DAL, TSM, JPM, MS, CTAS, and more.
-- There was a discussion on the impact of an inverted yield curve on the market.",Negative,2022-07-12
+- There was a discussion on the impact of an inverted yield curve on the market.",Negative,2022-07-12,"SMA_5: 515.93
+EMA_5: 514.93
+MACD: 7.51
+MACD_SIGNAL: 5.26
+MACD_HIST: 2.25
+RSI: 56.62
+BB_UPPER: 540.88
+BB_LOWER: 450.63
+BB_MIDDLE: 495.76
+OBV: 147,790,500.0
+ADX: 19.71
+DMP: 24.18
+DMN: 17.18"
 UNH,"2022-07-14
 - UnitedHealth Group Inc. (UNH) is set to report earnings before the markets open.
 - Wall Street is expecting an EPS of $5.21, which is a 10% increase.
@@ -1458,7 +2190,19 @@ UnitedHealth (UNH) had a strong performance, with its stock price rising by 5.4%
 2022-07-18
 Top flow in the healthcare sector today included buy flow on UnitedHealth Group ($UNH) stock, along with other companies like Zoetis ($ZTS), Gilead Sciences ($GILD), and Abbott Laboratories ($ABT).
 UnitedHealth Group (UNH) was one of the companies with significant buy flow in the healthcare sector.
-Investors buying $10,000 of SPDR S&P 500 ETF ($SPY) are indirectly investing $709 in Apple ($AAPL) stock.",Positive,2022-07-19
+Investors buying $10,000 of SPDR S&P 500 ETF ($SPY) are indirectly investing $709 in Apple ($AAPL) stock.",Positive,2022-07-19,"SMA_5: 517.25
+EMA_5: 522.15
+MACD: 8.17
+MACD_SIGNAL: 6.41
+MACD_HIST: 1.76
+RSI: 68.22
+BB_UPPER: 534.77
+BB_LOWER: 484.98
+BB_MIDDLE: 509.87
+OBV: 153,572,300.0
+ADX: 18.19
+DMP: 27.46
+DMN: 17.95"
 UNH,"2022-07-21
 - UnitedHealth Group (UNH) stock was mentioned in the tweets.
 - Top 5 2nd Quarter Trades of Davis-Rea Ltd were discussed in one tweet.
@@ -1490,7 +2234,19 @@ The stock was mostly flat but needed to surpass the 533 level for further gains.
 2022-07-25
 UnitedHealth Group (UNH) was mentioned as one of the stocks that lawmakers are buying, according to an article on InvestorPlace.
 UNH stock was included in a list of 20 Great Dividend Growth Stocks alongside companies like Apple (AAPL) and Microsoft (MSFT).
-UnitedHealth Group (UNH) was mentioned as one of the Dow Jones stocks that performed well on a particular day.",Positive,2022-07-26
+UnitedHealth Group (UNH) was mentioned as one of the Dow Jones stocks that performed well on a particular day.",Positive,2022-07-26,"SMA_5: 524.88
+EMA_5: 526.67
+MACD: 8.36
+MACD_SIGNAL: 7.47
+MACD_HIST: 0.89
+RSI: 64.82
+BB_UPPER: 535.21
+BB_LOWER: 499.87
+BB_MIDDLE: 517.54
+OBV: 155,037,100.0
+ADX: 17.62
+DMP: 27.72
+DMN: 17.12"
 UNH,"2022-07-29
 UnitedHealth Group (UNH) stock was mentioned in the tweets.
 First Long Island Investors, LLC made the top 5 trades in the 2nd quarter involving UNH stock.
@@ -1513,7 +2269,19 @@ There were no specific details provided about UNH's financial performance or new
 2022-08-01
 UnitedHealth Group (UNH) was mentioned in a list of top flow stocks in the healthcare sector.
 UNH had a negative intraday change of 1.59%.
-In 2022, UNH had a negative performance so far with a decrease of unknown percentage.",Positive,2022-08-02
+In 2022, UNH had a negative performance so far with a decrease of unknown percentage.",Positive,2022-08-02,"SMA_5: 537.86
+EMA_5: 535.84
+MACD: 9.68
+MACD_SIGNAL: 8.98
+MACD_HIST: 0.7
+RSI: 57.06
+BB_UPPER: 546.78
+BB_LOWER: 501.18
+BB_MIDDLE: 523.98
+OBV: 162,374,600.0
+ADX: 18.44
+DMP: 23.7
+DMN: 17.09"
 UNH,"2022-08-07
 UnitedHealth Group (UNH) stock is near At-the-Money (ATM) options analytics with a last traded price of $535.06.
 The ATM Call-Put ratio is 2.18, indicating bullish sentiment in options trading.
@@ -1522,7 +2290,19 @@ UNH is a component of the Dow Jones Industrial Average, along with other compani
 The stock is part of a diverse portfolio of companies that make up the Dow Jones index.
 
 2022-08-08
-UnitedHealth Group's stock (UNH) had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last three months. The stock primarily fluctuated between -1.67% and 1.49%. UnitedHealth Group is part of the Dow Jones index.",Positive,2022-08-09
+UnitedHealth Group's stock (UNH) had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last three months. The stock primarily fluctuated between -1.67% and 1.49%. UnitedHealth Group is part of the Dow Jones index.",Positive,2022-08-09,"SMA_5: 536.66
+EMA_5: 536.48
+MACD: 8.06
+MACD_SIGNAL: 8.75
+MACD_HIST: -0.69
+RSI: 57.5
+BB_UPPER: 551.77
+BB_LOWER: 506.55
+BB_MIDDLE: 529.16
+OBV: 167,986,500.0
+ADX: 17.31
+DMP: 26.01
+DMN: 17.53"
 UNH,"2022-08-11
 UnitedHealth Group (UNH) is one of the stocks in the Dow Jones index.
 The stock ticker for UnitedHealth Group is UNH.
@@ -1539,7 +2319,19 @@ UNH is part of the largest stocks in the S&P 500.
 - UNH is listed on the NYSE.
 - UNH was mentioned in a list of stocks in the Dow Jones index.
 - UNH is one of the largest companies in the US by revenue in FY 2021.
-- Other stocks mentioned in relation to UNH include Alibaba (BABA), Facebook (FB), Tesla (TSLA), Visa (V), Walmart (WMT), Disney (DIS), and others.",Positive,2022-08-16
+- Other stocks mentioned in relation to UNH include Alibaba (BABA), Facebook (FB), Tesla (TSLA), Visa (V), Walmart (WMT), Disney (DIS), and others.",Positive,2022-08-16,"SMA_5: 541.01
+EMA_5: 542.3
+MACD: 7.62
+MACD_SIGNAL: 7.87
+MACD_HIST: -0.25
+RSI: 72.51
+BB_UPPER: 549.71
+BB_LOWER: 520.49
+BB_MIDDLE: 535.1
+OBV: 172,473,000.0
+ADX: 16.8
+DMP: 24.88
+DMN: 16.75"
 UNH,"2022-08-18
 UnitedHealth Group (UNH) stock was mentioned in the tweets.
 The stock had options analytics with a call-put ratio of 0.68 and the $540.0 strike received the highest open interest.
@@ -1562,7 +2354,19 @@ Signify Health (SGFY) saw a 35% surge in its stock price due to reports that Ama
 
 UnitedHealth (UNH) was trending among the largest stocks in the DJIA, with a slight decline in its stock price.
 
-UnitedHealth and Amazon are reported to be among the potential bidders for Signify Health, according to sources.",Negative,2022-08-23
+UnitedHealth and Amazon are reported to be among the potential bidders for Signify Health, according to sources.",Negative,2022-08-23,"SMA_5: 543.78
+EMA_5: 542.0
+MACD: 6.19
+MACD_SIGNAL: 7.33
+MACD_HIST: -1.13
+RSI: 30.82
+BB_UPPER: 549.31
+BB_LOWER: 530.34
+BB_MIDDLE: 539.83
+OBV: 171,033,200.0
+ADX: 16.45
+DMP: 21.7
+DMN: 21.16"
 UNH,"2022-08-27
 The tweet mentions UnitedHealth Group (UNH) as one of the stocks in the Dow Jones index. It is included in a list of other companies such as Apple (AAPL) and Microsoft (MSFT).
 
@@ -1576,7 +2380,19 @@ UNH is part of the Dow Jones index of stocks.
 UNH stock performance was not explicitly provided in the tweets.
 
 2022-08-29
-The tweets primarily focus on the performance of various stocks, including UNH (UnitedHealth Group). UNH is listed along with other companies in the Dow Jones index and is highlighted as one of the larger stocks with available cash. Overall, the tweets provide general information about the stock market and the performance of different companies, including UNH.",Negative,2022-08-30
+The tweets primarily focus on the performance of various stocks, including UNH (UnitedHealth Group). UNH is listed along with other companies in the Dow Jones index and is highlighted as one of the larger stocks with available cash. Overall, the tweets provide general information about the stock market and the performance of different companies, including UNH.",Negative,2022-08-30,"SMA_5: 531.98
+EMA_5: 530.6
+MACD: 1.41
+MACD_SIGNAL: 4.57
+MACD_HIST: -3.16
+RSI: 21.56
+BB_UPPER: 551.38
+BB_LOWER: 525.34
+BB_MIDDLE: 538.36
+OBV: 172,434,100.0
+ADX: 15.31
+DMP: 14.79
+DMN: 22.92"
 UNH,"2022-09-03
 The tweet mentions various large companies including Chevron, Cisco, Coca-Cola, Disney, Dow, Goldman Sachs, Home Depot, 3M, American Express, Amgen, Apple, Boeing, Caterpillar, Merck, Microsoft, Nike, Procter & Gamble, Salesforce, Travelers, Honeywell, IBM, Intel, Johnson & Johnson, JPMorgan Chase, McDonald's, UnitedHealth Group, Verizon, Visa, Walmart, and Walgreens. The tweet also discusses the revenue generated per day by Apple ($912 million), Microsoft ($570 million), and Google ($766 million).
 
@@ -1593,7 +2409,19 @@ UNH stock is mentioned alongside other companies like Chevron, Cisco, Coca-Cola,
 Overall, UNH is seen as a strong company by investors and part of a diverse portfolio of stocks.
 
 2022-09-06
-UnitedHealth Group (UNH) stock was mentioned in several tweets, including being one of the top analyst price targets for the following week. The company also celebrated Grandparents Day with new resources to help families grow in healthy ways. Additionally, a histogram chart showed the stock's movement over the last 36 months, with the maximum downward movement being -17.28% and the maximum upward movement being 12.8%. Other dividend stocks mentioned in relation to UNH included Visa (V), Snap-On (SNA), and PepsiCo (PEP).",Positive,2022-09-07
+UnitedHealth Group (UNH) stock was mentioned in several tweets, including being one of the top analyst price targets for the following week. The company also celebrated Grandparents Day with new resources to help families grow in healthy ways. Additionally, a histogram chart showed the stock's movement over the last 36 months, with the maximum downward movement being -17.28% and the maximum upward movement being 12.8%. Other dividend stocks mentioned in relation to UNH included Visa (V), Snap-On (SNA), and PepsiCo (PEP).",Positive,2022-09-07,"SMA_5: 519.81
+EMA_5: 521.25
+MACD: -2.85
+MACD_SIGNAL: 0.22
+MACD_HIST: -3.06
+RSI: 42.06
+BB_UPPER: 555.16
+BB_LOWER: 513.12
+BB_MIDDLE: 534.14
+OBV: 174,900,200.0
+ADX: 17.57
+DMP: 13.33
+DMN: 20.71"
 UNH,"2022-09-09
 UnitedHealth Group (UNH) is mentioned in the list of stocks alongside other companies like Chevron (CVX), Cisco (CSCO), Coca-Cola (KO), Disney (DIS), and Goldman Sachs (GS).
 UNH's stock has a potential price target for the week, as mentioned by a top analyst.
@@ -1620,7 +2448,19 @@ The tweets mention various companies and stock symbols, including UNH (UnitedHea
 2022-09-13
 UnitedHealth Group (UNH) stock experienced a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 6 months. The stock primarily moved between -1.52% and 1.52%. 
 Other large stocks like Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) all experienced significant declines in their stock prices. 
-Investors are advised to consider investing in global stocks through platforms like the one mentioned in the tweet.",Negative,2022-09-14
+Investors are advised to consider investing in global stocks through platforms like the one mentioned in the tweet.",Negative,2022-09-14,"SMA_5: 521.37
+EMA_5: 518.0
+MACD: -3.86
+MACD_SIGNAL: -1.88
+MACD_HIST: -1.98
+RSI: 29.22
+BB_UPPER: 551.67
+BB_LOWER: 506.8
+BB_MIDDLE: 529.23
+OBV: 170,933,600.0
+ADX: 16.01
+DMP: 15.6
+DMN: 24.4"
 UNH,"2022-09-16
 The tweet mentions various stocks, including UNH (UnitedHealth Group), as part of a list that includes companies like Apple, Facebook, Tesla, and others. There is also mention of a live day-trading room with free access for live alerts. Another tweet references $NBIO, a stock showing strength and potential for a significant increase in value, along with other stocks like AAPL (Apple), TSLA (Tesla), and META. This indicates a focus on stock market trading and potential opportunities for investment.
 
@@ -1648,7 +2488,19 @@ UNH stock had a maximum downward movement of -4.29% and a maximum upward movemen
 
 Several stocks were mentioned in relation to potential investments, including UNH, NBIO, WINH, and GSDT.
 
-$UNH had a favorable target price set by a top analyst for the next week, indicating potential growth in the stock.",Negative,2022-09-21
+$UNH had a favorable target price set by a top analyst for the next week, indicating potential growth in the stock.",Negative,2022-09-21,"SMA_5: 520.47
+EMA_5: 518.54
+MACD: -3.48
+MACD_SIGNAL: -2.8
+MACD_HIST: -0.67
+RSI: 33.72
+BB_UPPER: 538.68
+BB_LOWER: 508.13
+BB_MIDDLE: 523.41
+OBV: 167,291,400.0
+ADX: 11.92
+DMP: 18.9
+DMN: 18.33"
 UNH,"2022-09-23
 UnitedHealth Group (UNH) is one of the top healthcare stock picks.
 The 5-minute chart for UNH shows a bearish trend, with resistance at $519.87.
@@ -1670,7 +2522,19 @@ UNH is part of the Dow Jones index.
 
 2022-09-26
 The list of stocks mentioned includes $UNH (UnitedHealth Group).
-There is a list of dividend growth stocks that includes UnitedHealth Group (UNH).",Positive,2022-09-28
+There is a list of dividend growth stocks that includes UnitedHealth Group (UNH).",Positive,2022-09-28,"SMA_5: 512.35
+EMA_5: 512.68
+MACD: -4.64
+MACD_SIGNAL: -3.86
+MACD_HIST: -0.79
+RSI: 48.3
+BB_UPPER: 531.01
+BB_LOWER: 505.98
+BB_MIDDLE: 518.5
+OBV: 169,783,400.0
+ADX: 12.32
+DMP: 14.42
+DMN: 19.83"
 UNH,"2022-09-30
 The tweet mentions a list of various stocks including UNH (UnitedHealth Group). It highlights the performance of some of the largest stocks in the market on that day, including Apple, Microsoft, Google, Amazon, and Tesla. Apple saw a 3% decrease, Microsoft a 1.9% decrease, Google a 1.8% decrease, Amazon a 1.6% decrease, and Tesla's stock performance is not specified. Additionally, it suggests investing in an S&P 500 ETF (VOO) for instant diversification and exposure to 500 of the best US companies.
 
@@ -1682,7 +2546,19 @@ In the second tweet, UNH was listed among other stocks like CVX, CSCO, KO, DIS, 
 The stock performance of UNH was not specifically mentioned in the other tweets, which focused on the largest stocks like Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) during Q3 and the past week.
 
 2022-10-03
-The tweet mentions various large stocks, including UNH (UnitedHealth Group), and their performance in 2022. As of the tweet, Apple (AAPL) had experienced a 22.2% decline in stock performance, while UNH's performance is not specified.",Positive,2022-10-05
+The tweet mentions various large stocks, including UNH (UnitedHealth Group), and their performance in 2022. As of the tweet, Apple (AAPL) had experienced a 22.2% decline in stock performance, while UNH's performance is not specified.",Positive,2022-10-05,"SMA_5: 515.92
+EMA_5: 519.22
+MACD: -2.39
+MACD_SIGNAL: -3.86
+MACD_HIST: 1.47
+RSI: 71.97
+BB_UPPER: 532.34
+BB_LOWER: 502.72
+BB_MIDDLE: 517.53
+OBV: 172,309,400.0
+ADX: 11.91
+DMP: 18.59
+DMN: 14.06"
 UNH,"2022-10-07
 - UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months.
 - The stock mostly moved between -1.46% and 1.52% during this period.
@@ -1706,7 +2582,19 @@ The stock movements of UNH over the last three months showed a maximum downward 
 2022-10-11
 UnitedHealthcare (UNH) is mentioned as a top analyst price target for the next week in the stock market.
 UNH is also listed as one of the favorite Dividend Growth Stocks.
-Real-time results show that UNH is part of a bullish stock pick with a confidence level of 62.8%.",Positive,2022-10-12
+Real-time results show that UNH is part of a bullish stock pick with a confidence level of 62.8%.",Positive,2022-10-12,"SMA_5: 504.52
+EMA_5: 504.05
+MACD: -5.25
+MACD_SIGNAL: -4.04
+MACD_HIST: -1.2
+RSI: 30.86
+BB_UPPER: 530.46
+BB_LOWER: 496.17
+BB_MIDDLE: 513.32
+OBV: 169,488,100.0
+ADX: 14.64
+DMP: 13.7
+DMN: 21.72"
 UNH,"2022-10-14
 UnitedHealth Group (UNH) reported its Q3 2022 earnings, with an EPS of $5.79, exceeding expectations of $5.42, and revenue of $80.89 billion, surpassing the estimated $80.5 billion. The company had a yearly revenue growth of 12%.
 
@@ -1745,7 +2633,19 @@ Joining instructions for a beta version and a platform are provided in the tweet
 2022-10-18
 UnitedHealth Group (UNH) has never missed Street estimates for a quarter going back to 4Q11.
 The stock symbol for UnitedHealth Group is UNH.
-UnitedHealth Group is included in lists of popular stocks such as $CVX, $CSCO, $KO, $DIS, $DOW, $GS, $HD, $MMM, $AXP, $AMGN, $AAPL, $BA, $CAT, $HON, $IBM, $INTC, $JNJ, $JPM, $MCD, $VZ, $V, $WMT, and $WBA.",Negative,2022-10-19
+UnitedHealth Group is included in lists of popular stocks such as $CVX, $CSCO, $KO, $DIS, $DOW, $GS, $HD, $MMM, $AXP, $AMGN, $AAPL, $BA, $CAT, $HON, $IBM, $INTC, $JNJ, $JPM, $MCD, $VZ, $V, $WMT, and $WBA.",Negative,2022-10-19,"SMA_5: 517.49
+EMA_5: 517.43
+MACD: -1.13
+MACD_SIGNAL: -3.03
+MACD_HIST: 1.9
+RSI: 65.36
+BB_UPPER: 528.84
+BB_LOWER: 496.3
+BB_MIDDLE: 512.57
+OBV: 182,244,000.0
+ADX: 13.07
+DMP: 19.86
+DMN: 20.08"
 UNH,"2022-10-21
 The tweets mention a large trade of $UNH stock with a size of 295,045 shares at a price of $520.89, totaling $153,685,990.05. There is also a discussion of various stocks including $UNH, $VZ, $V, $WMT, and $WBA in the context of potential investments. Additionally, there is a focus on healthcare stocks like $WBA, $JNJ, $AMGN, $MRK, and $UNH with references to COVID-19 vaccines and boosters. Furthermore, the tweets highlight companies around the world that distribute dividends, including $UNH in the healthcare sector.
 
@@ -1766,7 +2666,19 @@ UNH stock is experiencing a bearish trend according to the SuperTrend indicator,
 - The healthcare sector, including companies like UnitedHealth (UNH), Johnson & Johnson (JNJ), and Merck (MRK), is highlighted in the tweets.
 - There is a focus on dividend-paying businesses like Visa (V), Eli Lilly (LLY), and Microsoft (MSFT) in the tweets.
 - The tweets provide resources for investing in global stocks, including UnitedHealthGroup (UNH).
-- The COVID-19 pandemic and vaccine-related news are mentioned in connection with healthcare companies like UnitedHealthGroup (UNH).",Positive,2022-10-26
+- The COVID-19 pandemic and vaccine-related news are mentioned in connection with healthcare companies like UnitedHealthGroup (UNH).",Positive,2022-10-26,"SMA_5: 535.92
+EMA_5: 536.49
+MACD: 5.21
+MACD_SIGNAL: 1.1
+MACD_HIST: 4.1
+RSI: 84.54
+BB_UPPER: 545.4
+BB_LOWER: 491.53
+BB_MIDDLE: 518.46
+OBV: 190,609,500.0
+ADX: 15.02
+DMP: 26.89
+DMN: 16.44"
 UNH,"2022-10-31
 - UnitedHealth Group (UNH) stock had a maximum downward movement of -4.29% and a maximum upward movement of 6.25% in the last 12 months.
 - The stock mainly fluctuated between -1.48% and 1.5% during that period.
@@ -1779,7 +2691,19 @@ UnitedHealth Group (UNH) stock was mentioned in one tweet, discussing long-term 
 The tweet also mentioned other stocks trending on Twitter, including AAPL, CVX, CSCO, KO, DIS, DOW, GS, HD, MMM, AXP, AMGN, BA, CAT, HON, IBM, INTC, JNJ, JPM, MCD, VZ, V, WMT, and WBA. 
 Additionally, the tweet included the hashtag #WeAimHigher.
 Another tweet mentioned Drug Channels' analysis of preferred pharmacy networks in 2023's Medicare Part D plans, which could potentially impact UNH stock.
-UNH stock was not directly discussed in the other tweets provided.",Negative,2022-11-02
+UNH stock was not directly discussed in the other tweets provided.",Negative,2022-11-02,"SMA_5: 547.79
+EMA_5: 545.78
+MACD: 8.49
+MACD_SIGNAL: 5.77
+MACD_HIST: 2.72
+RSI: 53.56
+BB_UPPER: 562.21
+BB_LOWER: 490.65
+BB_MIDDLE: 526.43
+OBV: 187,894,600.0
+ADX: 18.68
+DMP: 25.67
+DMN: 16.38"
 UNH,"2022-11-04
 UnitedHealth Group (UNH) stock was mentioned in a list of trending stocks, with a price drop of 2.21%.
 A top analyst provided a price target for UNH stock for the following week.
@@ -1798,7 +2722,19 @@ UnitedHealth ($UNH) is ranked #8 by market cap globally, with a market cap of ov
 $UNH ATM options analytics show a call-put ratio of 1.25, with the $540.0 strike having the highest open interest and a call-put ratio of 7.67.
 UnitedHealth has a P/E ratio of 26x.
 UnitedHealth is one of the 28 quality dividend-paying assets, alongside companies like Apple ($AAPL), Microsoft ($MSFT), and Johnson & Johnson ($JNJ).
-The largest stocks, including Apple ($AAPL), Microsoft ($MSFT), Google ($GOOGL), and Amazon ($AMZN), had mixed performance during the day.",Negative,2022-11-09
+The largest stocks, including Apple ($AAPL), Microsoft ($MSFT), Google ($GOOGL), and Amazon ($AMZN), had mixed performance during the day.",Negative,2022-11-09,"SMA_5: 544.1
+EMA_5: 544.68
+MACD: 7.16
+MACD_SIGNAL: 6.97
+MACD_HIST: 0.19
+RSI: 44.63
+BB_UPPER: 562.57
+BB_LOWER: 510.08
+BB_MIDDLE: 536.32
+OBV: 189,291,500.0
+ADX: 14.8
+DMP: 20.9
+DMN: 19.31"
 UNH,"2022-11-13
 The tweet mentions various large stock symbols, including UNH. It also discusses the performance of some of the largest stocks in 2022, including Apple, Microsoft, Google, and Amazon. Apple has seen a decrease of 15.7%, Microsoft dropped by 26.5%, Google decreased by 33.4%, and Amazon saw a decrease of an undisclosed percentage.
 
@@ -1809,7 +2745,19 @@ The tweets mention various companies such as $TSLA, $NVDA, $MU, $AMZN, $MSFT, $B
 UnitedHealthcare (UNH) announced a partnership to help millions of AARP members save on hearing aids.
 There is speculation that UNH stock is set for a potential run-up.
 A bullish swing was flagged for UNH on 11-14-2022 based on unusual options flow.
-There is a live day-trading room offering free access and live alerts for various stocks, including UNH.",Positive,2022-11-16
+There is a live day-trading room offering free access and live alerts for various stocks, including UNH.",Positive,2022-11-16,"SMA_5: 518.91
+EMA_5: 517.52
+MACD: -1.91
+MACD_SIGNAL: 3.17
+MACD_HIST: -5.07
+RSI: 32.25
+BB_UPPER: 565.11
+BB_LOWER: 508.25
+BB_MIDDLE: 536.68
+OBV: 178,772,200.0
+ADX: 19.52
+DMP: 12.42
+DMN: 28.96"
 UNH,"2022-11-18
 UnitedHealth Group (UNH) stock saw a significant increase of 2.76% and was trending as one of the top-performing stocks on the DJIA. The company is involved in healthcare and COVID-related initiatives.
 
@@ -1830,7 +2778,19 @@ UnitedHealth (UNH) had a stock price of $523.09 with a size of 529163 and an amo
 UnitedHealth holds a market cap of $500 billion.
 The momentum picks for the fourth quarter of 2022 saw UnitedHealth Group (UNH) with a plus of 1.4% in unrealized gains.
 UnitedHealth Group (UNH) is part of the top 10 holdings in Vanguard Dividend Appreciation ETF.
-UnitedHealth Group (UNH) appears to be a stock that some investors consider a top dividend growth stock.",Positive,2022-11-23
+UnitedHealth Group (UNH) appears to be a stock that some investors consider a top dividend growth stock.",Positive,2022-11-23,"SMA_5: 523.06
+EMA_5: 523.86
+MACD: -2.07
+MACD_SIGNAL: -0.6
+MACD_HIST: -1.47
+RSI: 57.77
+BB_UPPER: 563.83
+BB_LOWER: 503.1
+BB_MIDDLE: 533.46
+OBV: 188,040,600.0
+ADX: 17.86
+DMP: 19.35
+DMN: 22.65"
 UNH,"2022-11-26
 The list of stocks mentioned in the tweet includes UnitedHealth Group ($UNH) among others such as Tesla ($TSLA), NVIDIA ($NVDA), Amazon ($AMZN), Microsoft ($MSFT), Netflix ($NFLX), etc.
 There is a discussion about dividend stocks with a 10%+ Dividend Growth Rate (DGR) and Annual Average Return (AAR) over a 10-year period, with Visa ($V) and Nike ($NKE) being among them.
@@ -1855,7 +2815,19 @@ UNH was part of the DJIA, with the stock down -1.00% for the day.
 There was a promotion for a trading chat-room involving UNH stock.
 
 2022-11-30
-The list of stocks mentioned includes $UNH, which refers to UnitedHealth Group, a public company. UnitedHealth Group is one of the 20 biggest public companies according to the tweet shared by Mayhem4Markets. Additionally, it is included in a list of stocks that are being actively traded in a live day-trading room.",Negative,2022-12-01
+The list of stocks mentioned includes $UNH, which refers to UnitedHealth Group, a public company. UnitedHealth Group is one of the 20 biggest public companies according to the tweet shared by Mayhem4Markets. Additionally, it is included in a list of stocks that are being actively traded in a live day-trading room.",Negative,2022-12-01,"SMA_5: 536.51
+EMA_5: 535.87
+MACD: 1.55
+MACD_SIGNAL: 0.12
+MACD_HIST: 1.43
+RSI: 54.98
+BB_UPPER: 557.37
+BB_LOWER: 503.92
+BB_MIDDLE: 530.64
+OBV: 189,700,000.0
+ADX: 15.12
+DMP: 27.28
+DMN: 19.66"
 UNH,"2022-12-04
 UNH (UnitedHealth) is among the companies listed for earnings in a given week.
 UnitedHealth is not listed among the largest US stocks in terms of revenue.
@@ -1882,7 +2854,19 @@ There is no specific information regarding UnitedHealth's financial performance 
 - UNH stock had a 0.53% increase during a trending session of the Dow Jones Industrial Average.
 - In a comparison of stock distances from their historical highs, UNH is mentioned as being 3% away from its peak.
 - UNH is included in a list of various stocks in a tweet promoting a live day-trading room.
-- UNH is part of the stock mentions in a tweet promoting free access to a live day-trading room with alerts.",Positive,2022-12-08
+- UNH is part of the stock mentions in a tweet promoting free access to a live day-trading room with alerts.",Positive,2022-12-08,"SMA_5: 540.27
+EMA_5: 541.9
+MACD: 3.55
+MACD_SIGNAL: 1.8
+MACD_HIST: 1.75
+RSI: 70.44
+BB_UPPER: 554.55
+BB_LOWER: 504.82
+BB_MIDDLE: 529.69
+OBV: 193,148,100.0
+ADX: 15.83
+DMP: 29.18
+DMN: 17.35"
 UNH,"2022-12-10
 - UNH (UnitedHealth Group) is ranked 6th in the top 10 stocks by 1-week market cap.
 - UNH is considered part of a recession-resistant dividend portfolio, alongside other companies like Kroger, PepsiCo, Xcel Energy, General Mills, and Dollar General.
@@ -1907,7 +2891,19 @@ The stock chart for UNH was analyzed with Fibonacci retracement levels.
 Various other stocks and ETFs were mentioned in the tweets, indicating a broader discussion on investing and trading opportunities.
 
 2022-12-14
-The tweets mention various healthcare-related companies and services like UnitedHealth Group (UNH), Walgreens Boots Alliance (WBA), Johnson & Johnson (JNJ), Amgen (AMGN), and Merck (MRK). There is also a mention of Health Savings Accounts (HSA) and Flexible Spending Accounts (FSA). The hashtag #WeAimHigher indicates a focus on improving healthcare services and outcomes. The stock symbols mentioned include $UNH for UnitedHealth Group.",Negative,2022-12-15
+The tweets mention various healthcare-related companies and services like UnitedHealth Group (UNH), Walgreens Boots Alliance (WBA), Johnson & Johnson (JNJ), Amgen (AMGN), and Merck (MRK). There is also a mention of Health Savings Accounts (HSA) and Flexible Spending Accounts (FSA). The hashtag #WeAimHigher indicates a focus on improving healthcare services and outcomes. The stock symbols mentioned include $UNH for UnitedHealth Group.",Negative,2022-12-15,"SMA_5: 537.86
+EMA_5: 536.04
+MACD: 2.11
+MACD_SIGNAL: 2.65
+MACD_HIST: -0.55
+RSI: 31.28
+BB_UPPER: 552.22
+BB_LOWER: 516.63
+BB_MIDDLE: 534.43
+OBV: 189,330,900.0
+ADX: 15.86
+DMP: 22.83
+DMN: 19.96"
 UNH,"2022-12-17
 The tweets mention stock symbols of various companies, including UNH (UnitedHealth Group). The list includes tech companies like Visa ($V), Apple ($AAPL), and Microsoft ($MSFT), along with other companies in different sectors like real estate. The tweets also mention a live day-trading room offering free access and live alerts for trading.
 
@@ -1926,7 +2922,19 @@ Overall, UNH is seen as a strong stock that could potentially keep crushing the 
 2022-12-21
 - Analysts have set a top price target for UnitedHealth Group (UNH) for the next week.
 - UnitedHealth Group (UNH) has been forecasted with a positive log change in intraday trading.
-- Hospitals are experiencing a 3.8% increase in payment, which is being used for various purposes like building fountains, sponsoring sports teams, and addressing staffing crises in the nursing field.",Negative,2022-12-22
+- Hospitals are experiencing a 3.8% increase in payment, which is being used for various purposes like building fountains, sponsoring sports teams, and addressing staffing crises in the nursing field.",Negative,2022-12-22,"SMA_5: 524.43
+EMA_5: 526.78
+MACD: -1.51
+MACD_SIGNAL: 0.28
+MACD_HIST: -1.79
+RSI: 44.33
+BB_UPPER: 550.79
+BB_LOWER: 518.75
+BB_MIDDLE: 534.77
+OBV: 178,658,000.0
+ADX: 13.15
+DMP: 18.75
+DMN: 21.61"
 UPS,"2022-06-06
 Based on the tweets provided, it appears that UPS stock (ticker symbol $UPS) had a positive intraday change of 0.60 in the first set of bull forecasts and 0.20 in the bear forecasts on June 6, 2022. This indicates a slightly bullish sentiment towards UPS stock on that day.
 
@@ -1942,7 +2950,19 @@ The tweets mention UPS stock and upcoming moves in the industrial sector. There 
 2022-06-09
 - Shorts have not covered any shares of UPS stock.
 - Bull forecasts for UPS show a small positive change in the stock price.
-- Other stocks mentioned in the tweets include GDX, IWM, CMG, GME, BKNG, EXPE, KR, GLD, DKNG, KSS, EWZ, SPY, SLV, PARA, and ENPH, with varying changes in their stock prices.",Negative,2022-06-10
+- Other stocks mentioned in the tweets include GDX, IWM, CMG, GME, BKNG, EXPE, KR, GLD, DKNG, KSS, EWZ, SPY, SLV, PARA, and ENPH, with varying changes in their stock prices.",Negative,2022-06-10,"SMA_5: 180.33
+EMA_5: 178.18
+MACD: -1.32
+MACD_SIGNAL: -1.54
+MACD_HIST: 0.22
+RSI: 24.11
+BB_UPPER: 189.11
+BB_LOWER: 167.75
+BB_MIDDLE: 178.43
+OBV: 4,835,700.0
+ADX: 20.74
+DMP: 19.14
+DMN: 33.28"
 UPS,"2022-06-13
 UPS stock is currently trending as a sell, with a buy percentage of 95% and a sell percentage of 5%.
 Short sellers have not covered any shares of UPS stock.
@@ -1958,7 +2978,19 @@ There is information available on United Parcel Service in a Market Outlook vide
 Short interest in UPS reveals that shorts haven't covered any shares.
 
 2022-06-16
-The stock of UPS (United Parcel Service) is being discussed with suggestions of an upcoming move and the fact that shorts have not covered any shares. This indicates potential volatility or uncertainty in the UPS stock.",Negative,2022-06-17
+The stock of UPS (United Parcel Service) is being discussed with suggestions of an upcoming move and the fact that shorts have not covered any shares. This indicates potential volatility or uncertainty in the UPS stock.",Negative,2022-06-17,"SMA_5: 173.2
+EMA_5: 173.38
+MACD: -2.55
+MACD_SIGNAL: -1.98
+MACD_HIST: -0.57
+RSI: 27.55
+BB_UPPER: 187.95
+BB_LOWER: 167.45
+BB_MIDDLE: 177.7
+OBV: -3,010,400.0
+ADX: 21.02
+DMP: 18.86
+DMN: 30.14"
 UPS,"2022-06-23
 $UPS stock had a decrease in its options value with a % difference of -6.39%.
 In intraday trading, $UPS stock saw a decrease of -0.52%.
@@ -1973,17 +3005,53 @@ Other stocks like $FDX and $AAXJ saw gains in after-hours trading.
 
 2022-06-25
 - UPS stock is being discussed, with suggestions to watch for potential movements in the next few hours.
-- Analysts have set a price target for UPS stock.",Negative,2022-06-27
+- Analysts have set a price target for UPS stock.",Negative,2022-06-27,"SMA_5: 178.88
+EMA_5: 179.52
+MACD: -0.7
+MACD_SIGNAL: -1.64
+MACD_HIST: 0.94
+RSI: 67.57
+BB_UPPER: 188.61
+BB_LOWER: 169.05
+BB_MIDDLE: 178.83
+OBV: 8,354,100.0
+ADX: 18.08
+DMP: 27.81
+DMN: 21.83"
 UPS,"2022-06-30
 - Top analysts have set price targets for UPS stock
-- There is expected to be a significant move in UPS stock in the next few hours",Negative,2022-07-05
+- There is expected to be a significant move in UPS stock in the next few hours",Negative,2022-07-05,"SMA_5: 182.64
+EMA_5: 183.07
+MACD: 0.86
+MACD_SIGNAL: -0.33
+MACD_HIST: 1.19
+RSI: 71.71
+BB_UPPER: 188.47
+BB_LOWER: 169.06
+BB_MIDDLE: 178.76
+OBV: 12,293,200.0
+ADX: 15.31
+DMP: 25.38
+DMN: 19.14"
 UPS,"2022-07-07
 - United Parcel Service (UPS) stock was mentioned in the tweets.
 - There are bullish forecasts for various stocks, including UPS which had a log change of -1.12 intraday.
 - The tweet mentions three sectors to consider buying before the Q2 earnings season, which could potentially impact UPS stock.
 
 2022-07-11
-UPS stock is currently in a selling trend, with a calculated pivot point selling level of 186.77 and a current stock price of 185.4. The support level is at 183.56. UPS stock is recommended to be sold based on the real-time trend analysis provided.",Negative,2022-07-12
+UPS stock is currently in a selling trend, with a calculated pivot point selling level of 186.77 and a current stock price of 185.4. The support level is at 183.56. UPS stock is recommended to be sold based on the real-time trend analysis provided.",Negative,2022-07-12,"SMA_5: 184.15
+EMA_5: 182.98
+MACD: 1.2
+MACD_SIGNAL: 0.83
+MACD_HIST: 0.37
+RSI: 28.04
+BB_UPPER: 189.46
+BB_LOWER: 169.98
+BB_MIDDLE: 179.72
+OBV: 8,838,300.0
+ADX: 15.44
+DMP: 21.6
+DMN: 22.59"
 UPS,"2022-07-15
 The key facts regarding UPS stock from the given tweets are that the stock is currently trending downwards, with a sell recommendation and a last reported price of $178.28. Additionally, there are forecasts indicating bullish sentiment for UPS stock, with a positive intraday change of 0.34.
 
@@ -2002,7 +3070,19 @@ Suncoast Equity Management made the Top 5 trades involving UPS during the second
 There was an increase in the number of funds holding shares of UPS.
 The Best Pivot Point Calculator was recommended for traders interested in analyzing UPS stock.
 Various other companies were also reporting earnings during the same period, including Tesla, Netflix, Apple, Amazon, Bank of America, AMD, Google, Exxon Mobil, Snapchat, Johnson & Johnson, and more.
-The stock ticker for UPS is $UPS.",Positive,2022-07-19
+The stock ticker for UPS is $UPS.",Positive,2022-07-19,"SMA_5: 180.94
+EMA_5: 182.42
+MACD: 0.69
+MACD_SIGNAL: 0.63
+MACD_HIST: 0.06
+RSI: 65.91
+BB_UPPER: 188.35
+BB_LOWER: 174.95
+BB_MIDDLE: 181.65
+OBV: 14,346,600.0
+ADX: 13.58
+DMP: 25.46
+DMN: 19.12"
 UPS,"2022-07-21
 Analysts released their top ratings and price targets for UPS stock during the week.
 Several other stocks were mentioned alongside UPS in the list of top analyst ratings and price targets for the week.
@@ -2029,7 +3109,19 @@ Overall, UPS is part of a group of companies experiencing significant earnings-r
 UPS is set to announce earnings soon.
 Investors are anticipating UPS earnings and are optimistic about potential gains.
 $UPS stock is expected to perform well based on previous trends and competitor performance.
-Significant companies are also reporting earnings around the same time as UPS.",Negative,2022-07-26
+Significant companies are also reporting earnings around the same time as UPS.",Negative,2022-07-26,"SMA_5: 186.26
+EMA_5: 184.91
+MACD: 1.38
+MACD_SIGNAL: 1.19
+MACD_HIST: 0.2
+RSI: 34.64
+BB_UPPER: 189.79
+BB_LOWER: 177.2
+BB_MIDDLE: 183.5
+OBV: 12,899,600.0
+ADX: 15.31
+DMP: 22.83
+DMN: 26.28"
 UPS,"2022-07-28
 - United Parcel Service (UPS) is the stock being discussed.
 - UPS is focused on operational productivity changes to improve efficiency.
@@ -2047,7 +3139,19 @@ UPS stock was trending upwards in real-time, with a recommendation to buy.
 The stock's current price was $194.89, with a resistance level at $190.27 and support level at $185.00.
 There was a Pivot Point Calculator mentioned for traders to use.
 The tweet referenced the trading platform TradingView and mentioned stocks to watch.
-The ""Heat Sheet"" newsletter was released, covering the previous week's headlines, earnings recap, and upcoming events like the OPEC meeting.",Negative,2022-08-02
+The ""Heat Sheet"" newsletter was released, covering the previous week's headlines, earnings recap, and upcoming events like the OPEC meeting.",Negative,2022-08-02,"SMA_5: 191.18
+EMA_5: 191.84
+MACD: 3.01
+MACD_SIGNAL: 1.97
+MACD_HIST: 1.04
+RSI: 67.41
+BB_UPPER: 195.4
+BB_LOWER: 175.86
+BB_MIDDLE: 185.63
+OBV: 22,195,500.0
+ADX: 16.3
+DMP: 30.87
+DMN: 19.42"
 UPS,"2022-08-04
 - United Parcel Service (UPS) stock was mentioned in the tweets.
 - There was a market recap by CBOE for the week of July 18 to 22 that likely included information about UPS.
@@ -2067,7 +3171,19 @@ United Parcel Service (UPS) is reportedly nearing a deal to acquire Italy's Bomi
 2022-08-08
 UPS (United Parcel Service) announced an acquisition in the healthcare industry.
 There are bullish forecasts for UPS stock with slight fluctuations in intraday changes.
-There is a mention of a pivot point calculator for stock trading analysis.",Positive,2022-08-09
+There is a mention of a pivot point calculator for stock trading analysis.",Positive,2022-08-09,"SMA_5: 195.49
+EMA_5: 195.49
+MACD: 3.85
+MACD_SIGNAL: 3.08
+MACD_HIST: 0.77
+RSI: 73.21
+BB_UPPER: 200.88
+BB_LOWER: 176.05
+BB_MIDDLE: 188.46
+OBV: 23,611,900.0
+ADX: 19.19
+DMP: 31.3
+DMN: 17.39"
 UPS,"2022-08-11
 United Parcel Service (UPS) stock is being actively traded, with profitable trades and high accuracy reported.
 The sector related to UPS, including companies like UNP, RTX, HON, LMT, CAT, and others, is also showing market activity.
@@ -2082,7 +3198,19 @@ Options flow stream updates indicate activity in stocks like AMZN, TSLA, META, P
 UPS stock has been performing well recently, breaking the trendline from its all-time highs. There are expectations for some consolidation in the near future.
 
 2022-08-15
-The tweet mentions UPS stock (ticker symbol: UPS) in a list of other stock symbols such as $PINS, $MPC, $SMH, and $LVS. It also highlights the dividend yield of UPS, which is 2.9%. The tweet also references a strategy for earning dividends throughout the year with only three companies in the portfolio.",Positive,2022-08-16
+The tweet mentions UPS stock (ticker symbol: UPS) in a list of other stock symbols such as $PINS, $MPC, $SMH, and $LVS. It also highlights the dividend yield of UPS, which is 2.9%. The tweet also references a strategy for earning dividends throughout the year with only three companies in the portfolio.",Positive,2022-08-16,"SMA_5: 204.78
+EMA_5: 204.15
+MACD: 5.74
+MACD_SIGNAL: 4.56
+MACD_HIST: 1.18
+RSI: 91.03
+BB_UPPER: 209.08
+BB_LOWER: 179.77
+BB_MIDDLE: 194.43
+OBV: 34,931,200.0
+ADX: 27.65
+DMP: 37.68
+DMN: 12.32"
 UPS,"2022-08-18
 It appears that the stock for UPS (United Parcel Service) is being monitored for a potential buy signal based on a technical analysis indicator. The stock signal has shown a net profit of $1,582, a profit factor of 5.68, and an 85% win rate on the 15-minute chart. The tweet also mentions a free trial for accessing this information.
 
@@ -2096,7 +3224,19 @@ It appears that the stock for UPS (United Parcel Service) is being monitored for
 UPS stock (Ticker Symbol: UPS) was mentioned in tweets discussing analyst ratings and price targets for the week.
 The stock was included in a watchlist for Monday trading, with calls above a certain price point.
 UPS was part of the S&P 500 index, with a slight decrease in its value.
-Overall, UPS stock was trending with some fluctuations in its price.",Negative,2022-08-23
+Overall, UPS stock was trending with some fluctuations in its price.",Negative,2022-08-23,"SMA_5: 206.63
+EMA_5: 206.1
+MACD: 5.59
+MACD_SIGNAL: 5.4
+MACD_HIST: 0.19
+RSI: 53.32
+BB_UPPER: 213.28
+BB_LOWER: 185.76
+BB_MIDDLE: 199.52
+OBV: 32,100,600.0
+ADX: 32.46
+DMP: 32.32
+DMN: 14.93"
 UPS,"2022-08-25
 UPS stock was mentioned in a tweet regarding Bill Gates' stock portfolio, including companies like $UPS and $FDX (FedEx).
 There was a mention of a top analyst price target for UPS stock in the upcoming week.
@@ -2113,11 +3253,35 @@ Based on the tweets, regarding UPS stock:
 
 2022-08-29
 - There are top analyst ratings and price targets for UPS stock for the week.
-- Boeing received an order from UPS for 8 more 767 Freighters.",Negative,2022-08-30
+- Boeing received an order from UPS for 8 more 767 Freighters.",Negative,2022-08-30,"SMA_5: 199.86
+EMA_5: 199.08
+MACD: 2.55
+MACD_SIGNAL: 4.27
+MACD_HIST: -1.71
+RSI: 19.66
+BB_UPPER: 211.43
+BB_LOWER: 191.95
+BB_MIDDLE: 201.69
+OBV: 25,691,100.0
+ADX: 26.65
+DMP: 22.79
+DMN: 26.95"
 UPS,"2022-09-05
 There is a top analyst price target for UPS expected for the next week.
 There is market breadth data provided for the XLI sector at 9:33 AM, showing advances and declines in the sector.
-The tweet includes a list of stock symbols related to UPS, such as UNP, RTX, HON, DE, LMT, CAT, BA, GE, NOC, CSX, MMM, WM, NSC, ITW, ETN, GD, FDX, and TT.",Positive,2022-09-07
+The tweet includes a list of stock symbols related to UPS, such as UNP, RTX, HON, DE, LMT, CAT, BA, GE, NOC, CSX, MMM, WM, NSC, ITW, ETN, GD, FDX, and TT.",Positive,2022-09-07,"SMA_5: 195.88
+EMA_5: 196.46
+MACD: 0.51
+MACD_SIGNAL: 2.05
+MACD_HIST: -1.54
+RSI: 36.53
+BB_UPPER: 211.21
+BB_LOWER: 192.36
+BB_MIDDLE: 201.79
+OBV: 21,883,300.0
+ADX: 20.29
+DMP: 22.65
+DMN: 23.88"
 UPS,"2022-09-09
 The tweet mentions UPS ($UPS) as one of the companies in a list of stocks.
 
@@ -2130,7 +3294,19 @@ Based on the provided tweets, key facts regarding UPS stock are:
 - UPS is part of the XLI sector and is experiencing a decline compared to the overall market.
 - Other companies mentioned in relation to UPS stock include UNP, HON, RTX, DE, CAT, LMT, BA, GE, CSX, NOC, MMM, WM, NSC, ETN, ITW, GD, FDX, and EMR.
 - There are rooms mentioned in a tweet, possibly related to investment or trading.
-- Other stocks mentioned alongside UPS include PINS, SOLO, MPC, HPQ, SMH, COP, FXI, LYFT, DVN, NOV, MDT, LVS, SLV, HD, SPXS, LQD, DOCU, PLD, TXN, MAR, ABT, MO, KIM, NUGT, DNR, BBBY, FHN, IBIO, KSS, SRNE, VNQ, COF, GSX, BDN, and GS.",Negative,2022-09-14
+- Other stocks mentioned alongside UPS include PINS, SOLO, MPC, HPQ, SMH, COP, FXI, LYFT, DVN, NOV, MDT, LVS, SLV, HD, SPXS, LQD, DOCU, PLD, TXN, MAR, ABT, MO, KIM, NUGT, DNR, BBBY, FHN, IBIO, KSS, SRNE, VNQ, COF, GSX, BDN, and GS.",Negative,2022-09-14,"SMA_5: 195.73
+EMA_5: 194.54
+MACD: -0.5
+MACD_SIGNAL: 0.7
+MACD_HIST: -1.2
+RSI: 24.76
+BB_UPPER: 209.83
+BB_LOWER: 189.22
+BB_MIDDLE: 199.52
+OBV: 18,856,800.0
+ADX: 17.89
+DMP: 21.85
+DMN: 32.94"
 UPS,"2022-09-16
 - FedEx Corporation pulled its forecast and warned of a slowing global economy, causing shares of U.S. delivery firms like UPS to drop premarket.
 - Amazon's stock was down 2.6%, UPS's stock was down 6.7%, and XPO Logistics's stock was down 6.4% premarket.
@@ -2158,7 +3334,19 @@ The tweet mentions a list of stocks, including UPS, that are potentially worth i
 - There are concerns about a flash crash imminent in ETFs, including $QQQ, $SPY, $SPX, $SLB, $XLE, $XOM, $OXY, $COP, $PSX, $CVX, $HES, $NIO, $AAPL, $FDX, $UPS, $SWX, and $NEE.
 - All package carriers, including FedEx (FDX) and UPS, are reported to be losing market share to Amazon.
 - The delivery industry in the US is facing issues of oversupply during the holiday shopping season.
-- Supply capacity has increased to handle up to 110 million parcels per day, while demand is only around 18 million parcels per day.",Negative,2022-09-21
+- Supply capacity has increased to handle up to 110 million parcels per day, while demand is only around 18 million parcels per day.",Negative,2022-09-21,"SMA_5: 178.25
+EMA_5: 178.91
+MACD: -5.15
+MACD_SIGNAL: -2.33
+MACD_HIST: -2.82
+RSI: 17.14
+BB_UPPER: 210.34
+BB_LOWER: 174.53
+BB_MIDDLE: 192.43
+OBV: -719,300.0
+ADX: 26.06
+DMP: 14.54
+DMN: 40.33"
 UPS,"2022-09-23
 - UPS stock had an analyst price target for the following week.
 - UPS was among the large cap stocks hitting a new 52-week low on a particular day.
@@ -2181,7 +3369,19 @@ UPS stock is being discussed alongside other industrial companies like Boeing ($
 Analysts are discussing price targets for UPS for the upcoming week.
 RSI25 values for UPS indicate a price of $163.96 with various percentage changes and relative strength index values.
 Dividend investors are looking at different companies across five different industries, including UPS in the real estate sector.
-Various other stock symbols are mentioned in the tweets, but the key focus is on UPS within the industrial sector.",Positive,2022-09-28
+Various other stock symbols are mentioned in the tweets, but the key focus is on UPS within the industrial sector.",Positive,2022-09-28,"SMA_5: 165.17
+EMA_5: 167.13
+MACD: -8.57
+MACD_SIGNAL: -6.14
+MACD_HIST: -2.43
+RSI: 34.85
+BB_UPPER: 210.2
+BB_LOWER: 157.32
+BB_MIDDLE: 183.76
+OBV: -8,044,900.0
+ADX: 35.13
+DMP: 16.11
+DMN: 43.77"
 UPS,"2022-09-30
 - Co-founder Ayeshatariq was featured on Fox Business discussing stocks such as $NKE and $UPS.
 - Market breadth for the XLI sector showed 44 advances and 28 declines.
@@ -2196,7 +3396,19 @@ Morgan Stanley analyst Ravi Shanker maintained a bearish outlook on United Parce
 Various stocks were listed alongside UPS in social media posts, indicating a broad range of companies being discussed in the market.
 
 2022-10-04
-The tweets mention various industrial stocks, including $UPS (United Parcel Service), with a intraday log change of 0.32. The overall sentiment seems to be bullish, with forecasts indicating positive movement in the stock prices of these companies. UPS is among the mentioned stocks that are expected to see an increase in value.",Negative,2022-10-05
+The tweets mention various industrial stocks, including $UPS (United Parcel Service), with a intraday log change of 0.32. The overall sentiment seems to be bullish, with forecasts indicating positive movement in the stock prices of these companies. UPS is among the mentioned stocks that are expected to see an increase in value.",Negative,2022-10-05,"SMA_5: 165.35
+EMA_5: 166.52
+MACD: -7.8
+MACD_SIGNAL: -7.65
+MACD_HIST: -0.15
+RSI: 51.2
+BB_UPPER: 201.91
+BB_LOWER: 150.34
+BB_MIDDLE: 176.13
+OBV: -9,265,500.0
+ADX: 37.54
+DMP: 19.11
+DMN: 37.44"
 UPS,"2022-10-08
 - UPS ($UPS) is a Big Boy dividend stock in the industrials sector.
 - Other companies in the same sector include Boeing ($BA), Caterpillar ($CAT), General Electric ($GE), Union Pacific ($UNP), Raytheon Technologies ($RTX), Deere & Company ($DE), Lockheed Martin ($LMT), Northrop Grumman ($NOC), 3M ($MMM), and Illinois Tool Works ($ITW).
@@ -2212,7 +3424,19 @@ UPS is listed alongside other industrial companies like Boeing (BA), Caterpillar
 UPS is highlighted as one of the best dividend growth stocks.
 There are free options trading ideas for UPS, suggesting call options at $162.50 and put options at $157.50.
 The mentioned stocks include a variety of sectors beyond industrials, such as technology, healthcare, energy, and more.
-The tweet mentions a positive sentiment towards room or trading environment, with various stock symbols listed including UPS.",Positive,2022-10-12
+The tweet mentions a positive sentiment towards room or trading environment, with various stock symbols listed including UPS.",Positive,2022-10-12,"SMA_5: 160.67
+EMA_5: 160.8
+MACD: -7.61
+MACD_SIGNAL: -7.67
+MACD_HIST: 0.06
+RSI: 29.81
+BB_UPPER: 181.72
+BB_LOWER: 153.0
+BB_MIDDLE: 167.36
+OBV: -11,925,200.0
+ADX: 39.53
+DMP: 14.74
+DMN: 37.89"
 UPS,"2022-10-14
 Raymond James cut UPS's stock price target from $220 to $205. The sector-related data indicates a decline in UPS's stock price, along with other companies like RTX, UNP, HON, DE, CAT, and more.
 
@@ -2224,7 +3448,19 @@ There is a reference to a top analyst price target for next week, but the specif
 The stock for United Parcel Service (UPS) had a slightly negative change on October 17, 2022, with a decrease of 0.05% and 0.17% on different intraday periods. There were bullish forecasts for UPS, with some analysts predicting a price target increase for the stock. There were also positive intraday changes on other stocks alongside UPS.
 
 2022-10-18
-The tweets mention UPS as part of the industrial sector along with companies like $MMM, $BA, $CAT, and $GE. UPS is also listed alongside companies like $LMT, $FDX, $UNP, and $HON. The hashtag #WeAimHigher is associated with UPS. Additionally, there are various other stock symbols mentioned alongside UPS, such as $PINS, $SOLO, $MPC, $HPQ, $SMH, $COP, $FXI, $LYFT, $DVN, $NOV, $MDT, $LVS, $SLV, $HD, $SPXS, $UAA, $X, $LOW, $UA, $LRCX, $NUGT, $DNR, $BBBY, $FHN, $IBIO, $KSS, $SRNE, $VNQ, $COF, $GSX, $BDN, and $GS.",Negative,2022-10-19
+The tweets mention UPS as part of the industrial sector along with companies like $MMM, $BA, $CAT, and $GE. UPS is also listed alongside companies like $LMT, $FDX, $UNP, and $HON. The hashtag #WeAimHigher is associated with UPS. Additionally, there are various other stock symbols mentioned alongside UPS, such as $PINS, $SOLO, $MPC, $HPQ, $SMH, $COP, $FXI, $LYFT, $DVN, $NOV, $MDT, $LVS, $SLV, $HD, $SPXS, $UAA, $X, $LOW, $UA, $LRCX, $NUGT, $DNR, $BBBY, $FHN, $IBIO, $KSS, $SRNE, $VNQ, $COF, $GSX, $BDN, and $GS.",Negative,2022-10-19,"SMA_5: 164.57
+EMA_5: 164.69
+MACD: -4.97
+MACD_SIGNAL: -6.45
+MACD_HIST: 1.48
+RSI: 59.01
+BB_UPPER: 169.98
+BB_LOWER: 157.9
+BB_MIDDLE: 163.94
+OBV: -8,860,200.0
+ADX: 39.91
+DMP: 15.42
+DMN: 30.27"
 UPS,"2022-10-21
 - UPS paid $2.6 billion in dividends in the first half of 2022, ranking among the top companies in terms of dividend payments.
 - UPS stock is mentioned alongside other company stocks such as Microsoft, Apple, JP Morgan, Proctor & Gamble, Coca Cola, and McDonald's in terms of dividend payments.
@@ -2252,7 +3488,19 @@ There is anticipation and interest in UPS earnings within the trading community,
 In the upcoming week, UPS is among the companies to watch for in terms of earnings releases.
 
 2022-10-25
-United Parcel Service (UPS) reported their Q3 earnings, with EPS at $2.99, beating estimates of $2.87, but sales at $24.20 billion, missing estimates of $24.42 billion. Domestic volumes were down 1.5% YOY, but revenue was up 8.2%, showing a 1% margin increase. UPS seems to be taking market share from FedEx, whose revenue was up but margins were down. UPS is on track to achieve their financial targets for 2022. The stock price rose by 2.45% and was one of the top trending tickers on Fintwit. UPS also announced share repurchases projected to be at least $3.0 billion and expects FY revenue of $102 billion. After the earnings report, the stock price experienced a rise due to strong earnings performance. UPS received a price target upgrade from top analysts.",Positive,2022-10-26
+United Parcel Service (UPS) reported their Q3 earnings, with EPS at $2.99, beating estimates of $2.87, but sales at $24.20 billion, missing estimates of $24.42 billion. Domestic volumes were down 1.5% YOY, but revenue was up 8.2%, showing a 1% margin increase. UPS seems to be taking market share from FedEx, whose revenue was up but margins were down. UPS is on track to achieve their financial targets for 2022. The stock price rose by 2.45% and was one of the top trending tickers on Fintwit. UPS also announced share repurchases projected to be at least $3.0 billion and expects FY revenue of $102 billion. After the earnings report, the stock price experienced a rise due to strong earnings performance. UPS received a price target upgrade from top analysts.",Positive,2022-10-26,"SMA_5: 166.01
+EMA_5: 166.9
+MACD: -2.8
+MACD_SIGNAL: -4.55
+MACD_HIST: 1.75
+RSI: 66.58
+BB_UPPER: 170.63
+BB_LOWER: 157.68
+BB_MIDDLE: 164.15
+OBV: -6,939,500.0
+ADX: 33.92
+DMP: 22.22
+DMN: 25.5"
 UPS,"2022-10-28
 - A financial website began coverage on eMagin (NYSE: EMAN).
 - Top analyst price targets were mentioned for various stocks, including UPS.
@@ -2266,7 +3514,19 @@ There were no further key facts or details provided in the tweets regarding UPS 
 The tweet mentions an analyst price target for UPS, along with other industrial companies like 3M, Boeing, IBM, Caterpillar, Honeywell, and General Electric.
 The tweet includes a hashtag indicating companies like UPS, Lockheed Martin, FedEx, and Union Pacific.
 The tweet emphasizes aiming higher in the context of these industrial companies.
-Overall, the tweet discusses UPS along with other industrial companies and their potential price targets.",Negative,2022-11-02
+Overall, the tweet discusses UPS along with other industrial companies and their potential price targets.",Negative,2022-11-02,"SMA_5: 166.68
+EMA_5: 166.37
+MACD: -1.73
+MACD_SIGNAL: -2.8
+MACD_HIST: 1.07
+RSI: 37.61
+BB_UPPER: 170.8
+BB_LOWER: 158.17
+BB_MIDDLE: 164.48
+OBV: -7,862,800.0
+ADX: 26.44
+DMP: 19.56
+DMN: 22.48"
 UPS,"2022-11-04
 The tweets mention UPS (United Parcel Service) stock as having a top analyst price target for the next week. Other stocks mentioned in the tweets include TSM, PINS, SOLO, MPC, HPQ, SMH, COP, FXI, LYFT, DVN, NOV, MDT, LVS, UNP, SLV, HD, SPXS, LQD, DOCU, PLD, TXN, MAR, ABT, MO, KIM, NUGT, DNR, BBBY, FHN, IBIO, KSS, SRNE, VNQ, COF, GSX, BDN, and GS.
 
@@ -2274,16 +3534,52 @@ The tweets mention UPS (United Parcel Service) stock as having a top analyst pri
 The key fact regarding UPS stock is that it was mentioned in a list of various other stocks on a watch list, including AVGO, CMC, PINS, SOLO, MPC, and more.
 
 2022-11-07
-The key fact regarding UPS stock is that it received a top analyst price target for the next week.",Negative,2022-11-09
+The key fact regarding UPS stock is that it received a top analyst price target for the next week.",Negative,2022-11-09,"SMA_5: 166.33
+EMA_5: 166.31
+MACD: -1.12
+MACD_SIGNAL: -1.78
+MACD_HIST: 0.65
+RSI: 36.92
+BB_UPPER: 170.34
+BB_LOWER: 161.46
+BB_MIDDLE: 165.9
+OBV: -10,912,000.0
+ADX: 21.57
+DMP: 20.88
+DMN: 26.45"
 UPS,"2022-11-12
 There is a mention of UPS in one tweet, referencing a top analyst price target for the next week. Additionally, there is a mention of options flow data and potential earnings report plays for UPS.
 
 2022-11-13
-There is a top analyst price target for UPS for the upcoming week. The stock price for UPS has met its upward target.",Negative,2022-11-16
+There is a top analyst price target for UPS for the upcoming week. The stock price for UPS has met its upward target.",Negative,2022-11-16,"SMA_5: 177.37
+EMA_5: 176.53
+MACD: 2.12
+MACD_SIGNAL: 0.26
+MACD_HIST: 1.86
+RSI: 60.54
+BB_UPPER: 179.77
+BB_LOWER: 158.43
+BB_MIDDLE: 169.1
+OBV: -6,412,700.0
+ADX: 19.94
+DMP: 27.94
+DMN: 20.56"
 UPS,"2022-11-18
 UPS stock is being analyzed for potential price targets for the next week.
 Bull forecasts show that UPS stock had a -0.26% and -0.23% change intraday on different dates.
-Other stocks mentioned in the tweets include $BITO, $DWAC, $GME, $PG, $WFC, $MS, $IWM, $MRK, $PINS, $SOLO, $MPC, $HPQ, $SMH, $COP, $FXI, $LYFT, $DVN, $NOV, $MDT, $LVS, $UNP, $SLV, $HD, $SPXS, $UAA, $X, $LOW, $UA, $LRCX, $NUGT, $DNR, $BBBY, $FHN, $IBIO, $KSS, $SRNE, $VNQ, $COF, $GSX, $BDN, and $GS.",Positive,2022-11-23
+Other stocks mentioned in the tweets include $BITO, $DWAC, $GME, $PG, $WFC, $MS, $IWM, $MRK, $PINS, $SOLO, $MPC, $HPQ, $SMH, $COP, $FXI, $LYFT, $DVN, $NOV, $MDT, $LVS, $UNP, $SLV, $HD, $SPXS, $UAA, $X, $LOW, $UA, $LRCX, $NUGT, $DNR, $BBBY, $FHN, $IBIO, $KSS, $SRNE, $VNQ, $COF, $GSX, $BDN, and $GS.",Positive,2022-11-23,"SMA_5: 180.24
+EMA_5: 180.83
+MACD: 3.52
+MACD_SIGNAL: 2.11
+MACD_HIST: 1.41
+RSI: 74.44
+BB_UPPER: 185.96
+BB_LOWER: 159.35
+BB_MIDDLE: 172.65
+OBV: 332,300.0
+ADX: 18.07
+DMP: 33.43
+DMN: 21.57"
 UPS,"2022-11-28
 UPS is mentioned in bear and bull forecasts, with a slight positive trend in the latter.
 There is a room with stock recommendations that include UPS.
@@ -2294,7 +3590,19 @@ Other stocks mentioned alongside UPS in the tweets include CRDO, MAS, SDY, FXE, 
 - UPS is set to buy, with a target price of $220.
 - UPS was among the stocks making major moves in the premarket.
 - Upgrades for UPS were seen on 11/29 from top analysts.
-- The Trade For Me app indicated a bullish signal for UPS with the 14 period RSI crossing above 30 on the 1-minute chart.",Positive,2022-12-01
+- The Trade For Me app indicated a bullish signal for UPS with the 14 period RSI crossing above 30 on the 1-minute chart.",Positive,2022-12-01,"SMA_5: 185.45
+EMA_5: 186.55
+MACD: 4.75
+MACD_SIGNAL: 3.49
+MACD_HIST: 1.27
+RSI: 81.11
+BB_UPPER: 192.57
+BB_LOWER: 162.13
+BB_MIDDLE: 177.35
+OBV: 12,129,900.0
+ADX: 18.47
+DMP: 37.92
+DMN: 20.87"
 UPS,"2022-12-03
 The tweet mentions UPS stock and includes a link to top analyst price targets for the next week. Other stocks mentioned in the tweet include PINS, SOLO, MPC, HPQ, SMH, COP, FXI, LYFT, DVN, NOV, MDT, LVS, UNP, SLV, HD, SPXS, UAA, X, LOW, UA, LRCX, NUGT, DNR, BBBY, FHN, IBIO, KSS, SRNE, VNQ, COF, GSX, BDN, and GS.
 
@@ -2306,7 +3614,19 @@ Based on the tweets provided, it appears that there is some analysis and predict
 - Top analysts have a price target for UPS for the next week.
 
 2022-12-07
-The tweets mention UPS stock and highlight a top analyst price target for the next week. They also list a variety of other stock symbols including PINS, SOLO, MPC, HPQ, and more. Additionally, the tweets include a link to a website with potentially more information on the stock market.",Positive,2022-12-08
+The tweets mention UPS stock and highlight a top analyst price target for the next week. They also list a variety of other stock symbols including PINS, SOLO, MPC, HPQ, and more. Additionally, the tweets include a link to a website with potentially more information on the stock market.",Positive,2022-12-08,"SMA_5: 179.99
+EMA_5: 179.56
+MACD: 2.33
+MACD_SIGNAL: 3.32
+MACD_HIST: -1.0
+RSI: 46.44
+BB_UPPER: 190.45
+BB_LOWER: 171.07
+BB_MIDDLE: 180.76
+OBV: -4,149,200.0
+ADX: 16.08
+DMP: 28.94
+DMN: 31.02"
 UPS,"2022-12-10
 - UPS (United Parcel Service) is a top dividend stock.
 - Some analysts have set a price target for UPS for the following week.
@@ -2322,7 +3642,19 @@ The industrial sector, including companies like $UPS, $RTX, $UNP, $DE, $CAT, $LM
 Top analysts have set a price target for $UPS for the following week, indicating potential movement in the stock price.
 
 2022-12-14
-The tweets mention UPS (United Parcel Service) stock along with other stock symbols in a list of companies. There is also a mention of a top analyst price target for UPS stock for the upcoming week.",Negative,2022-12-15
+The tweets mention UPS (United Parcel Service) stock along with other stock symbols in a list of companies. There is also a mention of a top analyst price target for UPS stock for the upcoming week.",Negative,2022-12-15,"SMA_5: 181.91
+EMA_5: 181.97
+MACD: 2.01
+MACD_SIGNAL: 2.47
+MACD_HIST: -0.46
+RSI: 47.72
+BB_UPPER: 190.59
+BB_LOWER: 173.2
+BB_MIDDLE: 181.9
+OBV: -847,500.0
+ADX: 14.38
+DMP: 30.29
+DMN: 26.19"
 UPS,"2022-12-19
 From the given tweets, it can be inferred that there is a focus on UPS stock in terms of analysts' price targets and potential movement for the upcoming week. The ticker symbol for UPS is mentioned alongside other stock symbols like $PINS, $SOLO, $MPC, $HPQ, and more. Additionally, there is a reference to a ""best room"" in relation to stock analysis or trading.
 
@@ -2333,7 +3665,19 @@ UPS stock was mentioned in a list of other stocks such as RTX, HON, UNP, CAT, DE
 The key facts regarding UPS stock from the provided tweets are:
 - UPS was awarded a $2.24 billion contract with the US Government alongside FedEx to provide international and domestic services.
 - UPS was mentioned in a list of stocks alongside other companies like RTX, HON, UNP, CAT, DE, LMT, BA, and more.
-- There is a room or resource mentioned that includes various stock symbols including UPS, PINS, SOLO, MPC, and others.",Negative,2022-12-22
+- There is a room or resource mentioned that includes various stock symbols including UPS, PINS, SOLO, MPC, and others.",Negative,2022-12-22,"SMA_5: 176.51
+EMA_5: 176.84
+MACD: 0.05
+MACD_SIGNAL: 1.22
+MACD_HIST: -1.17
+RSI: 37.78
+BB_UPPER: 190.72
+BB_LOWER: 171.21
+BB_MIDDLE: 180.96
+OBV: -8,254,300.0
+ADX: 12.3
+DMP: 22.08
+DMN: 29.16"
 WMT,"2022-06-05
 - Reminder about the next snapshot for $WMT Early Rewards Phase 2 on June 9th
 - Rewards rate remains at 0.66667% per month for $WMT
@@ -2382,7 +3726,19 @@ There is a Discord group discussing stocks like WMT, FB, VIX, ES, DKNG, ADBE, an
 The call and put percentages for WMT are 70% and 30%, respectively, with a 6% increase.
 CPI data is expected to drive market movements, affecting stocks like HD, WMT, and LOW.
 
-🟢 Overall, WMT stock experienced minimal intraday change, is being actively discussed in various forums, and is awaiting a potential buy signal.",Positive,2022-06-10
+🟢 Overall, WMT stock experienced minimal intraday change, is being actively discussed in various forums, and is awaiting a potential buy signal.",Positive,2022-06-10,"SMA_5: 122.65
+EMA_5: 122.62
+MACD: -5.87
+MACD_SIGNAL: -6.15
+MACD_HIST: 0.29
+RSI: 30.8
+BB_UPPER: 142.21
+BB_LOWER: 111.1
+BB_MIDDLE: 126.65
+OBV: -251,156,500.0
+ADX: 42.72
+DMP: 12.07
+DMN: 37.55"
 WMT,"2022-06-12
 - Walmart's stock price has been down 16% year-to-date.
 - Walmart's World Mobile Token (WMT) is gaining attention and topping charts in the USA.
@@ -2417,7 +3773,19 @@ Other mentioned stocks include $TLRY, $AMZN, $TSLA, $AAPL, $FB, $GME, $AMC, $NVD
 - In the S&P 500, WMT was one of the few stocks showing positive growth.
 - Discord members celebrated profits made from trading various stocks, including WMT.
 - Walmart's Sam's Club offered a special $8 membership deal for Independence Day.
-- Kroger (KR) reported earnings results, impacting the market and related companies like WMT.",Negative,2022-06-17
+- Kroger (KR) reported earnings results, impacting the market and related companies like WMT.",Negative,2022-06-17,"SMA_5: 119.43
+EMA_5: 119.73
+MACD: -5.39
+MACD_SIGNAL: -5.78
+MACD_HIST: 0.39
+RSI: 26.03
+BB_UPPER: 129.29
+BB_LOWER: 116.82
+BB_MIDDLE: 123.06
+OBV: -262,956,400.0
+ADX: 44.2
+DMP: 12.48
+DMN: 30.59"
 WMT,"2022-06-22
 - The World Mobile Deployment Diary Update 02 for $WMT is live.
 - $WMT is showing potential for the next move in a few hours.
@@ -2457,7 +3825,19 @@ Overall, the tweets suggest a level of interest and activity surrounding WMT sto
 2022-06-26
 - Top analyst price target for WMT (Walmart) for next week is being discussed.
 - Goldman Sachs is buying stocks in this economy, including WMT (Walmart).
-- Various stocks are being discussed in a chatroom, including WMT (Walmart).",Positive,2022-06-27
+- Various stocks are being discussed in a chatroom, including WMT (Walmart).",Positive,2022-06-27,"SMA_5: 122.86
+EMA_5: 122.91
+MACD: -3.32
+MACD_SIGNAL: -4.58
+MACD_HIST: 1.26
+RSI: 65.53
+BB_UPPER: 128.97
+BB_LOWER: 117.04
+BB_MIDDLE: 123.01
+OBV: -238,470,600.0
+ADX: 36.64
+DMP: 17.26
+DMN: 22.95"
 WMT,"2022-06-30
 - Analysts have set a top price target for Walmart stock today.
 - Walmart recently held its largest-ever annual Open Call event, where over 330 products made, grown, or assembled in the U.S. were chosen to be sold in stores and online.
@@ -2499,7 +3879,19 @@ Overall, Walmart stock is seeing some movement and activity within the market.
 - $WMT was trending positively in the S&P 500.
 - The World Mobile Team announced news regarding the USA launch, team onboarding, and their pledge to connect.
 - The World Mobile Token (WMT) team celebrated being the number 1 Cardano Native Token by TVL on SundaeSwap.
-- There was a comparison between dividend stocks like $HD vs. $LOW, $MSFT vs. $AAPL, and $CAT vs. $DE.",Positive,2022-07-05
+- There was a comparison between dividend stocks like $HD vs. $LOW, $MSFT vs. $AAPL, and $CAT vs. $DE.",Positive,2022-07-05,"SMA_5: 122.55
+EMA_5: 122.96
+MACD: -2.19
+MACD_SIGNAL: -3.24
+MACD_HIST: 1.06
+RSI: 66.97
+BB_UPPER: 125.46
+BB_LOWER: 118.29
+BB_MIDDLE: 121.87
+OBV: -244,469,800.0
+ADX: 29.21
+DMP: 20.04
+DMN: 21.79"
 WMT,"2022-07-07
 - Walmart (WMT) is being considered as part of the CNT portfolio by Blueshiftfi.
 - The company is not holding a rival event to Amazon Prime Day and is already offering significant discounts.
@@ -2515,7 +3907,19 @@ WMT,"2022-07-07
 - The CNT token of WM Token (WMT) was highlighted as a promising project in the CNT-based space.
 - WM Token (WMT) was also listed as a top potential Cardano project with a low market cap.
 - A new partnership was announced between World Mobile Team and empowa.io to increase access to connectivity and affordable housing.
-- Walmart's stock had a slight increase in value among trending DJIA stocks.",Negative,2022-07-12
+- Walmart's stock had a slight increase in value among trending DJIA stocks.",Negative,2022-07-12,"SMA_5: 125.27
+EMA_5: 124.95
+MACD: -0.84
+MACD_SIGNAL: -1.85
+MACD_HIST: 1.01
+RSI: 64.41
+BB_UPPER: 127.03
+BB_LOWER: 118.03
+BB_MIDDLE: 122.53
+OBV: -227,356,800.0
+ADX: 22.84
+DMP: 24.06
+DMN: 18.82"
 WMT,"2022-07-14
 - Walmart's stock (WMT) struggled to close above $125.82 on the daily timeframe and is currently at the bottom of a long-term trend.
 - The stock's current trend is a sell signal.
@@ -2552,13 +3956,37 @@ WMT,"2022-07-14
 - World Mobile Token ($WMT) was mentioned in various tweets regarding updates, partnerships, auctions, and rewards.
 - Market trends and real-time stock movements were also highlighted for $WMT, showing both bullish and bearish forecasts.
 - Additional information was provided on specific companies like Walmart and Amazon, their distribution strategies, investments in electric vehicle companies, and upcoming deals.
-- Data on app downloads, including PayPal and PhonePe, was shared, along with financial statistics from Apptopia.",Positive,2022-07-19
+- Data on app downloads, including PayPal and PhonePe, was shared, along with financial statistics from Apptopia.",Positive,2022-07-19,"SMA_5: 128.12
+EMA_5: 128.26
+MACD: 0.54
+MACD_SIGNAL: -0.55
+MACD_HIST: 1.08
+RSI: 86.17
+BB_UPPER: 129.67
+BB_LOWER: 119.73
+BB_MIDDLE: 124.7
+OBV: -208,180,000.0
+ADX: 22.42
+DMP: 25.86
+DMN: 14.92"
 WMT,"2022-07-24
 - Walmart's stock, $WMT, was mentioned in various tweets related to analyst ratings, price targets, and updates on World Mobile's deployment diary.
 - World Mobile Token (WMT) was also mentioned in a tweet about someone's portfolio, along with Cardano (ADA).
 
 2022-07-25
-Walmart (WMT) reported a decrease in profit and revenue for Q2 and lower profit outlook for 2023. This was attributed to food and fuel inflation affecting consumer spending, leading to a decline in apparel sales. The company experienced a 10% drop in market cap, with stock falling almost 10% in after-hours trading. This prompted a significant increase in put options trading. Walmart's adjustments were primarily aimed at improving inventory levels and managing inflation pressures. Despite strong comparable store sales growth, the mix of sales was a concern. Overall, the company faced challenges related to inflation and consumer spending dynamics.",Negative,2022-07-26
+Walmart (WMT) reported a decrease in profit and revenue for Q2 and lower profit outlook for 2023. This was attributed to food and fuel inflation affecting consumer spending, leading to a decline in apparel sales. The company experienced a 10% drop in market cap, with stock falling almost 10% in after-hours trading. This prompted a significant increase in put options trading. Walmart's adjustments were primarily aimed at improving inventory levels and managing inflation pressures. Despite strong comparable store sales growth, the mix of sales was a concern. Overall, the company faced challenges related to inflation and consumer spending dynamics.",Negative,2022-07-26,"SMA_5: 129.88
+EMA_5: 128.17
+MACD: 0.91
+MACD_SIGNAL: 0.63
+MACD_HIST: 0.28
+RSI: 19.64
+BB_UPPER: 133.54
+BB_LOWER: 119.37
+BB_MIDDLE: 126.46
+OBV: -238,917,900.0
+ADX: 26.67
+DMP: 21.35
+DMN: 35.36"
 WMT,"2022-07-28
 - Walmart stock (WMT) is experiencing fluctuations in both price and volume.
 - Retail was a trending sector, with Walmart (WMT) showing a 2.20% increase in stock price.
@@ -2607,7 +4035,19 @@ There have been reports of increased buying activity and hoarding of Walmart sha
 - Options trading activity involving Walmart stock, with a specific call option strike price of $135.00 expiring in December 2022.
 - Walmart stock is among the top performers in the DJIA index, with a 0.61% increase in a trending list.
 - Walmart stock has been observed erasing previous gaps and rallying over 10% off lows in less than a week.
-- Retailers, including Walmart, have seen a positive trend in stock prices since Walmart's warning.",Positive,2022-08-02
+- Retailers, including Walmart, have seen a positive trend in stock prices since Walmart's warning.",Positive,2022-08-02,"SMA_5: 130.72
+EMA_5: 131.27
+MACD: 1.47
+MACD_SIGNAL: 0.99
+MACD_HIST: 0.48
+RSI: 64.68
+BB_UPPER: 134.9
+BB_LOWER: 122.09
+BB_MIDDLE: 128.5
+OBV: -188,832,900.0
+ADX: 22.82
+DMP: 33.96
+DMN: 22.59"
 WMT,"2022-08-04
 -Walmart (WMT) is laying off hundreds of corporate workers in a restructuring effort.
 -An earlier trade alert for WMT hit a 50% profit.
@@ -2653,7 +4093,19 @@ Analysts have set a top price target for WMT for the following week. The stock i
 
 Bull forecasts suggest a positive outlook for WMT stock, with a real-time trend indicating a sell position currently. World Mobile's EarthNode auction received winning bids totaling 245,910 WMT tokens.
 
-Overall, the tweets highlight positive developments, partnerships, and forecasts for WMT stock, showcasing its potential growth and market performance in the coming weeks.",Positive,2022-08-09
+Overall, the tweets highlight positive developments, partnerships, and forecasts for WMT stock, showcasing its potential growth and market performance in the coming weeks.",Positive,2022-08-09,"SMA_5: 127.83
+EMA_5: 128.35
+MACD: 0.5
+MACD_SIGNAL: 0.81
+MACD_HIST: -0.31
+RSI: 51.38
+BB_UPPER: 134.83
+BB_LOWER: 123.44
+BB_MIDDLE: 129.14
+OBV: -194,033,500.0
+ADX: 17.31
+DMP: 29.77
+DMN: 28.09"
 WMT,"2022-08-11
 - World Mobile Token (WMT) has partnered with GeniusyieldO for its Smart Order Router.
 - WMT is holding a giveaway campaign with a 145,000 WMT reward pool for qualified KuCoin users.
@@ -2694,7 +4146,19 @@ Walmart (WMT) has entered a streaming deal with Paramount+, where Walmart+ membe
 Walmart reports earnings before the bell, with the last two years of earnings reports not being favorable for the stock.
 Earnings reports for the week also include other major retail companies like Target (TGT) and Home Depot (HD).
 Walmart has been trending in discussions regarding retail and earnings.
-The stock is showing signs of potential bearish divergence, but it remains to be seen how it will perform in the future.",Positive,2022-08-16
+The stock is showing signs of potential bearish divergence, but it remains to be seen how it will perform in the future.",Positive,2022-08-16,"SMA_5: 132.63
+EMA_5: 133.74
+MACD: 1.65
+MACD_SIGNAL: 0.94
+MACD_HIST: 0.7
+RSI: 87.7
+BB_UPPER: 137.3
+BB_LOWER: 123.23
+BB_MIDDLE: 130.26
+OBV: -129,360,200.0
+ADX: 18.25
+DMP: 44.14
+DMN: 18.4"
 WMT,"2022-08-18
 Walmart's stock price experienced fluctuations in the market.
 Walmart's margins were expected to start recovering in Q3.
@@ -2742,7 +4206,19 @@ Walmart beat quarterly sales expectations due to surging inflation driving mid- 
 Some investors expressed confidence in holding onto World Mobile Token ($WMT) until it reaches $5.
 There were mentions of profitable trades and rooms focusing on various stocks, including Walmart's ($WMT) involvement.
 Unusual volume and options activity were noted for Walmart's stock ($WMT) and other securities.
-There were recommendations for certain dividend-paying stocks, including Walmart ($WMT).",Negative,2022-08-23
+There were recommendations for certain dividend-paying stocks, including Walmart ($WMT).",Negative,2022-08-23,"SMA_5: 136.84
+EMA_5: 135.4
+MACD: 2.25
+MACD_SIGNAL: 1.92
+MACD_HIST: 0.33
+RSI: 43.77
+BB_UPPER: 140.34
+BB_LOWER: 123.67
+BB_MIDDLE: 132.0
+OBV: -141,342,400.0
+ADX: 22.57
+DMP: 36.04
+DMN: 25.31"
 WMT,"2022-08-25
 - Dollar Tree and Dollar General reported troubling inventory numbers, indicating challenges in the retail sector. This could impact companies like Walmart ($WMT) and Target ($TGT).
 - World Mobile Network ($WMT) is making efforts to provide a better, cheaper mobile network for everyone.
@@ -2783,7 +4259,19 @@ There are signals indicating oversold conditions for Costco (COST) and Walmart (
 There were fluctuations in the Dow Jones Industrial Average (DJIA), with Walmart (WMT) showing a positive performance.
 Walmart is involved in the development of the world's first mobile network built on the blockchain, using the utility token WMT.
 A top analyst has set a price target for Walmart's stock for the upcoming week.
-Catalent, Pinduoduo, Netflix, and other stocks were making significant moves in premarket trading.",Negative,2022-08-30
+Catalent, Pinduoduo, Netflix, and other stocks were making significant moves in premarket trading.",Negative,2022-08-30,"SMA_5: 133.56
+EMA_5: 133.32
+MACD: 1.28
+MACD_SIGNAL: 1.74
+MACD_HIST: -0.46
+RSI: 39.69
+BB_UPPER: 140.8
+BB_LOWER: 124.63
+BB_MIDDLE: 132.71
+OBV: -135,754,800.0
+ADX: 18.05
+DMP: 27.74
+DMN: 27.64"
 WMT,"2022-09-02
 - There is a top analyst price target for WMT stock for next week.
 - There are mentions of WMT in a list of cryptocurrency price comparisons.
@@ -2816,7 +4304,19 @@ WMT,"2022-09-02
 - Retail stocks, including Walmart, were trending with minor fluctuations.
 - A watchlist for various stocks, including WMT, was shared for potential trading opportunities.
 - Disney's digital service model was compared to Walmart's membership model, highlighting challenges faced by both companies.
-- A dividend portfolio including stocks like WMT was shared by an investor.",Positive,2022-09-07
+- A dividend portfolio including stocks like WMT was shared by an investor.",Positive,2022-09-07,"SMA_5: 133.62
+EMA_5: 133.93
+MACD: 0.92
+MACD_SIGNAL: 1.2
+MACD_HIST: -0.28
+RSI: 64.41
+BB_UPPER: 139.87
+BB_LOWER: 128.45
+BB_MIDDLE: 134.16
+OBV: -128,379,000.0
+ADX: 14.36
+DMP: 28.9
+DMN: 22.96"
 WMT,"2022-09-09
 The key facts regarding WMT stock from the provided tweets are:
 
@@ -2847,7 +4347,19 @@ Key facts regarding WMT stock based on the tweets:
 - Market movers in the US on Tuesday included Walmart, among other companies like Apple, Microsoft, Google, Amazon, and others.
 - Despite the performance of other large stocks, Walmart stock was not specifically mentioned in terms of percentage change.
 - There is a chatroom available for those interested in day trading stocks and options, including Walmart.
-- Several bags, including Walmart (WMT), were listed as potential investments with high upside potential.",Negative,2022-09-14
+- Several bags, including Walmart (WMT), were listed as potential investments with high upside potential.",Negative,2022-09-14,"SMA_5: 136.3
+EMA_5: 135.61
+MACD: 1.19
+MACD_SIGNAL: 1.23
+MACD_HIST: -0.04
+RSI: 46.17
+BB_UPPER: 139.51
+BB_LOWER: 130.65
+BB_MIDDLE: 135.08
+OBV: -125,126,000.0
+ADX: 13.9
+DMP: 26.62
+DMN: 24.54"
 WMT,"2022-09-16
 - Walmart's stock (WMT) had a nice print with a size of 1112123 shares traded at a price of $132.14, totaling $146,955,933.22.
 - Walmart's stock was trending slightly downward at -0.05% in the retail sector.
@@ -2893,7 +4405,19 @@ Overall, Walmart stock (WMT) is part of a dynamic market landscape with both pos
 - Walmart experienced a large print trade with 615,562 shares traded at a price of $133.55, totaling $82,208,305.10.
 - A top analyst provided a price target for Walmart for the following week.
 - Walmart supporters were encouraged to help the World Mobile Token (WMT) gain the top spot on HypeMyToken.
-- Various top Spanish companies exhibit traits of the Spanish economy, with old economy sectors leading the country.",Positive,2022-09-21
+- Various top Spanish companies exhibit traits of the Spanish economy, with old economy sectors leading the country.",Positive,2022-09-21,"SMA_5: 133.86
+EMA_5: 134.3
+MACD: 0.55
+MACD_SIGNAL: 0.85
+MACD_HIST: -0.3
+RSI: 53.86
+BB_UPPER: 137.66
+BB_LOWER: 131.01
+BB_MIDDLE: 134.34
+OBV: -136,549,500.0
+ADX: 12.31
+DMP: 28.26
+DMN: 22.69"
 WMT,"2022-09-24
 Analysts have set a price target for WMT stock for the upcoming week.
 The market size for the countries where World Mobile is already licensed to operate is expected to have a significant impact on the company's growth potential in 2023.
@@ -2915,7 +4439,19 @@ Walmart and Amazon both agreed that an omnichannel approach is the correct strat
 - The Walton Family Foundation (Builders Vision Fund) purchased $25 million worth of Walmart shares on August 11th at an average cost of $3.92 per share, now owning 26 million shares with an average cost basis over $8.50 per share.
 - Walmart launched two new immersive experiences in the #Roblox metaverse.
 - The stock price of Walmart experienced fluctuations, with a slight decline of 0.27% in the trending Retail category.
-- Walmart is partnering with Kindbody as a provider for associate fertility and family-building benefits nationwide.",Positive,2022-09-28
+- Walmart is partnering with Kindbody as a provider for associate fertility and family-building benefits nationwide.",Positive,2022-09-28,"SMA_5: 131.76
+EMA_5: 132.24
+MACD: -0.27
+MACD_SIGNAL: 0.2
+MACD_HIST: -0.47
+RSI: 53.69
+BB_UPPER: 137.81
+BB_LOWER: 129.97
+BB_MIDDLE: 133.89
+OBV: -143,636,800.0
+ADX: 12.62
+DMP: 20.68
+DMN: 27.83"
 WMT,"2022-09-30
 - Walmart (WMT) is mentioned in several tweets along with other major stocks like Apple (AAPL), Amazon (AMZN), and Microsoft (MSFT).
 - The Walton Family Foundation, associated with Walmart, bought $25 million worth of shares in another company, possibly related to bee conservation.
@@ -2949,7 +4485,19 @@ There were promotions for a trading group offering alerts and analysis for tradi
 - There is a bullish forecast for Walmart's stock (0.38% increase) on October 4, 2022.
 - GRNA could be considered an empowering project in the eyes of some investors and analysts.
 - The largest stocks, including Apple ($AAPL), Microsoft ($MSFT), Google ($GOOGL), Amazon ($AMZN), and Tesla ($TSLA), all experienced positive movement.
-- Analysis and updates on various stocks, including Walmart ($WMT), are available through certain platforms and resources.",Negative,2022-10-05
+- Analysis and updates on various stocks, including Walmart ($WMT), are available through certain platforms and resources.",Negative,2022-10-05,"SMA_5: 132.33
+EMA_5: 132.71
+MACD: -0.26
+MACD_SIGNAL: -0.18
+MACD_HIST: -0.08
+RSI: 52.2
+BB_UPPER: 137.78
+BB_LOWER: 129.34
+BB_MIDDLE: 133.56
+OBV: -148,866,300.0
+ADX: 12.39
+DMP: 22.28
+DMN: 26.01"
 WMT,"2022-10-07
 Walmart (NYSE: WMT) announced plans to let go more than 1,000 employees at its Atlanta fulfillment center.
 Walmart's stock performance was down about 2.37% in the trending retail sector.
@@ -2980,7 +4528,19 @@ Overall, the tweets emphasize the importance of real-time analysis, community su
 - Other trending stocks like Microsoft (MSFT), Goldman Sachs (GS), and Intel (INTC) were also mentioned alongside Walmart (WMT).
 
 2022-10-11
-Walmart stock ($WMT) was mentioned in several tweets discussing various aspects of the company and its stock performance. The Walmart Healthcare Research Institute was launched with a mission to improve care for underserved communities. The Walton Family Foundation bought $25 million worth of Walmart stock. Walmart was highlighted in a list of trending stocks along with other companies like Apple and Microsoft. Additionally, there were mentions of potential acquisitions or partnerships involving Walmart, like a partnership with HearingAssistUS to sell hearing aids. Recommendations were made for buying Walmart stock due to its potential growth.",Negative,2022-10-12
+Walmart stock ($WMT) was mentioned in several tweets discussing various aspects of the company and its stock performance. The Walmart Healthcare Research Institute was launched with a mission to improve care for underserved communities. The Walton Family Foundation bought $25 million worth of Walmart stock. Walmart was highlighted in a list of trending stocks along with other companies like Apple and Microsoft. Additionally, there were mentions of potential acquisitions or partnerships involving Walmart, like a partnership with HearingAssistUS to sell hearing aids. Recommendations were made for buying Walmart stock due to its potential growth.",Negative,2022-10-12,"SMA_5: 130.68
+EMA_5: 131.21
+MACD: -0.63
+MACD_SIGNAL: -0.47
+MACD_HIST: -0.15
+RSI: 48.35
+BB_UPPER: 135.59
+BB_LOWER: 128.73
+BB_MIDDLE: 132.16
+OBV: -154,046,600.0
+ADX: 12.73
+DMP: 25.5
+DMN: 25.41"
 WMT,"2022-10-14
 WMT (Walmart) is in talks to acquire Albertsons for $24.6 billion, creating a supermarket giant to compete with leader Walmart.
 Top analyst price target for WMT is being discussed.
@@ -3015,7 +4575,19 @@ Walmart (WMT) stock is trending positively, with the company launching a new con
 Walmart is projected to make at least $1 billion per day in sales.
 There is a partnership between Verizon (VZ) and Walmart (WMT) announced.
 The stock price of Walmart (WMT) is set for a run-up.
-Overall, Walmart (WMT) appears to be performing well in the stock market, with positive analyst price targets and partnerships.",Negative,2022-10-19
+Overall, Walmart (WMT) appears to be performing well in the stock market, with positive analyst price targets and partnerships.",Negative,2022-10-19,"SMA_5: 132.4
+EMA_5: 132.73
+MACD: -0.14
+MACD_SIGNAL: -0.41
+MACD_HIST: 0.27
+RSI: 61.9
+BB_UPPER: 134.96
+BB_LOWER: 128.63
+BB_MIDDLE: 131.79
+OBV: -144,973,300.0
+ADX: 10.76
+DMP: 23.03
+DMN: 22.87"
 WMT,"2022-10-21
 - Walmart ($WMT) stock saw a 2.17% increase, making it a trending stock in the retail sector.
 - Walmart agreed to pay $215 million to settle Florida opioid claims.
@@ -3055,7 +4627,19 @@ Overall, Walmart's stock showed positive momentum in the market.
 - WMT stock is included in a list of other stocks such as AMD, NVDA, TSLA, AAPL, and more, indicating it is being actively traded and monitored.
 - WMT is listed among other companies like CVX, CSCO, KO, DIS, GS, and more under the DJIA trending list, showing its presence in the stock market.
 - WMT stock saw a minimal decrease of 0.01% under DJIA trending list.
-- WMT stock is mentioned alongside other stocks like CHK, BABA, TSLA, and more in a Discord group, indicating it is being actively discussed and traded.",Positive,2022-10-26
+- WMT stock is mentioned alongside other stocks like CHK, BABA, TSLA, and more in a Discord group, indicating it is being actively discussed and traded.",Positive,2022-10-26,"SMA_5: 138.3
+EMA_5: 138.65
+MACD: 1.65
+MACD_SIGNAL: 0.54
+MACD_HIST: 1.1
+RSI: 86.81
+BB_UPPER: 140.25
+BB_LOWER: 126.61
+BB_MIDDLE: 133.43
+OBV: -116,472,700.0
+ADX: 14.14
+DMP: 32.25
+DMN: 16.44"
 WMT,"2022-10-28
 - Walmart's stock (WMT) was up 1.54%
 - The Walton Family Foundation (Builders Vision Fund) purchased $25 million worth of WMT shares
@@ -3075,7 +4659,19 @@ There were various stock trends discussed, including the performance of retail s
 The WorldMobile team mentioned plans to double the number of AirNodes in Zanzibar.
 Multiple tweets shared trading alerts and analysis for stocks like FB, WMT, AAPL, TSLA, AMD, and more.
 There were alerts for a profitable trading chatroom with stocks like SPY, AMZN, AAPL, AMD, and more.
-Numerous tweets promoted joining trading communities for stocks and options like NVDA, TSLA, AAPL, BABA, FB, and more.",Negative,2022-11-02
+Numerous tweets promoted joining trading communities for stocks and options like NVDA, TSLA, AAPL, BABA, FB, and more.",Negative,2022-11-02,"SMA_5: 141.6
+EMA_5: 141.09
+MACD: 2.49
+MACD_SIGNAL: 1.78
+MACD_HIST: 0.72
+RSI: 59.35
+BB_UPPER: 145.18
+BB_LOWER: 126.31
+BB_MIDDLE: 135.74
+OBV: -135,093,700.0
+ADX: 20.55
+DMP: 27.45
+DMN: 14.39"
 WMT,"2022-11-04
 - There is mention of a token called $WMT that is making strides in Africa and connecting it to the rest of the world.
 - A daily stock movement histogram for Walmart ($WMT) shows fluctuations in the stock price over the past three months.
@@ -3100,7 +4696,19 @@ The World Mobile Dev Diary for October was released, involving $WMT and Cardano.
 - Users shared their bullish sentiment on ADA, WMT, COTI, and CLAY.
 
 2022-11-08
-Walmart is set to report earnings before the markets open on Thursday, November 15th. The stock performed well, with a 0.53% increase in the trending retail category. Walmart will be hosting its third-quarter earnings conference call on November 15, 2022.",Negative,2022-11-09
+Walmart is set to report earnings before the markets open on Thursday, November 15th. The stock performed well, with a 0.53% increase in the trending retail category. Walmart will be hosting its third-quarter earnings conference call on November 15, 2022.",Negative,2022-11-09,"SMA_5: 141.28
+EMA_5: 141.09
+MACD: 2.2
+MACD_SIGNAL: 2.17
+MACD_HIST: 0.03
+RSI: 36.77
+BB_UPPER: 146.46
+BB_LOWER: 130.33
+BB_MIDDLE: 138.39
+OBV: -130,362,600.0
+ADX: 20.7
+DMP: 23.77
+DMN: 18.72"
 WMT,"2022-11-11
 The key facts regarding WMT stock from the provided tweets are:
 - Top analyst target price for the upcoming week is mentioned.
@@ -3147,7 +4755,19 @@ Overall, it seems that WMT is a stock of interest in the current market environm
 - The company also approved a new $20 billion share buyback program.
 - Walmart's same-store sales increased by 8.2% in the US, showing significant growth.
 - Walmart faced an inventory increase to $64.7 billion, but progress was made on reducing inventories.
-- Despite challenges, Walmart delivered a strong quarter and beat analyst expectations.",Positive,2022-11-16
+- Despite challenges, Walmart delivered a strong quarter and beat analyst expectations.",Positive,2022-11-16,"SMA_5: 143.85
+EMA_5: 144.8
+MACD: 2.63
+MACD_SIGNAL: 2.24
+MACD_HIST: 0.39
+RSI: 72.17
+BB_UPPER: 147.4
+BB_LOWER: 135.12
+BB_MIDDLE: 141.26
+OBV: -93,296,800.0
+ADX: 19.77
+DMP: 25.57
+DMN: 13.75"
 WMT,"2022-11-18
 Walmart's stock ticker symbol is WMT.
 Analysts at BMO Capital Markets increased Walmart's price target to $165.00.
@@ -3183,7 +4803,19 @@ A trading group was mentioned for assistance with trading various stocks, includ
 - There were bull forecasts indicating a slight intraday decline in Walmart stock.
 - Joining trading groups and communities can provide real-time alerts and updates on stocks like Walmart.
 - Traders were discussing how to make profits with Walmart stock.
-- There was a mention of traders making $4,500 a day with Walmart stock and inviting others to join trading chat rooms.",Positive,2022-11-23
+- There was a mention of traders making $4,500 a day with Walmart stock and inviting others to join trading chat rooms.",Positive,2022-11-23,"SMA_5: 150.7
+EMA_5: 150.56
+MACD: 3.91
+MACD_SIGNAL: 3.11
+MACD_HIST: 0.8
+RSI: 80.6
+BB_UPPER: 153.05
+BB_LOWER: 135.67
+BB_MIDDLE: 144.36
+OBV: -76,906,200.0
+ADX: 25.23
+DMP: 30.37
+DMN: 11.91"
 WMT,"2022-11-26
 - Walmart ($WMT) overtook Amazon ($AMZN) in shoppers' search for Black Friday bargains, according to CNBC.
 - There is a limited-time offer to join a trading chatroom for profitable trading alerts.
@@ -3229,7 +4861,19 @@ There was news about Albertsons competing with Walmart and Amazon, potentially i
 - Some tweets included recommendations and discussions about dividend investing in companies like Walmart.
 - A trading chatroom offered services related to trading alerts and analysis involving stocks like Walmart.
 - A live day-trading room was mentioned to provide access to live alerts and trade suggestions for stocks including Walmart.
-- There were discussions about trading, alerts, ideas, updates, and analysis related to various stocks, including Walmart.",Positive,2022-12-01
+- There were discussions about trading, alerts, ideas, updates, and analysis related to various stocks, including Walmart.",Positive,2022-12-01,"SMA_5: 153.07
+EMA_5: 152.72
+MACD: 4.05
+MACD_SIGNAL: 3.78
+MACD_HIST: 0.27
+RSI: 73.21
+BB_UPPER: 157.74
+BB_LOWER: 136.71
+BB_MIDDLE: 147.22
+OBV: -75,571,300.0
+ADX: 30.44
+DMP: 29.46
+DMN: 13.16"
 WMT,"2022-12-03
 - Walmart (WMT) had insider activity with Wal-Mart family member Rob Walton disposing of 1,992,000 shares of common stock at an average price of $136.66.
 - World Mobile (WMT) had a successful launch of AirNodes in San Diego, USA for testing.
@@ -3274,7 +4918,19 @@ WMT,"2022-12-03
 - CEOs of major companies like JPMorgan Chase, Goldman Sachs, Walmart, and Union Pacific shared concerns about a potential recession in 2023.
 - The token WMT was among the most-traded tokens in the Cardano ecosystem.
 - A trading community discussed potential trades involving Walmart stock.
-- Walmart's holiday promotions and merchandise were highlighted as part of Christmas celebrations.",Positive,2022-12-08
+- Walmart's holiday promotions and merchandise were highlighted as part of Christmas celebrations.",Positive,2022-12-08,"SMA_5: 150.53
+EMA_5: 150.11
+MACD: 2.59
+MACD_SIGNAL: 3.36
+MACD_HIST: -0.78
+RSI: 25.42
+BB_UPPER: 157.66
+BB_LOWER: 141.41
+BB_MIDDLE: 149.54
+OBV: -107,581,200.0
+ADX: 27.42
+DMP: 21.66
+DMN: 18.08"
 WMT,"2022-12-10
 - Analysts have set a top price target for WMT in the upcoming week.
 - There is anticipation for a potential significant move in WMT in the next few hours.
@@ -3322,7 +4978,19 @@ WMT stock experienced a decline, with rising thefts potentially leading to price
 - A chatroom was promoted for traders interested in trading Walmart stock and options.
 - A challenge to turn $100 into $10,000 was started with Walmart stock.
 - Positive sentiment and anticipation were expressed towards World Mobile's potential impact beyond just mobile networks.
-- Individual investors expressed interest in Walmart stock alongside discussions of various other stock options.",Negative,2022-12-15
+- Individual investors expressed interest in Walmart stock alongside discussions of various other stock options.",Negative,2022-12-15,"SMA_5: 146.57
+EMA_5: 146.85
+MACD: 0.8
+MACD_SIGNAL: 1.97
+MACD_HIST: -1.17
+RSI: 26.75
+BB_UPPER: 155.53
+BB_LOWER: 144.9
+BB_MIDDLE: 150.22
+OBV: -130,832,500.0
+ADX: 21.34
+DMP: 19.62
+DMN: 25.62"
 WMT,"2022-12-17
 - World Mobile Token (WMT) is a cryptocurrency token
 - There is a trading chat-room open to the public for $WMT
@@ -3373,7 +5041,19 @@ $WMT (Walmart) stock was included in a list of trending stocks in the DJIA.
 There were various predictions and analyses made regarding the price target of the stock for the upcoming week.
 There were mentions of successful AirNode installations in Zanzibar by a company related to the World Mobile Token ($WMT).
 There were also references to stock levels and analyst price targets for the stock.
-Overall, the tweets seemed to suggest potential volatility and movements in the stock price of $WMT.",Negative,2022-12-22
+Overall, the tweets seemed to suggest potential volatility and movements in the stock price of $WMT.",Negative,2022-12-22,"SMA_5: 143.65
+EMA_5: 144.27
+MACD: -0.52
+MACD_SIGNAL: 0.47
+MACD_HIST: -0.99
+RSI: 34.65
+BB_UPPER: 156.02
+BB_LOWER: 140.89
+BB_MIDDLE: 148.45
+OBV: -133,373,200.0
+ADX: 19.62
+DMP: 19.78
+DMN: 28.56"
 XOM,"2022-06-07
 Exxon Mobil (XOM) stock price prediction suggests it could reach $120, according to an analyst.
 Exxon Mobil stock (XOM) reached above $100, a level it hadn't seen since 2014.
@@ -3412,7 +5092,19 @@ Overall, ExxonMobil stock has been performing well and has been a topic of inter
 - The stock has seen significant attention on social media platforms like Fintwit.
 - Market conditions have led to high gas prices and a potential impact on CPI.
 - XOM stock performance was compared to other major companies like Apple, Microsoft, Google, Amazon, and Tesla.
-- XOM experienced an all-time high after breaking out of an ascending triangle pattern.",Negative,2022-06-10
+- XOM experienced an all-time high after breaking out of an ascending triangle pattern.",Negative,2022-06-10,"SMA_5: 101.92
+EMA_5: 101.29
+MACD: 3.7
+MACD_SIGNAL: 3.31
+MACD_HIST: 0.39
+RSI: 52.45
+BB_UPPER: 104.97
+BB_LOWER: 87.49
+BB_MIDDLE: 96.23
+OBV: 40,454,900.0
+ADX: 26.76
+DMP: 33.21
+DMN: 18.24"
 XOM,"2022-06-12
 Exxon (XOM) was removed from the Dow in August 2020, and Salesforce was added to the index.
 American upstream oil & gas stocks have seen YTD returns:
@@ -3473,7 +5165,19 @@ ExxonMobil's stock made it onto the Best Stocks list due to its Earning Momentum
 There were significant options trades in XOM, with a notable put option for a strike price of $90.00 expiring in July 2022. 
 American upstream oil and gas stocks like BP, COP, CVX, DNV, and MRO experienced varying levels of gains year to date (YTD). 
 ExxonMobil was highlighted as one of the most mentioned tickers on Wall Street Bets (WSB). 
-Stock performance for large companies like Apple, Microsoft, Google, Amazon, and Tesla was covered, with Apple experiencing a 4% decline.",Negative,2022-06-17
+Stock performance for large companies like Apple, Microsoft, Google, Amazon, and Tesla was covered, with Apple experiencing a 4% decline.",Negative,2022-06-17,"SMA_5: 92.87
+EMA_5: 92.22
+MACD: 0.61
+MACD_SIGNAL: 2.29
+MACD_HIST: -1.67
+RSI: 11.95
+BB_UPPER: 105.1
+BB_LOWER: 88.42
+BB_MIDDLE: 96.76
+OBV: -91,629,800.0
+ADX: 22.45
+DMP: 20.42
+DMN: 38.8"
 XOM,"2022-06-22
 - Exxon Mobil ($XOM) received a rating upgrade from Credit Suisse to Outperform from Neutral.
 - The energy sector, including Exxon Mobil, has been experiencing a decline, presenting potential short opportunities.
@@ -3512,7 +5216,19 @@ There are price targets and analyst recommendations for XOM.
 - ExxonMobil ($XOM) is being analyzed by top analysts for the upcoming week.
 - There is speculation about the possibility of the Biden Administration nationalizing ExxonMobil and Chevron.
 - ExxonMobil is facing short selling, with no shares being covered currently.
-- The net cash position of ExxonMobil was not explicitly mentioned in the provided tweets.",Positive,2022-06-27
+- The net cash position of ExxonMobil was not explicitly mentioned in the provided tweets.",Positive,2022-06-27,"SMA_5: 88.1
+EMA_5: 88.46
+MACD: -1.37
+MACD_SIGNAL: 0.15
+MACD_HIST: -1.52
+RSI: 45.26
+BB_UPPER: 106.57
+BB_LOWER: 83.69
+BB_MIDDLE: 95.13
+OBV: -69,045,000.0
+ADX: 25.47
+DMP: 17.86
+DMN: 32.9"
 XOM,"2022-06-30
 - Exxon Mobil (XOM) stock is up 41.7% year-to-date, outperforming other American upstream oil and gas stocks.
 - Analysts have been reviewing XOM along with other stocks like SPY, QQQ, AAPL, and TSLA, focusing on monthly charts.
@@ -3557,7 +5273,19 @@ Other companies mentioned for potential long-term investment include Sherwin-Wil
 - Exxon Mobil (XOM) stock was mentioned as a stock to watch this week.
 - There were top analyst price targets for XOM for the next week.
 - Exxon Mobil (XOM) had earnings reports scheduled before the markets opened.
-- There was a stimulus check value comparison involving XOM stock.",Negative,2022-07-05
+- There was a stimulus check value comparison involving XOM stock.",Negative,2022-07-05,"SMA_5: 87.52
+EMA_5: 86.79
+MACD: -1.99
+MACD_SIGNAL: -1.09
+MACD_HIST: -0.9
+RSI: 34.94
+BB_UPPER: 105.3
+BB_LOWER: 79.9
+BB_MIDDLE: 92.6
+OBV: -109,560,300.0
+ADX: 25.88
+DMP: 16.8
+DMN: 33.9"
 XOM,"2022-07-07
 Exxon Mobil Corp (XOM) stock is up 33.9% year-to-date.
 Exxon Mobil Corp delivered the first sustainable aviation fuel cargo to Changi.
@@ -3580,7 +5308,19 @@ There is anticipation for a potential upcoming move in XOM stock.
 - There is a new article discussing the top oil and gas stock currently, potentially related to XOM.
 - XOM is mentioned in a list of stocks related to EV cars and winners in the market.
 - XOM is listed as one of the potential investments with a $1400 stimulus check.
-- There is no specific information provided about XOM stock performance or financials in these tweets.",Negative,2022-07-12
+- There is no specific information provided about XOM stock performance or financials in these tweets.",Negative,2022-07-12,"SMA_5: 85.09
+EMA_5: 85.35
+MACD: -2.25
+MACD_SIGNAL: -1.87
+MACD_HIST: -0.39
+RSI: 37.54
+BB_UPPER: 95.94
+BB_LOWER: 80.84
+BB_MIDDLE: 88.39
+OBV: -138,061,600.0
+ADX: 27.78
+DMP: 16.01
+DMN: 32.52"
 XOM,"2022-07-14
 XOM stock (Exxon Mobil Corporation) had a nice print with a size of 2076026 shares traded at a price of $83.14, totaling $172,600,801.64.
 The stock was part of the $1400 Stimmy Check (#3) list, with a value of $2,030.77.
@@ -3600,7 +5340,19 @@ The stock was part of the $1400 Stimmy Check (#3) list, with a value of $2,030.7
 Top flows in the S&P 500 include companies such as Tesla ($TSLA), Booking Holdings ($BKNG), Disney ($DIS), Amazon ($AMZN), and Exxon Mobil ($XOM).
 Dividend Aristocrats with the highest yields include Walgreens Boots Alliance ($WBA), Franklin Resources ($BEN), and International Business Machines ($IBM).
 Exxon Mobil ($XOM) and Chevron ($CVX) are mentioned for their disciplined approach in a high WTI environment.
-Exxon Mobil ($XOM) is listed as one of the potential investments with a $1400 stimulus check.",Positive,2022-07-19
+Exxon Mobil ($XOM) is listed as one of the potential investments with a $1400 stimulus check.",Positive,2022-07-19,"SMA_5: 85.38
+EMA_5: 86.12
+MACD: -1.72
+MACD_SIGNAL: -2.0
+MACD_HIST: 0.28
+RSI: 68.61
+BB_UPPER: 91.08
+BB_LOWER: 81.96
+BB_MIDDLE: 86.52
+OBV: -89,587,600.0
+ADX: 25.49
+DMP: 23.8
+DMN: 28.07"
 XOM,"2022-07-22
 XOM (Exxon Mobil Corporation) stock has seen significant growth year-to-date, up 41.1%.
 Analysts have a positive price target for XOM for the upcoming week.
@@ -3632,7 +5384,19 @@ Analyst price targets for XOM stock were highlighted.
 There were warnings about potential oil price drops affecting XOM stock and other big oil companies.
 Legislators were reported to be buying XOM stock, along with other select stocks.
 The coming week was highlighted for notable earnings reports, including XOM, with other companies like MSFT, KO, and GM scheduled to report.
-Overall, there was a mix of alerts, price targets, market updates, and expectations related to XOM stock in the tweets shared.",Negative,2022-07-26
+Overall, there was a mix of alerts, price targets, market updates, and expectations related to XOM stock in the tweets shared.",Negative,2022-07-26,"SMA_5: 88.74
+EMA_5: 88.66
+MACD: -0.49
+MACD_SIGNAL: -1.23
+MACD_HIST: 0.75
+RSI: 65.62
+BB_UPPER: 91.15
+BB_LOWER: 82.21
+BB_MIDDLE: 86.68
+OBV: -107,463,200.0
+ADX: 19.26
+DMP: 26.8
+DMN: 24.32"
 XOM,"2022-07-28
 - Exxon Mobil (XOM) is one of the top earnings reports to watch on Friday morning.
 - Exxon Mobil is part of the list of companies reporting earnings, along with Chevron (CVX), Procter & Gamble (PG), and others.
@@ -3674,7 +5438,19 @@ Exxon Mobil's record profits were mentioned in comparison to other oil companies
 - Exxon Mobil (XOM) reported mixed earnings
 - Chevron (CVX) saw its biggest quarterly earnings ever
 - Exxon and Chevron both announced dividends of $0.88 per share and $1.42 per share, respectively
-- Exxon is expected to announce a dividend increase in December, while Chevron is likely to do so in March",Negative,2022-08-02
+- Exxon is expected to announce a dividend increase in December, while Chevron is likely to do so in March",Negative,2022-08-02,"SMA_5: 93.94
+EMA_5: 93.57
+MACD: 1.29
+MACD_SIGNAL: 0.15
+MACD_HIST: 1.14
+RSI: 63.9
+BB_UPPER: 96.0
+BB_LOWER: 80.57
+BB_MIDDLE: 88.28
+OBV: -76,753,000.0
+ADX: 19.56
+DMP: 30.97
+DMN: 19.01"
 XOM,"2022-08-04
 Exxon (XOM) and Chevron (CVX) are considered value plays in the energy sector by SGI_AM's CEO, David Harden.
 A top analyst has a price target for XOM for the next week.
@@ -3701,7 +5477,19 @@ There is a reference to China and a list of various other stocks, including Appl
 2022-08-07
 - $XOM (Exxon Mobil) was mentioned in the list of stocks with potential price movement according to a top analyst.
 - There was a mention of shorting oil with $XOM and $USO, which has been successful.
-- There is anticipation of a potential increase in oil prices due to gas shortages overseas for the winter.",Positive,2022-08-09
+- There is anticipation of a potential increase in oil prices due to gas shortages overseas for the winter.",Positive,2022-08-09,"SMA_5: 89.24
+EMA_5: 89.99
+MACD: 0.39
+MACD_SIGNAL: 0.43
+MACD_HIST: -0.04
+RSI: 52.41
+BB_UPPER: 96.16
+BB_LOWER: 82.49
+BB_MIDDLE: 89.32
+OBV: -81,205,400.0
+ADX: 16.03
+DMP: 26.11
+DMN: 26.79"
 XOM,"2022-08-11
 ExxonMobil (XOM) stock is set for a potential run up, as indicated by market analysis.
 Big Oil companies like ExxonMobil may benefit from a new climate bill's expansion of tax credits, while smaller firms brace for fees and taxes.
@@ -3735,7 +5523,19 @@ There are strong ETFs focused on dividends to consider, such as SCHD (Schwab US 
 - A stock chart signal was awaiting a short signal based on 12 signals on the 15-minute chart.
 - Exxon Mobil was listed as one of the most active stocks in pre-market trading.
 
-There was no specific financial data or earnings reports mentioned in the provided tweets.",Negative,2022-08-16
+There was no specific financial data or earnings reports mentioned in the provided tweets.",Negative,2022-08-16,"SMA_5: 92.48
+EMA_5: 92.0
+MACD: 0.81
+MACD_SIGNAL: 0.66
+MACD_HIST: 0.15
+RSI: 47.81
+BB_UPPER: 96.25
+BB_LOWER: 85.95
+BB_MIDDLE: 91.1
+OBV: -63,840,700.0
+ADX: 12.75
+DMP: 24.09
+DMN: 26.21"
 XOM,"2022-08-18
 Exxon Mobil (XOM) stock is being mentioned in multiple tweets, with the stock price listed at $94.38 on August 18, 2022. There is a 0.00% return currently associated with this stock. There is also a mention of crude oil demand being at its highest in 2022, the factors that may favor being long on crude oil, and China starting to reopen again.
 
@@ -3765,7 +5565,19 @@ The top price target for XOM stock is being monitored for next week.
 - There is trading analysis and alerts related to XOM stock, along with other stocks like Occidental Petroleum (OXY), Delta Air Lines (DAL), and JPMorgan Chase (JPM).
 - XOM's current status on the EPSMomentum platform is shared, indicating its opening price and return.
 - Analysis and updates on various stocks, including Facebook (FB), American Airlines (AAL), AMD, and Gold (GLD), are provided alongside XOM.
-- Saudi Arabia's oil minister's comments on oil prices being disconnected from fundamentals are highlighted.",Positive,2022-08-23
+- Saudi Arabia's oil minister's comments on oil prices being disconnected from fundamentals are highlighted.",Positive,2022-08-23,"SMA_5: 94.53
+EMA_5: 95.0
+MACD: 1.47
+MACD_SIGNAL: 0.99
+MACD_HIST: 0.48
+RSI: 81.99
+BB_UPPER: 97.72
+BB_LOWER: 87.38
+BB_MIDDLE: 92.55
+OBV: -40,776,100.0
+ADX: 11.03
+DMP: 30.6
+DMN: 23.43"
 XOM,"2022-08-25
 - Exxon Mobil (XOM) stock saw a large transaction with a size of 184,815 shares at a price of $98.67, totaling $18,235,696.05.
 - Top analysts provided a price target for XOM for the following week.
@@ -3797,7 +5609,19 @@ There were also mentions of trading alerts and analysis related to XOM stock in 
 - There were low float momentum alerts for XOM, with price increases of 1%, 2%, and 3% noted.
 - Bull forecasts for XOM indicated a positive intraday change of 2.80%.
 - Other companies mentioned alongside XOM in these tweets include Apple (AAPL), Nvidia (NVDA), Chevron (CVX), Marathon Oil (MRO), Schlumberger (SLB), Royal Dutch Shell (RH), and Humana (HUM).
-- There were discussions about dividend champions, Berkshire Hathaway potentially selling its shares in Occidental Petroleum (OXY), and the potential impact of China's economic challenges on various stocks.",Negative,2022-08-30
+- There were discussions about dividend champions, Berkshire Hathaway potentially selling its shares in Occidental Petroleum (OXY), and the potential impact of China's economic challenges on various stocks.",Negative,2022-08-30,"SMA_5: 98.39
+EMA_5: 97.64
+MACD: 2.17
+MACD_SIGNAL: 1.76
+MACD_HIST: 0.42
+RSI: 46.66
+BB_UPPER: 100.89
+BB_LOWER: 86.43
+BB_MIDDLE: 93.66
+OBV: -17,979,100.0
+ADX: 12.56
+DMP: 27.75
+DMN: 23.39"
 XOM,"2022-09-02
 Top analyst price target for $XOM stock for next week is indicated to be $1,200.
 Russia has suspended the Nord Stream pipeline to Europe indefinitely, impacting stocks like $XLE and $XOM.
@@ -3831,7 +5655,19 @@ Overall, the sentiment around XOM stock seemed positive and there was anticipati
 - There are CALL/PUT ratios for energy plays, with $XOM being put-dominated.
 - The stock saw a 700% increase in trading volume, making it one of the top trending stocks on Reddit.
 - Shell and Exxon have launched the sale of a major Dutch gas venture, NAM, in hopes of raising over $1 billion.
-- Two years ago, Salesforce ($CRM) replaced Exxon Mobil Corporation ($XOM) in the Dow.",Negative,2022-09-07
+- Two years ago, Salesforce ($CRM) replaced Exxon Mobil Corporation ($XOM) in the Dow.",Negative,2022-09-07,"SMA_5: 94.83
+EMA_5: 95.06
+MACD: 1.12
+MACD_SIGNAL: 1.54
+MACD_HIST: -0.41
+RSI: 38.04
+BB_UPPER: 100.04
+BB_LOWER: 90.08
+BB_MIDDLE: 95.06
+OBV: -70,012,400.0
+ADX: 10.43
+DMP: 23.04
+DMN: 29.91"
 XOM,"2022-09-09
 Key facts regarding XOM stock:
 - Exxon Mobil Corporation (XOM) is set for a potential run up
@@ -3872,7 +5708,19 @@ These tweets suggest that XOM stock may be a favorable investment option for som
 - Top analyst price targets for XOM were mentioned.
 - A mention of people buying the dip and hoarding shares of XOM.
 - Stimulus check amounts were linked to cryptocurrency prices, including XOM.
-- Overall, the sentiment towards XOM in the tweets seemed to be mixed with mentions of both positive and negative aspects of the stock.",Positive,2022-09-14
+- Overall, the sentiment towards XOM in the tweets seemed to be mixed with mentions of both positive and negative aspects of the stock.",Positive,2022-09-14,"SMA_5: 96.4
+EMA_5: 96.5
+MACD: 1.08
+MACD_SIGNAL: 1.21
+MACD_HIST: -0.13
+RSI: 61.16
+BB_UPPER: 100.09
+BB_LOWER: 91.99
+BB_MIDDLE: 96.04
+OBV: -13,549,700.0
+ADX: 8.57
+DMP: 28.14
+DMN: 26.04"
 XOM,"2022-09-16
 Exxon Mobil Corporation (XOM) stock had a trade alert for a profitable put option on 9/16/22. 
 There was a significant increase in put-dominated option trading volume for XOM.
@@ -3911,7 +5759,19 @@ There was discussion about layoffs at ExxonMobil and changes within the company.
 There were alerts about potential pump and dump schemes, as well as new offerings and redemptions in the energy sector.
 Oil demand was mentioned to be decreasing, with implications for related stocks like XOM.
 There were warnings about a potential ETF flash crash and suggestions to sell or short various stocks, including XOM.
-Overall, there was a mix of positive and negative sentiment regarding XOM stock in the tweets provided.",Negative,2022-09-21
+Overall, there was a mix of positive and negative sentiment regarding XOM stock in the tweets provided.",Negative,2022-09-21,"SMA_5: 92.93
+EMA_5: 92.82
+MACD: -0.15
+MACD_SIGNAL: 0.58
+MACD_HIST: -0.73
+RSI: 24.22
+BB_UPPER: 100.24
+BB_LOWER: 91.03
+BB_MIDDLE: 95.64
+OBV: -119,903,700.0
+ADX: 10.43
+DMP: 21.91
+DMN: 28.48"
 XOM,"2022-09-23
 $XOM stock experienced a bearish formation and a confirmed downtrend, in line with the oil market.
 Top analyst price targets for $XOM were discussed.
@@ -3947,7 +5807,19 @@ Top analysts provided price targets for XOM stock for the next week.
 There were alerts and updates on XOM stock movements, with discussions on Discord and other trading platforms.
 Call/put ratios for energy plays like XOM showed call dominance, while some ETF exposure rankings included XOM as a top stock.
 Investors were buying the dip in XOM stock, with hoarding of shares reported.
-Overall, there was general market volatility and trading activity surrounding XOM stock.",Positive,2022-09-28
+Overall, there was general market volatility and trading activity surrounding XOM stock.",Positive,2022-09-28,"SMA_5: 86.98
+EMA_5: 87.77
+MACD: -1.89
+MACD_SIGNAL: -0.84
+MACD_HIST: -1.05
+RSI: 48.22
+BB_UPPER: 100.54
+BB_LOWER: 85.03
+BB_MIDDLE: 92.78
+OBV: -148,974,700.0
+ADX: 16.06
+DMP: 21.54
+DMN: 32.1"
 XOM,"2022-09-30
 Exxon Mobil (XOM) overtook Meta's market value for the first time in 5 years.
 Exxon Mobil (XOM) faced a decline in revenue, with its Q2 earnings showing a 13% decrease.
@@ -3984,7 +5856,19 @@ There were alerts and recommendations given for trading XOM, as well as other st
 XOM had experienced a 9.30% intraday change, and its performance was being closely watched by traders.
 
 2022-10-04
-Exxon Mobil ($XOM) signals strong Q3 earnings but is shy of a record. Their operating results could drop to about $11 billion before earnings are announced. The stock price of XOM has the potential for a breakout as oil prices are projected to rise.",Positive,2022-10-05
+Exxon Mobil ($XOM) signals strong Q3 earnings but is shy of a record. Their operating results could drop to about $11 billion before earnings are announced. The stock price of XOM has the potential for a breakout as oil prices are projected to rise.",Positive,2022-10-05,"SMA_5: 92.46
+EMA_5: 93.85
+MACD: -0.28
+MACD_SIGNAL: -1.04
+MACD_HIST: 0.77
+RSI: 81.33
+BB_UPPER: 100.72
+BB_LOWER: 83.66
+BB_MIDDLE: 92.19
+OBV: -107,355,600.0
+ADX: 16.14
+DMP: 37.57
+DMN: 20.89"
 XOM,"2022-10-07
 - Exxon Mobil Corporation (XOM) stock was at an all-time high, facing a triple top.
 - Banks and analysts forecasted a potential increase in oil prices, suggesting upside potential for oil stocks like XOM.
@@ -4020,7 +5904,19 @@ Exxon Mobil (XOM) is considering acquiring Denbury (DEN) according to Bloomberg.
 There was a significant buy trade for $XOM with a size of 2026166 shares at a price of $98, totaling $198,564,268.
 There were alerts and updates regarding XOM stock price targets and analysis for the upcoming week.
 There were also discussions on layoffs and cost-cutting measures within Exxon Mobil.
-There was a general positive sentiment and buying activity surrounding XOM stock, with many investors buying the dip.",Positive,2022-10-12
+There was a general positive sentiment and buying activity surrounding XOM stock, with many investors buying the dip.",Positive,2022-10-12,"SMA_5: 99.67
+EMA_5: 98.29
+MACD: 1.58
+MACD_SIGNAL: 0.54
+MACD_HIST: 1.04
+RSI: 60.58
+BB_UPPER: 103.47
+BB_LOWER: 82.54
+BB_MIDDLE: 93.01
+OBV: -124,692,900.0
+ADX: 19.6
+DMP: 32.37
+DMN: 21.9"
 XOM,"2022-10-14
 - Exxon Mobil (XOM) stock is being analyzed and recommended by various traders and analysts.
 - There is anticipation of a potential run-up in XOM stock.
@@ -4061,7 +5957,19 @@ $XOM saw a confirmed double top on the daily chart.
 NJ attorney general filed a suit accusing $XOM and other oil companies of misleading the public about their products.
 Top analysts have set price targets for $XOM for the next week.
 $XOM had to say goodbye to Russia after Putin seized the oil project.
-There is a Discord group for stock traders discussing updates, analysis, and chat related to companies like $XOM.",Positive,2022-10-19
+There is a Discord group for stock traders discussing updates, analysis, and chat related to companies like $XOM.",Positive,2022-10-19,"SMA_5: 101.25
+EMA_5: 101.35
+MACD: 2.42
+MACD_SIGNAL: 1.63
+MACD_HIST: 0.8
+RSI: 74.21
+BB_UPPER: 107.78
+BB_LOWER: 82.41
+BB_MIDDLE: 95.09
+OBV: -68,625,500.0
+ADX: 22.37
+DMP: 31.2
+DMN: 17.26"
 XOM,"2022-10-21
 Exxon Mobil (XOM) shares hit a new all-time high at $106.16, surpassing the previous record.
 There is optimism for a potential run-up in XOM stock.
@@ -4109,7 +6017,19 @@ There is information about earnings for the week that includes companies like $X
 
 There has been a mention of ExxonMobil facing challenges, potentially related to layoffs, job cuts, and collapsing in some form.
 
-Overall, the tweets provide a mix of information regarding ExxonMobil's stock performance, analysis, and potential challenges it might be facing.",Positive,2022-10-26
+Overall, the tweets provide a mix of information regarding ExxonMobil's stock performance, analysis, and potential challenges it might be facing.",Positive,2022-10-26,"SMA_5: 105.88
+EMA_5: 105.68
+MACD: 3.4
+MACD_SIGNAL: 2.65
+MACD_HIST: 0.75
+RSI: 78.64
+BB_UPPER: 110.67
+BB_LOWER: 88.97
+BB_MIDDLE: 99.82
+OBV: -9,474,200.0
+ADX: 27.42
+DMP: 32.53
+DMN: 13.32"
 XOM,"2022-10-28
 Exxon Mobil (XOM) reported record-breaking profits in Q3 2022, with earnings of $4.45 per share, beating estimates of $3.89 per share. Their revenue was $112.07 billion, also surpassing expectations.
 Exxon Mobil announced a 3.40% increase in their quarterly dividend to $0.91 per share, marking their 40th consecutive year of annual dividend growth.
@@ -4155,7 +6075,19 @@ Top analysts have provided varying price targets for Exxon Mobil stock, with som
 
 Exxon Mobil reported massive profits, despite potential risks related to Biden's proposed windfall tax penalties on oil companies.
 
-There has been a notable increase in the number of stock options trading for energy sector companies like Exxon Mobil, indicating heightened interest and activity in the sector.",Negative,2022-11-02
+There has been a notable increase in the number of stock options trading for energy sector companies like Exxon Mobil, indicating heightened interest and activity in the sector.",Negative,2022-11-02,"SMA_5: 110.12
+EMA_5: 109.75
+MACD: 4.11
+MACD_SIGNAL: 3.55
+MACD_HIST: 0.56
+RSI: 61.55
+BB_UPPER: 112.9
+BB_LOWER: 95.56
+BB_MIDDLE: 104.23
+OBV: 64,869,900.0
+ADX: 34.74
+DMP: 32.7
+DMN: 12.57"
 XOM,"2022-11-04
 The provided tweets contain information about stock trading alerts and analyst price targets for ExxonMobil (XOM). Other tweets mention ExxonMobil's stock hitting a new historic high, as well as its inclusion in a list of buy and hold dividend stocks. There is also mention of ExxonMobil layoffs and news relating to the company.
 
@@ -4199,7 +6131,19 @@ There is a chatroom available for trading discussions, with mentioned stock symb
 
 ExxonMobil, McDonald's, Lockheed Martin, and Merck hit new 52-week highs, with XOM being one of the stocks mentioned. 
 
-Overall, these tweets provide insights into the potential performance and predictions for ExxonMobil's stock XOM in the market.",Negative,2022-11-09
+Overall, these tweets provide insights into the potential performance and predictions for ExxonMobil's stock XOM in the market.",Negative,2022-11-09,"SMA_5: 111.99
+EMA_5: 111.33
+MACD: 3.93
+MACD_SIGNAL: 3.96
+MACD_HIST: -0.02
+RSI: 38.86
+BB_UPPER: 116.12
+BB_LOWER: 98.5
+BB_MIDDLE: 107.31
+OBV: 110,661,300.0
+ADX: 35.24
+DMP: 27.63
+DMN: 19.95"
 XOM,"2022-11-11
 ExxonMobil's stock ($XOM) had various price targets set by analysts for the upcoming week.
 A senator bought up to $100,000 in Exxon Mobil stock.
@@ -4246,7 +6190,19 @@ Some traders have reported making profits from trading ExxonMobil stock.
 ExxonMobil may be set for a run up, according to some analysis.
 There are concerns about layoffs and job cuts at ExxonMobil, potentially related to economic factors.
 Various price levels and potential moves for ExxonMobil stock have been discussed and shared in advance.
-Members of trading groups and communities have shared positive feedback about their experiences with analysis and support for trading ExxonMobil stock.",Negative,2022-11-16
+Members of trading groups and communities have shared positive feedback about their experiences with analysis and support for trading ExxonMobil stock.",Negative,2022-11-16,"SMA_5: 112.97
+EMA_5: 112.99
+MACD: 3.51
+MACD_SIGNAL: 3.75
+MACD_HIST: -0.23
+RSI: 54.6
+BB_UPPER: 116.41
+BB_LOWER: 104.07
+BB_MIDDLE: 110.24
+OBV: 136,251,400.0
+ADX: 31.11
+DMP: 27.72
+DMN: 18.68"
 XOM,"2022-11-18
 - ExxonMobil ($XOM) stock is mentioned in several tweets alongside other stocks like $AAPL, $T, $MSFT, $SPY, $FB, $CHWY, $PTON, $DIS, $F, $ADBE, $CSCO, $JPM, $CCL, $MGM, $IWM, $HD, $V, $TWTR, $AMD, $ZI, $BA, and $DOW.
 - A chart is referenced that highlights important levels for Energy stocks like $XOM, $XLE, $COP, $CVX.
@@ -4283,7 +6239,19 @@ XOM was mentioned in the r/WallStreetBets daily discussion, indicating interest 
 Analysts provided price targets for XOM for the next week.
 There were successful trades on XOM options, with some missing opportunities based on technical indicators.
 $XOM was listed in the IBD50 ranking.
-Overall, XOM stock faced uncertainty and potential downside pressure due to various factors mentioned in the tweets.",Negative,2022-11-23
+Overall, XOM stock faced uncertainty and potential downside pressure due to various factors mentioned in the tweets.",Negative,2022-11-23,"SMA_5: 112.78
+EMA_5: 113.08
+MACD: 2.71
+MACD_SIGNAL: 3.18
+MACD_HIST: -0.46
+RSI: 57.76
+BB_UPPER: 115.67
+BB_LOWER: 108.26
+BB_MIDDLE: 111.96
+OBV: 118,461,700.0
+ADX: 24.22
+DMP: 25.76
+DMN: 21.05"
 XOM,"2022-11-26
 - ExxonMobil (XOM) stock is being discussed in the context of trading chatrooms and analyst price targets.
 - Levels for XOM were posted ahead of time before the market opened.
@@ -4320,7 +6288,19 @@ There was information about potential layoffs at Exxon Mobil in 2023.
 2022-11-30
 ExxonMobil, represented by the stock ticker XOM, experienced layoffs in 2023 according to a tweet. The stock was mentioned in relation to call and put ratios, suggesting trading activity in the energy sector.
 There were also mentions of a trading chat-room opening to the public for a limited time to discuss stock movements, as well as forecasts and trade recommendations for various stocks including XOM.
-Additionally, a tweet highlighted that a significant amount of money could be made through trading Amazon stock, potentially indicating trading opportunities in other stocks like XOM.",Negative,2022-12-01
+Additionally, a tweet highlighted that a significant amount of money could be made through trading Amazon stock, potentially indicating trading opportunities in other stocks like XOM.",Negative,2022-12-01,"SMA_5: 111.14
+EMA_5: 111.24
+MACD: 1.5
+MACD_SIGNAL: 2.29
+MACD_HIST: -0.79
+RSI: 41.59
+BB_UPPER: 115.36
+BB_LOWER: 109.08
+BB_MIDDLE: 112.22
+OBV: 111,523,200.0
+ADX: 18.32
+DMP: 22.01
+DMN: 22.96"
 XOM,"2022-12-03
 - Exxon Mobil (XOM) stock was mentioned by multiple users, with one highlighting a top analyst price target for the upcoming week.
 - Another user mentioned making $1,400 trading XOM in the first hour of market open.
@@ -4377,7 +6357,19 @@ Overall, $XOM stock has been the subject of various trading activities, price ta
 - A Discord trading chatroom is promoted for free access, with mentions of various stocks including XOM.
 - Details about salary increments at ExxonMobil in Singapore are mentioned.
 - There are references to pre-market level predictions for XOM and successful trading plays on other stocks like Amazon.
-- An offer for live day trading analysis, mentoring, and news coverage is promoted, mentioning stocks like XOM among others.",Positive,2022-12-08
+- An offer for live day trading analysis, mentoring, and news coverage is promoted, mentioning stocks like XOM among others.",Positive,2022-12-08,"SMA_5: 105.73
+EMA_5: 105.67
+MACD: -0.61
+MACD_SIGNAL: 0.79
+MACD_HIST: -1.4
+RSI: 23.39
+BB_UPPER: 117.31
+BB_LOWER: 104.0
+BB_MIDDLE: 110.66
+OBV: 56,857,200.0
+ADX: 20.62
+DMP: 18.74
+DMN: 30.26"
 XOM,"2022-12-10
 Exxon Mobil (XOM) expanded its share buyback program up to $50 billion through 2024.
 There were layoffs at Exxon Mobil (XOM) as part of cost-cutting measures.
@@ -4428,7 +6420,19 @@ A trading chatroom on Discord provided updates and analysis on various stocks, i
 There was speculation about potential runs or reversals in XOM stock.
 ExxonMobil was referenced in relation to layoffs and job cuts.
 One tweet mentioned a list of favorite oil and gas stocks, which may include XOM.
-A trading challenge from $100 to $10,000 was initiated involving XOM stock.",Negative,2022-12-15
+A trading challenge from $100 to $10,000 was initiated involving XOM stock.",Negative,2022-12-15,"SMA_5: 105.76
+EMA_5: 105.9
+MACD: -0.93
+MACD_SIGNAL: -0.35
+MACD_HIST: -0.58
+RSI: 40.95
+BB_UPPER: 115.9
+BB_LOWER: 101.8
+BB_MIDDLE: 108.85
+OBV: 47,315,100.0
+ADX: 20.04
+DMP: 18.95
+DMN: 30.49"
 XOM,"2022-12-17
 - XOM stock is being traded on the US stock market.
 - The stock has shown significant growth potential, with some traders turning $2 into $10 and $2000 into $10,000.
@@ -4469,4 +6473,16 @@ The market caps of Tesla and Exxon had a large gap that significantly decreased 
 - One tweet compared Tesla's market capitalization to ExxonMobil's, highlighting the changing dynamics in the energy sector.
 - There were also mentions of significant profits made on trading Tesla stock.
 - Some tweets included alerts for trading opportunities and discussions about market outlook and analysis.
-- Discord chatrooms were promoted for stock trading discussions and analysis, with various stocks, including XOM, being mentioned throughout the tweets.",Negative,2022-12-22
+- Discord chatrooms were promoted for stock trading discussions and analysis, with various stocks, including XOM, being mentioned throughout the tweets.",Negative,2022-12-22,"SMA_5: 106.1
+EMA_5: 106.34
+MACD: -0.75
+MACD_SIGNAL: -0.7
+MACD_HIST: -0.05
+RSI: 46.02
+BB_UPPER: 112.73
+BB_LOWER: 101.63
+BB_MIDDLE: 107.18
+OBV: 21,362,000.0
+ADX: 19.05
+DMP: 20.24
+DMN: 30.64"
