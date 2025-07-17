@@ -17,7 +17,7 @@ load_dotenv()
 # Lấy API Key từ biến môi trường
 api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
-print("api_key: ", api_key)
+# print("api_key: ", api_key)
 
 
 #===========================================================================================================
@@ -34,8 +34,6 @@ class DeepSeekLLM:
         # Cắt từ vị trí của </think>
         if "</think>" in content:
             content = content.split("</think>", 1)[-1].strip()
-        if "<think>" in content:
-            content = content.split("<think>", 1)[-1].strip()
         
         return content
     
@@ -104,3 +102,23 @@ class NShotLLM:
         output_ids = output_ids[scores.topk(1).indices[0]][len(query[0]):]
         response = self.tokenizer.decode(output_ids, skip_special_tokens=True)
         return response
+
+
+class EXPLAINATION_LLM:
+    def __init__(self, model, tokenizer):
+        self.model = model
+        self.tokenizer = tokenizer
+
+    def __call__(self, prompt: str) -> str:
+        device = next(self.model.parameters()).device  # Sửa tại đây
+        inputs = self.tokenizer(prompt, return_tensors="pt").to(device)
+
+        outputs = self.model.generate(
+            **inputs,
+            max_new_tokens=256,
+            do_sample=True,
+            top_p=0.9,
+            temperature=0.7,
+            pad_token_id=self.tokenizer.eos_token_id,
+        )
+        return self.tokenizer.decode(outputs[0], skip_special_tokens=True)[len(prompt):].strip()

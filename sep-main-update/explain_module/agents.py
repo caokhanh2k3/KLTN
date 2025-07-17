@@ -36,6 +36,7 @@ class PredictAgent:
 
         self.scratchpad += self.prompt_agent()
         response = self.scratchpad.split('Price Movement: ')[-1]
+        self.prediction = response.split()[0]
         if (self.prediction.lower() not in ['positive', 'negative']):
             for word in response.split('Explanation')[0].split():
                 word_lower = word.lower()
@@ -46,7 +47,6 @@ class PredictAgent:
                     self.prediction = 'Negative'
                     break
 
-        self.prediction = response.split()[0]
         print(response, end="\n\n\n\n")
 
         self.finished = True

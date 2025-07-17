@@ -9,13 +9,13 @@ Tweets:
 Facts:"""
 
 
-PREDICT_INSTRUCTION = """Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of {ticker} stock.
+PREDICT_INSTRUCTION = """You are given a list of chronological facts spanning multiple days about {ticker} and a set of technical indicators. Your task is to assess the overall impact of these facts and technical indicators on the stock price and provide:
 
-Provide your response in this format:
+(1) One price Movement: either Positive or Negative no other responses are allowed.  
+(2) One explanation: a short, single-paragraph justification summarizing the main reasons behind your prediction.
 
-Price Movement, which should be either Positive or Negative.
-Explanation, which should be in a single, short paragraph, combining insights from both fundamental news and technical indicators.
-Here are some examples:
+Do not output anything other than these two parts.
+Here is a examples, the contents of the example are not used to deduce the answer:
 {examples}
 (END OF EXAMPLES)
 
@@ -28,10 +28,13 @@ Technical Indicators:
 Price Movement:"""
 
 
-PREDICT_REFLECT_INSTRUCTION = """Given a list of facts and a set of technical indicators, estimate their overall impact on the price movement of {ticker} stock. Give your response in this format:
-(1) Price Movement, which should be either Positive or Negative.
-(2) Explanation, which should be in a single, short paragraph.
-Here are some examples:
+PREDICT_REFLECT_INSTRUCTION = """You are given a list of chronological facts spanning multiple days about {ticker} and a set of technical indicators. Your task is to assess the overall impact of these facts and technical indicators on the stock price and provide:
+
+(1) One price Movement: either Positive or Negative no other responses are allowed.  
+(2) One explanation: a short, single-paragraph justification summarizing the main reasons behind your prediction.
+
+Do not output anything other than these two parts.
+Here is a examples, the contents of the example are not used to deduce the answer:
 {examples}
 (END OF EXAMPLES)
 
