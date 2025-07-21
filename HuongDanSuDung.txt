@@ -36,8 +36,8 @@ Hướng Dẫn Cài Đặt Các Công Cụ Hỗ Trợ cho Chương Trình:
 - Cài Ollama để dùng DeepSeek-r1-14B: 
     1. Truy cập https://ollama.com/download/linux
     2. Cài đặt: Linux: "curl -fsSL https://ollama.com/install.sh | sh". Windows: "https://ollama.com/download/OllamaSetup.exe"
-    3. Tải DeepSeek-r1 14B về: ollama pull deepseek-r1:14b
-    4. Sau khi tải xong, có thể kiểm tra bằng: ollama run deepseek-r1:14b
+    3. Tải DeepSeek-r1 14B về: "ollama pull deepseek-r1:14b"
+    4. Sau khi tải xong, có thể kiểm tra bằng: "ollama run deepseek-r1:14b"
 
 
 Chạy Chương trình:
@@ -84,7 +84,7 @@ Các file khác thư mục với nhau cũng có thể chạy không theo trình 
               (sử dụng 2 file json '..merge..'  ở thư mục data và '..comparison..' để huấn luyện. Kết quả được trả ra ở 1 file csv)
                 
                 - SEP_P_ablation_technical_indicator.ipynb 
-                  (file này chạy sau do tận dụng lại các model đã được huấn luyện ở SEP và SEP_P đã lưu lại saved_models)
+                  (file này chạy sau do tận dụng lại các model đã được huấn luyện ở SEP_technical_indicator và SEP_P_technical_indicator đã lưu lại saved_models)
 
             - Policy_technical_indicator.ipynb
               (huấn luyện model theo bài báo Policy-to-language)
