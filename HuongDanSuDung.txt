@@ -1,0 +1,95 @@
+Yêu Cầu:
+    - Thiết bị: có GPU RAM > 24G
+    - Hệ Điều Hành: LINUX hoặc WinDows
+    - Ngôn ngữ: python > 3.12.9
+    - Thư Viện Yêu Cầu:
+        # !pip install torch==2.5.0
+        # !pip install numpy==1.26.4
+        # !pip install openai==1.79.0
+        # !pip install tenacity==9.1.2
+        # !pip install tiktoken==0.9.0
+        # !pip install transformers==4.51.3
+        # !pip install pandas==2.2.3
+        # !pip install scikit-learn==1.6.1
+        # !pip install bitsandbytes==0.45.5
+        # !pip install datasets==3.6.0
+        # !pip install sentencepiece==0.2.0
+        # !pip install peft==0.15.2
+        # !pip install evaluate==0.4.3
+        # !pip install trl==0.11.4
+        # !pip install protobuf==6.31.0
+        # !pip install python-dotenv==1.1.0
+        # !pip install pandas_ta
+        # !pip install ollama==0.4.8
+        # !pip install accelerate==1.7.0
+        # !pip install ipywidgets
+        # !pip install pynvml==8.1.7
+        # !pip uninstall torch torchvision torchaudio -y
+        # !pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu124
+        # !pip install --upgrade setuptools
+        # !pip install torchdiffeq
+
+Hướng Dẫn Cài Đặt Các Công Cụ Hỗ Trợ cho Chương Trình:
+
+- cài OpenAi API key: Nếu muốn sử dụng OpenAi API key cho giai đoạn SUMMARIZE và EXPLAIN, tạo 1 file ".env" sau đó điền "OPENAI_API_KEY=sk-proj-AUWEYxT72....". Do không thể công khai API key lên github, nên bạn phải tự chuẩn bị API key
+
+- Cài Ollama để dùng DeepSeek-r1-14B: 
+    1. Truy cập https://ollama.com/download/linux
+    2. Cài đặt: Linux: "curl -fsSL https://ollama.com/install.sh | sh". Windows: "https://ollama.com/download/OllamaSetup.exe"
+    3. Tải DeepSeek-r1 14B về: ollama pull deepseek-r1:14b
+    4. Sau khi tải xong, có thể kiểm tra bằng: ollama run deepseek-r1:14b
+
+
+Chạy Chương trình:
+- Để tiếp kiệm thời gian chạy, một dữ liệu được tạo ra có thể được dùng chung giữa các file. 
+Nên những file thụt lề sâu hơn phải chạy sau. 
+Các file cùng cấp (cùng độ dài thụt lề) có thể chạy không theo trình tự.
+Các file khác thư mục với nhau cũng có thể chạy không theo trình tự.
+
+- Summarize_and_Prepare_data.ipynb 
+  (Các cells code trong này dùng để: Tóm tắt dữ liệu và tính toán chỉ báo kỹ thuật. Chia tập train và test
+   Khi chạy xong kết quả sẽ được lưu vào thư mục Data (dữ liệu dùng chung))
+
+    + Predict_with_tweets (Thư mục này chứa các file chạy với dữ liệu không có chỉ báo kỹ thuật)
+    [
+        - Exlain.ipynb 
+          (Tạo ra giải thích ban đầu (Explain) và tự suy luận (Self-Reflection).
+          Khi chạy xong sẽ tạo ra 2 file json '..merge..'  ở thư mục data và '..comparison..' ở thư mục datasets).
+            
+            - SEP.ipynb 
+              (sử dụng 2 file json '..merge..'  ở thư mục data và '..comparison..' để huấn luyện. Kết quả được trả ra ở 1 file csv)
+
+            - SEP_P.ipynb
+              (sử dụng 2 file json '..merge..'  ở thư mục data và '..comparison..' để huấn luyện. Kết quả được trả ra ở 1 file csv)
+                
+                - SEP_P_without.ipynb 
+                  (file này chạy sau do tận dụng lại các model đã được huấn luyện ở SEP và SEP_P đã lưu lại saved_models)
+
+            - Policy.ipynb
+              (huấn luyện model theo bài báo Policy-to-language)
+            
+    ]
+
+
+    + Predict_with_tweets_Tech_Indi (Thư mục này chứa các file chạy với dữ liệu đầy đủ, có chỉ báo kỹ thuật)
+    [
+        - Explain_technical_indicator.ipynb 
+          (Tạo ra giải thích ban đầu (Explain) và tự suy luận (Self-Reflection).
+          Khi chạy xong sẽ tạo ra 2 file json '..merge..'  ở thư mục data và '..comparison..' ở thư mục datasets).
+            
+            - SEP_technical_indicator.ipynb 
+              (sử dụng 2 file json '..merge..'  ở thư mục data và '..comparison..' để huấn luyện. Kết quả được trả ra ở 1 file csv)
+
+            - SEP_P_technical_indicator.ipynb
+              (sử dụng 2 file json '..merge..'  ở thư mục data và '..comparison..' để huấn luyện. Kết quả được trả ra ở 1 file csv)
+                
+                - SEP_P_ablation_technical_indicator.ipynb 
+                  (file này chạy sau do tận dụng lại các model đã được huấn luyện ở SEP và SEP_P đã lưu lại saved_models)
+
+            - Policy_technical_indicator.ipynb
+              (huấn luyện model theo bài báo Policy-to-language)
+            
+    ]
+
+
+
