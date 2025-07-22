@@ -1,6 +1,6 @@
-from UTILS.llm import OpenAILLM, DeepSeekLLM
-from UTILS.prompts import SUMMARIZE_INSTRUCTION
-from UTILS.fewshots import SUMMARIZE_EXAMPLES
+from UTIL.llm import OpenAILLM, DeepSeekLLM
+from UTIL.prompts import SUMMARIZE_INSTRUCTION
+from UTIL.fewshots import SUMMARIZE_EXAMPLES
 import tiktoken
 import re
 from openai import BadRequestError  # Thêm để bắt lỗi context
@@ -15,15 +15,15 @@ class Summarizer:
         if(self.llm_summarize == "DeepSeekLLM"):
             self.llm = DeepSeekLLM()
 
-        self.enc = tiktoken.encoding_for_model("gpt-3.5-turbo-16k")
+        # self.enc = tiktoken.encoding_for_model("gpt-3.5-turbo-16k")
 
     def get_summary(self, ticker, tweets):
         summary = None
         if tweets != []:
 
-            # # print("tweets len = ", len(tweets))
-            # if(len(tweets) > 175):
-            #     tweets = tweets[:175]
+            # print("tweets len = ", len(tweets))
+            if(len(tweets) > 175):
+                tweets = tweets[:175]
 
             print("tweets len = ", len(tweets))
             
@@ -39,13 +39,13 @@ class Summarizer:
                 summary = self.llm(prompt)
             else: # self.llm_summarize == "OpenAILLM"
                 print("self.llm_summarize == OpenAILLM")
-                print(len(self.enc.encode(prompt)))
-                while len(self.enc.encode(prompt)) > 16385:
-                    tweets = tweets[:-1]
-                    prompt = self.summarize_prompt.format(
-                                            ticker = ticker,
-                                            examples = self.summarize_examples,
-                                            tweets = "\n".join(tweets))
+                # print(len(self.enc.encode(prompt)))
+                # while len(self.enc.encode(prompt)) > 16385:
+                #     tweets = tweets[:-1]
+                #     prompt = self.summarize_prompt.format(
+                #                             ticker = ticker,
+                #                             examples = self.summarize_examples,
+                #                             tweets = "\n".join(tweets))
 
                 summary = self.llm(prompt)
         

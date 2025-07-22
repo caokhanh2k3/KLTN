@@ -54,6 +54,9 @@ class DataLoader:
             price_path = os.path.join(self.price_dir, file)
             ordered_price_data = np.flip(np.genfromtxt(price_path, dtype=str, skip_header=False), 0)
             ticker = file[:-4]
+            if(ticker != "AAPL"):
+                break
+
 
             tes_idx = round(len(ordered_price_data) * 0.8)
             end_idx = len(ordered_price_data)
@@ -77,6 +80,10 @@ class DataLoader:
                     seq_date_str = seq_date.strftime("%Y-%m-%d")
 
                     tweet_data = self.get_tweets(ticker, seq_date_str)
+
+                    # print("----------tweet_data----------------")
+                    # print(tweet_data)
+                    # print("\n\n\n\n\n")
 
                     summary = self.summarizer.get_summary(ticker, tweet_data)
 

@@ -1,5 +1,5 @@
 SUMMARIZE_INSTRUCTION = """Given a list of tweets, summarize all key facts regarding {ticker} stock.
-Here are some examples:
+Note: The following examples are provided for format reference only. Do NOT use any content from the examples in your summary.
 {examples}
 (END OF EXAMPLES)
 
