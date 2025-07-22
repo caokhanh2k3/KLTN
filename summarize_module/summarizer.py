@@ -1,6 +1,6 @@
-from utils.llm import OpenAILLM, DeepSeekLLM
-from utils.prompts import SUMMARIZE_INSTRUCTION
-from utils.fewshots import SUMMARIZE_EXAMPLES
+from UTILS.llm import OpenAILLM, DeepSeekLLM
+from UTILS.prompts import SUMMARIZE_INSTRUCTION
+from UTILS.fewshots import SUMMARIZE_EXAMPLES
 import tiktoken
 import re
 from openai import BadRequestError  # Thêm để bắt lỗi context

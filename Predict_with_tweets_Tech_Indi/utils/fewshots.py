@@ -122,3 +122,44 @@ Google spent heavily on cloud and YouTube, leading to an earnings miss.
 """
 
 
+
+PREDICT_EXAMPLES = """Facts: 
+2016-04-24
+Market anticipation increased ahead of Apple’s Q2 earnings, with analysts warning of weak iPhone demand and possible revenue decline.
+News outlets speculated that Apple might post its first year-over-year revenue drop in over a decade.
+
+2016-04-25
+Apple's stock dipped slightly as investors grew cautious.
+Reports emerged that Apple had reduced supplier orders, reinforcing expectations of lower iPhone sales.
+
+2016-04-26
+Apple reported its Q2 2016 earnings, missing both profit and revenue estimates.
+Apple's revenue for the quarter was $50.56 billion, falling short of the estimated $52 billion.
+The company's adjusted earnings per share (EPS) was $1.90, lower than the expected $2.00.
+This marks the first time in 13 years that Apple experienced a quarterly decline in revenue.
+iPhone sales experienced a decline for the first time since its debut in 2007.
+The company's guidance for the next quarter indicates expected sales of $41 billion to $43 billion.
+Apple's dividend yield increased to 2.3%.
+CEO Tim Cook attributed the challenges to strong macroeconomic headwinds, especially in China.
+Despite the earnings miss, Apple announced plans to raise its dividend and return $50 billion more to shareholders.
+Apple's stock price experienced a decline of around 4.8% in after-hours trading following the earnings report.
+
+Technical Indicators:
+SMA_5: 101.5  
+EMA_5: 102.2  
+MACD: 1.8  
+MACD_SIGNAL: 1.2  
+MACD_HIST: 0.6  
+RSI: 72  
+BB_UPPER: 110  
+BB_LOWER: 95  
+BB_MIDDLE: 102.5  
+OBV: 1,200,000,000  
+ADX: 35  
+DMP: 30  
+DMN: 15  
+
+Price Movement: Negative
+
+Explanation: Despite strong short-term momentum signals — such as a positive MACD histogram and a high RSI of 72 — the market reacted negatively due to fundamental weaknesses revealed in Apple’s Q2 2016 earnings. The high RSI suggested the stock was nearing overbought territory, increasing the likelihood of a correction. Although trend strength was confirmed by a strong ADX reading (35) and bullish directional indicators (DMP > DMN), technicals alone couldn’t overcome investor concerns about slowing iPhone sales, revenue miss, and weak guidance. The OBV, while strong, hinted that recent accumulation may have been driven by misplaced optimism ahead of earnings. The post-earnings sell-off reflected a classic divergence: technicals were bullish, but fundamentals turned bearish. Consequently, the stock fell nearly 5% in after-hours trading, underscoring how disappointing financials and weak outlook can quickly override technical momentum.
+"""
