@@ -71,6 +71,9 @@ class PredictAgent:
         self.finished = False
         self.scratchpad: str = ''
 
+    def get_target(seft):
+        return seft.target
+
 
 class PredictReflectAgent(PredictAgent):
     def __init__(self,
@@ -125,6 +128,9 @@ class PredictReflectAgent(PredictAgent):
     def run_n_shots(self, model, tokenizer, reward_model, num_shots=4, reset=True) -> None:
         self.llm = NShotLLM(model, tokenizer, reward_model, num_shots)
         PredictAgent.run(self, reset=reset)
+        
+    def get_target(seft):
+        return seft.target
 
 
 def format_reflections(reflections: List[str], header: str = REFLECTION_HEADER) -> str:
