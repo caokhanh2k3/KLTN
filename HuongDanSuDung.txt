@@ -5,7 +5,7 @@ Chạy Chương trình:
 - Các file cùng cấp (cùng độ dài thụt lề) có thể chạy không cần theo trình tự.
 - Các file khác thư mục với nhau cũng có thể chạy không cần theo trình tự.
 - khi mở 1 file .ipynb đọc các tiêu đề ở markdown chạy lần lượt từ trên xuống dưới. 
-- Đừng chọn "Run all". Nếu RAM GPU không đủ lớn thì có thể bị hết RAM khi chạy. Lúc này cần restart kernel, kiểm tra những cell code nào cần thiết thì chạy lại, những cell code nào đã chạy xong và lưu được kết quả rồi thì hãy bỏ qua.
+- Nếu RAM GPU không đủ lớn thì đừng chọn "Run all", điều đó có thể bị hết RAM khi chạy Out of memory do cị rò rỉ bộ nhớ ở những bước cell code trước. Nếu bị "Out of memory" hãy thực hiện "restart kernel", Bời vì tôi đã chia thành nhiều bước nhỏ khi thực hiện, mỗi bước sẽ lưu lại kết quả bằng các file csv, json hoặc lưu model. Nếu đã hoàn thành bước nào rồi thì có thể bỏ qua, chỉ run những cell code có liên quan đến bước kế tiếp
 
 
 Các file và thư mục:
@@ -28,11 +28,11 @@ Các file và thư mục:
                 - SEP_P_ablation.ipynb 
                   (file này chạy sau do tận dụng lại các model đã được huấn luyện ở SEP và SEP_P đã lưu lại saved_models)
 
-            - Policy.ipynb
-              (huấn luyện model theo bài báo Policy-to-language)
+          - Policy.ipynb
+            (huấn luyện model theo bài báo Policy-to-language)
 
-            - Policy_ablation.ipynb
-              (chạy policy nhưng cắt bỏ huấn luyện flow model)
+          - Policy_ablation.ipynb
+            (chạy policy nhưng cắt bỏ huấn luyện flow model)
             
     ]
 
@@ -52,11 +52,11 @@ Các file và thư mục:
                 - SEP_P_ablation_technical_indicator.ipynb 
                   (file này chạy sau do tận dụng lại các model đã được huấn luyện ở SEP_technical_indicator và SEP_P_technical_indicator đã lưu lại saved_models)
 
-            - Policy_technical_indicator.ipynb
-              (huấn luyện model theo bài báo Policy-to-language)
+          - Policy_technical_indicator.ipynb
+            (huấn luyện model theo bài báo Policy-to-language)
 
-            - Policy_ablation_technical_indicator.ipynb
-              (chạy policy nhưng cắt bỏ huấn luyện flow model)
+          - Policy_ablation_technical_indicator.ipynb
+            (chạy policy nhưng cắt bỏ huấn luyện flow model)
             
     ]
 

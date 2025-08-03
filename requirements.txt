@@ -1,0 +1,52 @@
+# System Requirements
+# - GPU with more than 24 GB of RAM
+# - Operating System: Linux or Windows
+# - Python version: >= 3.12.9
+
+# Required Python Packages
+torch==2.5.0
+torchvision==0.20.0
+torchaudio==2.5.0
+numpy==1.26.4
+openai==1.79.0
+tenacity==9.1.2
+tiktoken==0.9.0
+transformers==4.51.3
+pandas==2.2.3
+scikit-learn==1.6.1
+bitsandbytes==0.45.5
+datasets==3.6.0
+sentencepiece==0.2.0
+peft==0.15.2
+evaluate==0.4.3
+trl==0.11.4
+protobuf==6.31.0
+python-dotenv==1.1.0
+pandas_ta==0.3.14b0
+ollama==0.4.8
+accelerate==1.7.0
+ipywidgets==8.1.7
+pynvml==8.1.7
+setuptools>=70.0.0
+torchdiffeq==0.2.5
+
+# Optional: reinstall PyTorch with CUDA 12.4 (if needed)
+# pip uninstall torch torchvision torchaudio -y
+# pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu124
+
+# Additional Setup Instructions
+# 1. OpenAI API Key:
+#    If you want to use the OpenAI API for SUMMARIZE and EXPLAIN phases, 
+#    create a ".env" file in the project root and add:
+#        OPENAI_API_KEY=sk-proj-xxxxxxxxxxxxxxxx
+#    (I can not commit my API key to GitHub.)
+#
+# 2. Ollama (for DeepSeek-r1-14B):
+#    - Download from: https://ollama.com/download/linux
+#    - Installation:
+#        Linux:   curl -fsSL https://ollama.com/install.sh | sh
+#        Windows: https://ollama.com/download/OllamaSetup.exe
+#    - Pull DeepSeek-r1 14B:
+#        ollama pull deepseek-r1:14b
+#    - Test after download:
+#        ollama run deepseek-r1:14b
